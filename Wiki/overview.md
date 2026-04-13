@@ -17,20 +17,4 @@ The main scope of this file is to help people understand parts that they might h
 - Player driven economy & trading.
 - Long-term progression across wipes.
 
-## Quick navigation
-- [Beginner Guide](/beginner-guide)
-- [Progression & Levels](/progression-levels)
-- [Skills](/skills)
-- [Legendary Sets](/legendary-sets)
-- [Legendary Weapons](/legendary-weapons)
-- [Legendary Tools](/legendary-tools)
-- [World Events](/world-events)
-- [Deep Sea Rework](/deep-sea-rework)
-- [Best RP Method](/best-rp-method)
-- [Tackling Patrols](/tackling-patrols)
-- [Tackling Bradleys](/tackling-bradleys)
-- [Tackling Raiding](/tackling-raiding)
-- [Support Tickets](/support-tickets)
-…
-
 ATTENTION: This guide is community-made and constantly updated as the server evolves. Some mechanics may change over time.
