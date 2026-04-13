@@ -21,6 +21,7 @@ Use this page to submit content updates to the wiki through GitHub pull requests
 
 ## Quick Formatting Tips
 
+- You can find a helpful guide on markdown [here](https://www.markdownguide.org/cheat-sheet/)
 - Use one `# Title` at the top of each markdown page.
 - Use headings and bullet points to keep pages readable.
 - Keep content accurate and concise.
