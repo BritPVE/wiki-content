@@ -3,10 +3,24 @@
 Legendary Gear & Sets
 ## NEW ADDITION
 ## Leviathan Armor Set - Deep Sea Prototype
-Legendary armor that reduces incoming damage, pieces and absorption rates: Facemask(??), Chestplate(??), Hoodie(??), Gloves(??), Pants(??) and Boots(??), Full set bonus: 53% impact absorption.
+Legendary armor that reduces incoming damage, pieces and absorption rates: 
+1 piece : 33% absorption
+2 pieces : 36% absorption
+3 pieces : 38% absorption
+4 pieces : 41% absorption
+5 pieces : 44% absorption
+6 pieces : 46% absorption
+Full set bonus: 53% impact absorption.
 
 ## Impact Armor Set - Damage Mitigation
-Legendary armor that used to be the best in its field, pieces and absorption rates: Facemask(??), Chestplate(??), Hoodie(??), Gloves(??), Pants(??) and Boots(??), Full set bonus: 33% impact absorption.
+Legendary armor that used to be the best in its field, pieces and absorption rates: 
+1 piece : 13% absorption
+2 pieces : 16% absorption
+3 pieces : 18% absorption
+4 pieces : 21% absorption
+5 pieces : 24% absorption
+6 pieces : 26% absorption
+Full set bonus: 33% impact absorption.
 ## Dragon Thorn Armor Set - Vampiric Healer
 Legendary armor that heals you when dealing damage, pieces and vampiric healing; Facemask(1%), Hoodie(2%), Cloak(7%), Gloves(1%), Boots(1%) and Pants(0.5%), Full set bonus: 12.5% vampiric healing.
 ## Resource and Farming
