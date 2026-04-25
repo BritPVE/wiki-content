@@ -1,6 +1,6 @@
 # Best Beginner and Advanced RP Method
 
-## Best Beginner Rp Method (Updated)
+## Best Beginner Rp Method
 
 ## Requirements
 - 6x Advanced Triangle Planter Box III (Maximum you can place at all prestiges)
@@ -26,6 +26,7 @@ You don't need everything at once to start your RP Farm, the most necessary requ
 3. Use the Reaping Spade on the center planter of your 3x3 setup to harvest all crops instantly.
 4. Immediately replant the seeds and use Fertile Bone to skip growth.
 5. Repeat the process till night ends.
+
 ## Converting to RP
 1. After night is over, check cloth prices by using /pricecheck cloth.
 2. Move to the server that has the highest rates.
@@ -41,8 +42,10 @@ Buy them at a rate of 10/15 RP per, higher than that will not make you have any 
 - Scrap (100k to start is enough, but more scrap = more profit)
 
 ## How to get Scrap: 
+### Selling Plants
 - You can plant roses, sunflowers or orchids with the same method as above. 
 - Sell ​​your plants at the outpost for scrap; it doesn't matter which flower you sell, they are all worth the same. (10x Flower = 15 Scrap)
+### Buying Scrap from other players
 - Buy Scrap from other players with vending machines or in the /s market at the hub. 
  - This method yields the largest quantity of scrap, but the lowest profit. Only buy scrap at a price that allows you to make a profit. You can easily calculate that yourself but I'll give a example in the step-by-step method.
 
@@ -56,13 +59,14 @@ Buy them at a rate of 10/15 RP per, higher than that will not make you have any 
 - You can't use /pricecheck on sheet metal, so you need to look through all the worlds and raid worlds for the highest selling price!
 
 ## Advanced RP Method 2 - Tactical Gloves
-This is a method for starting the game and can be used from level 1 to achieve the maximum RP yield per scrap item, which equates to a profit of approximately 2400%. It is not intended for long-term use, as it takes too long even for a clan.
+This is a method for starting the game and can be used from level 1 to achieve the maximum RP yield per scrap, which equates to a profit of approximately 2400%. It is not intended for long-term use, as it takes too long even for a clan.
 
 ## Requirements:
 - Scrap (100 is enough to start)
-- Recycler (Monument or your own from /s)
+- Recycler (Monument! or your own from /s)
+   - Don't recylce at outpost or bandit camp!
 
-Tactical Gloves Method (step-by-step)
+## Tactical Gloves Method (step-by-step)
 - Buy Tactical Gloves from outpost. Best price is 20, worst price is around 80 Scrap.
   - You can only buy one Glove per click! Thats why it isn't good enough for a long-term use, because it's way to time consuming.
 - Recycle the glove and every component that u get out of it.
