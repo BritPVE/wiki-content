@@ -1,0 +1,1 @@
+A list of all images that the server uses. For example the different skill images are missing. It would be nice if the team could post the images inside this file. So every contributor has access to them.
