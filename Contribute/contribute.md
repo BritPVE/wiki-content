@@ -25,9 +25,8 @@ Use this page to submit content updates to the wiki through GitHub pull requests
 - Use one `# Title` at the top of each markdown page.
 - Use headings and bullet points to keep pages readable.
 - Keep content accurate and concise.
-- Youtube embeds can be added - `@[youtube](https://www.youtube.com/watch?v=dQw4w9WgXcQ){width=960 height=540}`
-or 
-`@[youtube](https://youtu.be/dQw4w9WgXcQ){width=80%}`
+- Youtube embeds can be added with pixel width, for example: `@[youtube](https://www.youtube.com/watch?v=dQw4w9WgXcQ){width=960 height=540}`
+- Or with percentage width: `@[youtube](https://youtu.be/dQw4w9WgXcQ){width=80%}`
 
 
-@[youtubelink](@[youtube](https://youtu.be/dQw4w9WgXcQ){width=80%})
+@[youtube](https://youtu.be/dQw4w9WgXcQ){width=80%}
