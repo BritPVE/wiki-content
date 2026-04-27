@@ -26,7 +26,7 @@ Use this page to submit content updates to the wiki through GitHub pull requests
 - Use headings and bullet points to keep pages readable.
 - Keep content accurate and concise.
 - Youtube embeds can be added with pixel width, for example: `@[youtube](https://www.youtube.com/watch?v=TUYqRMhPyTw&t){width=960 height=540}`
-- Or with percentage width: `@[youtube](https://youtu.be/TUYqRMhPyTw&t){width=80%}`
+- Or with percentage width: `@[youtube](https://youtu.be/TUYqRMhPyTw?si=1T556xEdjtE8LYPe){width=80%}`
 
 
-@[youtube](https://youtu.be/TUYqRMhPyTw&t){width=80%}
+@[youtube](https://youtu.be/TUYqRMhPyTw?si=1T556xEdjtE8LYPe){width=80%}
