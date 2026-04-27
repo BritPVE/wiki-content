@@ -129,8 +129,10 @@ This section is sorted into the most frequently used and "good to know" meals. A
   - You will also find the required ingredients, the effects the meal provides, and the duration of the meal's effects.
   - Every meal, other then Cheese, has a 15-second crafting time.
 
+**TIP:** You can extend the duration of meals by using the Slow Metabolism Skill in the Cooking Skill Tree.
+
 <details>
-  <summary>⏬<h3>MOST USED Meals</h3>⏫ </summary>
+  <summary>⏬<h3>MOST USED MEALS</h3>⏫ </summary>
 
   ### Farming & Quests
   ![](https://github.com/user-attachments/assets/6f728c76-c51a-42b4-a581-c9d9ba2e4556)
@@ -152,6 +154,11 @@ This section is sorted into the most frequently used and "good to know" meals. A
   ![](https://github.com/user-attachments/assets/98a1edff-99b6-43ae-bd2e-3b04db655f66)
 
   - Best meal for harvesting animals (bone fragments).
+
+---
+  ![](https://github.com/user-attachments/assets/a46989e9-3d32-4eb6-85e3-cbd599d95460)
+
+  - Best meal for tackling Bradley.
 </details>
 
 ---
