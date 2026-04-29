@@ -2,43 +2,43 @@
 
 ## Overview
 ## Skill Tree
-By using the command /st or clicking on the XP bar, when you are in your inventory, the skill tree overlay will open. 
-By clicking on "OVERVIEW" you see a description of all buttons & informations of the skill tree overlay.
+You can open the skill tree overlay by using the /st command or by clicking the XP bar while your inventory is open. 
+Clicking on **OVERVIEW** will show a description of all buttons and information within the overlay.
 
 <details>
   <summary>⏬<h3>OVERVIEW</h3>⏫</summary>
   
 ### In the top bar:
-  - You will see the different skill tree sections, you will always start in the mining skill tree if you open the overlay.
+  - You will see the different skill tree sections; by default, the overlay always opens to the Mining skill tree.
 
 ---
 ### On the left side:
-  - You will see on top the skill description of the effect you will recive for each level.
-  - Below you will see the following informations from top to buttom;
+  - At the top, you will see a description of the effects granted at each level.
+  - Below that, the following information is displayed (from top to bottom);
   - **Maximum Level**
-    - Shows you the maximum level you can gain of this skill.
+    - Displays the maximum level you can reach for this skill..
   - **Level Up Button**
     - With this button you level the selected skill.
   - **Respec Cost**
-    - Shows you the amount of scrap you need to set all skills of the selected section to zero, each time you use this option the scrap cost will increase.
+    - Displays the amount of Scrap required to reset all skills in the selected section. Note that the cost increases each time you use this option.
   - **Respec Button**
     - Set every skill of the selected section to zero.
   - **Rested XP Pool**
-    - Shows you the amount of XP that will be added extra by doing certain things like mining.
-    - As long as you have rested XP, you will see a blue XP number, when you for example mine stone.
+    - Displays the amount of bonus XP gained from specific activities, such as mining.
+    - As long as you have Rested XP, the experience points gained (e.g., from mining stone) will be displayed in blue.
   - **Current Level:**
-    - Shows you your current level.
+    - Displays you your current level.
   - **XP**
-    - Shows you your overall earned XP. The left number has the added rested XP pool and the right number is your current amount of XP.
+    - Displays your total earned XP. The left value includes the accumulated Rested XP pool, while the right value shows your current XP.
   - **Available Points**
     - Displays the amount of unused skill points you have left.
   - **Prestige Level**
-    - If you gained prestige, the prestige level will be displayed here.
+    - Displays your Prestige level once earned..
   - **Gain Prestige Button**
-    - If you reached LVL 100, you can choose to gain prestige with this button.
-    - If you click on the button, the benefits of the perstige will be displayed. In that overlay you will finaly choose to gain prestige or cancel it.
-    - If you gain prestige, be aware that your level will trop to zero and your skill points too.
-    - **TIP**: If you want to prestige, finish Quartermaster T4-5 quests but don't redeem them. You can redeem quest after you gained prestige and will quickly level up again.
+    - Once you reach Level 100, you can use this button to enter Prestige.
+    - Clicking the button will display the benefits of Prestige. In this overlay, you can then choose to either confirm or cancel the process.
+    - Please note: If you gain Prestige, your level and skill points will be reset to zero.
+    - **TIP**: Before you prestige, complete Quartermaster T4-5 quests but don't turn them in yet. You can redeem them immediately after prestiging to level up again quickly.
   - **Ultimate Settings**
     - Displays different options you can toggle on or off. For example here you can move your XP bar to another place.
   - **Buff Settings**
@@ -47,14 +47,14 @@ By clicking on "OVERVIEW" you see a description of all buttons & informations of
 ### In the middle of the overlay you will find:
   - The selected skill tree name.
   - How many skill points you've spended at this skill tree.
-  - How many skill points overall you've spended out of 999.
-  - The different skills that are availalbe in this skill tree.
-      - The first row of skills are unlocked by default, each other row will be unlocked after using at least 5 skill points. 
-      - If a skill tree has a ultimate skill, you will need at least 25 skill points to unlock the ultimate.
+  - Displays the total number of skill points spent out of 999.
+  - The various skills available within this skill tree.
+      - The first row of skills is unlocked by default; each subsequent row requires at least 5 skill points to be spent in the tree to unlock. 
+      - If a skill tree features an ultimate skill, you must spend at least 25 skill points to unlock it."
 ---
 ### On the right side:
   - Buff Information
-      - Here you will see the different skill buff informations. For example how much mining yield plus % you get from your skills.
+      - Displays active skill buff information, such as the total percentage bonus to mining yield.
 
 </details>
 
@@ -65,27 +65,27 @@ But there are is one nesessary skill to learn;
 ![](image/Combat/Maintenance.png)
 
 *You will find this skill in the combat skill tree*
-- This skill will prevent all damage to weapons, tools etc. if you level it up to level 5.
+- When fully leveled, this skill prevents all durability damage to weapons, tools, and other equipment.
 ---
 
 ## Recommended Early Skills
-The most recommended skills are those that help you level up faster so following the prior tab, we will be focussing on the Quartermaster tasks once again so, prioritize unlocking:
+The most recommended skills are those that accelerate your leveling process. Following the previous section, we will focus on Quartermaster tasks again, so prioritize unlocking the following:
 
 ### Mining section
-All skills under this tree are important, but the following skills of this section can be skipped or used later.
+"While all skills in this tree are valuable, the following can be skipped for now or unlocked later.
 <details>
   <summary>🔽 <h3>SKILLS TO SKIP</h3> 🔼</summary>
   
   ![](image/Mining/RobustPickaxe.png)
-  - No need for this skill if you just skill maintenance up.
+  - This skill is unnecessary if you have already leveled up Maintenance.
   ---
 
   ![](image/Mining/Refiner.png)
-  - It's a nice to have, but you don't need it. Also refined materials don't count toward the quartermaster tasks.
+  - It’s a 'nice-to-have' skill, but not essential. Keep in mind that refined materials do not count toward Quartermaster tasks.
   ---
 
   ![](image/Mining/StoneSenseUltimate.png)
-  - Can be unlocked later, not need in the early game for this ultimate.
+  - This ultimate can be unlocked later; it is not necessary during the early game.
 </details>
 
 ---
@@ -96,14 +96,14 @@ In this section almost all skills are important,the only once you should skip fo
   <summary>🔽 <h3>SKILLS TO SKIP</h3> 🔼</summary>
   
   ![](image/Woodcutting/Chimney.png)
-  - Charcole isn't importatend at this stage.
+  - Charcole isn't importatend in the early game.
   ---
 
   ![](image/Woodcutting/RobustAxe.png)
-  - No need for this skill if you just skill maintenance up.
+  - This skill is unnecessary if you have already leveled up Maintenance.
   ---
 </details>
-- TIP: Try to unlock the ultimate in this section as soon as possible, this will greatly improve your wood yield.
+- TIP: Try to unlock the ultimate in this section as soon as possible; it will greatly increase your wood yield.
 ---
 
 ## Mid-Game Skills
@@ -114,78 +114,79 @@ Once you start tackling Raids, Bradleys, and Helis, focus on the following skill
   <summary>🔽 <h3>MID GAME SKILLS</h3> 🔼</summary>
   
   ![](image/Combat/DrumMag.png)
-  - Fully unlocked, it increases magazine capacity by 50%.
+  - Max Level: Increases magazine capacity by 50%.
   ---
   **Raiding Section:**
   
   ![](image/Raiding/TrapEvader.png)
-  - To unlock the second row.
+  - Just to unlock the second row.
   ---
 
   ![](image/Raiding/BlastSuit.png)
-  - Prevents you from your own rockets and explosives.
+  - Prevents you from taking damage from your own rockets and explosives.
   ---
 
   ![](image/Raiding/ReliableExplosive.png)
-  - Your satchels will explode.
+  - Your satchel charges will now always explode.
   ---
 
   ![](image/Raiding/Demolition.png)
-  - Makes raiding quicker.
+  - Speeds up the raiding process.
   ---
 
   ![](image/Raiding/PressedExplosive.png)
-  - Makes raiding quicker.
+  - Speeds up the raiding process.
   ---
 
   ![](image/Raiding/RainHellfireUltimate.png)
-  - Destroys easy and medium bases with ease. Always good to start a raid with it. Be aware of SAM sites, the will shoot down your MLRS Strike, so destroy them first (if they are smoking, they are destroyed).
+  - Easily destroys easy and medium-tier bases. It’s always a great way to start a raid. However, watch out for SAM sites, as they will shoot down your MLRS strike—make sure to destroy them first (if they are smoking, they are disabled).
   ---
 </details>
 
-**TIP:** If you want to tackle raids its best if you get yourself a Brits Boom Stick, its a revolver that shoots rockets, if you want to focus on bradleys then get yourself an Ashmaker its a revolver that shoots HVs and lastly, if you want to do helicopters then get yourself an M2. You can find all legendary weapons [here](legendary-weapons.md).
+**TIP:** If you plan on raiding, the 'Brits Boom Stick' is your best option—a revolver that fires rockets. For taking down Bradleys, focus on getting the 'Ashmaker,' which shoots HV rockets. Lastly, for taking out helicopters, the M2 is the ideal choice. All of these legendary weapons can be found
+[here](legendary-weapons.md).
 
 ---
 ### Gaining Scrap/RP
-If you are starting to do your first harvest of hemp or other plants, keep in mind, that not only [legendary sets](legendary-sets.md) are necassery for a good harvest. There are also must have skills for this tasks. Here are the most important skills to unlock in the harvesting section:
+When starting your first harvest of hemp or other plants, keep in mind that[legendary sets](legendary-sets.md) aren't the only requirement for a high yield. There are also 'must-have' skills for these tasks. Here are the most important skills to unlock in the Harvesting section:
 
 <details>
   <summary>🔽 <h3>HARVESTING SKILLS</h3>🔼 </summary>
   
   ![](image/Harvesting/AmatureHarvester.png)
-  - Got skill and opends up the second row and gives you more yield of wild collectibles.
+  - Unlocks the second row and provides more resources when gathering wild collectibles.
   ---
 
   ![](image/Harvesting/HobbiestHarvester.png)
-  - Gives you more yield of wild collectibles. 
+  - Increases the yield from wild collectibles. 
   ---
 
   ![](image/Harvesting/AmatureFarmer.png)
-  - Gets you more yield out of your grown plants.
+  - Increases the yield from your **grown** crops.
   ---
 
   ![](image/Harvesting/ExpertHarvester.png)
-  - Gives you now the maximum yield for wild collectibles.
+  - Now grants the maximum yield from all wild collectibles.
   ---
 
   ![](image/Harvesting/ExpertFarmer.png)
-  - Now you have the maximum yield for your grown plants.
+  - You now receive the maximum yield from your grown plants.
   ---
 
   ![](image/Harvesting/BotanistUltimate.png)
-  - This is one of the best ultimates, because it lets you choose the gene yourself.
-  - Be aware only the next seed you are planting will have the set genes.
+  - This is one of the best ultimates because it allows you to manually choose the genes.
+  - Note that only the very next seed you plant will have the selected genes.
   ---
 </details>
 
-  - The rest of the skills in this skill tree are not really important. But if they fit your playstyle use them as you see fit.
+  - The remaining skills in this tree are not essential. However, feel free to unlock them if they suit your specific playstyle.
 
 
 ## Late-Game
 There isn’t much to say about late game, if you are here it means you already know your preferred playstyle so i am sure you will already have unlocked the skills you are more interested in, what i can suggest is to unlock the Crafting Tree as it helps you with the more demanding quests like Boom for the Boom God.
 
 ## List of all Skills
-Here you will find all the skills that are available on the server, sorted in sections.
+Here you will find all available skills on the server, organized into sections.
 
 <details>
   <summary>⬇️<h3>MINING</h3>⬆️</summary>
