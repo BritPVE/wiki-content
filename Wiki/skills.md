@@ -255,238 +255,401 @@ Here you will find all the skills that are available on the server, sorted in se
 <details>
   <summary>⬇️<h3>SKINNING</h3>⬆️</summary>
 
-  ![](https://github.com/user-attachments/assets/760f0d9d-e528-4961-baf5-ab075a47dbfc)
+  ![](image/Skinning/PrimalIdentityUltimate.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/403335d7-734c-4145-a379-4a715d6e9c3b)
+  ![](image/Skinning/AmatureSkinner.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/7cc506cf-4355-430d-a4d6-e9902595bc32)
+  ![](image/Skinning/AdeptSkinner.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/cc773812-791a-4c97-97c7-dfc594986da7)
+  ![](image/Skinning/ExpertSkinner.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/9929dd1d-3896-4243-8b43-0d5bb52fb8af)
+  ![](image/Skinning/InstantSkinner.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/295605c3-65da-43f4-a598-2262b143ad47)
+  ![](image/Skinning/RobustKnife.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/ca28359e-40b2-437a-912c-80ed0a6fb38f)
+  ![](image/Skinning/SteelKnife.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/af480137-0b37-4ba6-90f9-ba090b24918c)
+  ![](image/Skinning/SkilledHunter.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/93552356-f436-48ff-b6fb-c19edebafb13)
+  ![](image/Skinning/SkilledTracker.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/7276ce5b-9aec-43b8-9b52-d27b1df9d4d6)
+  ![](image/Skinning/SkinningLuck.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/e1d87e7a-9f9d-4dd7-b22e-fce11b261885)
+  ![](image/Skinning/SurvivalChef.png)
 </details>
 
 ---
 <details>
   <summary>⬇️<h3>HARVESTING</h3>⬆️</summary>
 
-  ![](https://github.com/user-attachments/assets/5241fef4-e78e-461f-b718-120956594a07)
+  ![](image/Harvesting/BotanistUltimate.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/a8e602f8-596b-4b6d-b66f-c4cb95cd898d)
+  ![](image/Harvesting/AmatureFarmer.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/9a0eb938-0d47-4e93-8581-21e6be97a1d9)
+  ![](image/Harvesting/ExpertFarmer.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/cb578493-0b61-48c5-984e-45b8a24ebcd8)
+  ![](image/Harvesting/AmatureHarvester.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/6358d7ed-9bae-472f-98d3-a532249a3727)
+  ![](image/Harvesting/HobbiestHarvester.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/633b63f5-0c2e-407a-a10d-551fcaf5ba6c)
+  ![](image/Harvesting/ExpertHarvester.png)
   
   ---
-  ![](https://github.com/user-attachments/assets/9a8e170c-b8e0-4e02-9095-5e417cfda1a7)
+  ![](image/Harvesting/BraidedLine.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/007256dd-6ab9-404a-b817-2f688809bdba)
+  ![](image/Harvesting/ExtraPockets.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/0237945b-b56d-4ab4-947f-859b18e5d398)
+  ![](image/Harvesting/Fisherman.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/65dc851d-e1af-4bfe-9021-3c6b27a4ca50)
+  ![](image/Harvesting/Ichthyologist.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/444b809e-3e97-4193-bf83-201613dbaebe)
+  ![](image/Harvesting/LuckyForager.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/a7ed5334-34f0-4a87-b27c-1c18392b58e6)
+  ![](image/Harvesting/ForagersIntuition.png)
 </details>
 
 ---
 <details>
   <summary>⬇️<h3>MEDICAL</h3>⬆️</summary>
 
-  ![](https://github.com/user-attachments/assets/a2fafa21-232c-4557-a809-27c7bf6a385b)
+  ![](image/Medical/MessiahUltimate.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/0c0444c6-b00b-4107-b294-1ebc4ddf13bd)
+  ![](image/Medical/AccidentEvasion.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/a88a81d9-2f57-4b43-9a4a-7edbae5b7cb8)
+  ![](image/Medical/PerfectBalance.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/9d9b9af2-1ab5-46fa-b1d8-c2e4353e3659)
+  ![](image/Medical/BandageExpert.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/5eb4d208-080e-4a94-9afd-f12fea63e449)
+  ![](image/Medical/BattleMedic.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/7baa0eee-7877-487d-84f9-1e1c4f742aa7)
+  ![](image/Medical/ExposedRadiation.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/5be3ac5c-6f72-4ea7-9bfe-8b1da270057f)
+  ![](image/Medical/RadiationExpert.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/2f426cda-7590-4a3e-9365-ef6beb0a96ef)
+  ![](image/Medical/FlameRetardant.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/70791727-f835-4477-8dfa-e10649edf3a3)
+  ![](image/Medical/RuggedUp.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/24562f98-df2a-47f3-9123-85c68f36ee0a)
+  ![](image/Medical/LeadLined.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/ab80650c-ac65-41bf-b7a3-73376e1caf78)
+  ![](image/Medical/Revitalization.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/7e9157f9-798a-4fe2-9ec2-60fedfc652f9)
+  ![](image/Medical/SecondWind.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/ad7a190d-b8ef-4076-b721-02c846512a63)
+  ![](image/Medical/FreshSpawn.png)
 </details>
 
 ---
 <details>
   <summary>⬇️<h3>COMBAT</h3>⬆️</summary>
 
-  ![](https://github.com/user-attachments/assets/9f4954e4-0edb-4211-8819-f462c884310a)
+  ![](image/Combat/VampiricTendenciesUltimate.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/1a53ba36-5128-4263-b674-0604294a2e4b)
+  ![](image/Combat/AnimalTamer.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/903a0e01-c49f-403b-963c-a7d7229180ba)
+  ![](image/Combat/DefenceResearch.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/9a74408e-0d92-4ef4-ac8c-93e66cca83d5)
+  ![](image/Combat/ScientificBreakthrough.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/6097c75a-be00-45f4-8f18-510d2d3f75a2)
+  ![](image/Combat/DrumMag.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/b04720d6-f34d-468e-95f7-9e04b0b3277d)
+  ![](image/Combat/Duelist.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/17f7a46a-5c81-4d0d-86c8-55503737b5a1)
+  ![](image/Combat/Maintenance.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/c5914cfc-c16d-47c8-af3e-9edc7ee03301)
+  ![](image/Combat/Resourceful.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/1a19d313-a398-4c9c-8bb7-d2c2fd72a0f0)
+  ![](image/Combat/Ricochet.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/0a2877e1-afab-4ee8-b7dc-e399108a0792)
+  ![](image/Combat/SixthSense.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/acf6b6fd-453f-4ba9-994d-402b8847c47f)
+  ![](image/Combat/SupersonicThrust.png)
 </details>
 
 ---
 <details>
   <summary>⬇️<h3>BUILD CRAFT</h3>⬆️</summary>
   
-  ![](https://github.com/user-attachments/assets/ec855c26-11c8-4669-a570-3b0ffac22c47)
+  ![](image/Build_Craft/AccessGrantedUltimate.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/20ce1848-d709-41c8-b46c-78088f32bd5b)
+  ![](image/Build_Craft/AmatureTinkerer.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/6baca0dc-5b3b-4801-ae0a-896259837697)
+  ![](image/Build_Craft/AdeptTinkerer.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/a59a04f9-d6a1-43a2-a4e5-e61c1fdb1faf)
+  ![](image/Build_Craft/ExpertTinkerer.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/14c6d0c1-49a8-440b-899a-00f14b6b217c)
+  ![](image/Build_Craft/ThriftyTinkerer.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/1d6f83b4-92d8-4968-9324-28a4cca69851)
+  ![](image/Build_Craft/ThriftyRenovator.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/3da2762f-6c08-4ac8-82d3-1ff535485b22)
+  ![](image/Build_Craft/ThriftyDuplicator.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/8195323e-e57f-4b1e-8a1b-16f9e765c336)
+  ![](image/Build_Craft/Blacksmith.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/04463c71-16ec-4db2-a335-ad3cf3d629d9)
+  ![](image/Build_Craft/BlastFurnance.png)
   
   ---
-  ![](https://github.com/user-attachments/assets/a31b8ca6-f18e-4471-9579-4d05ec04ff75)
+  ![](image/Build_Craft/MacGyver.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/1905b2e2-9c2f-4714-907e-adbbbebfae5e)
+  ![](image/Build_Craft/PrimitiveExpert.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/714cd0a8-161e-4bff-bf1f-07e0265d6a21)
+  ![](image/Build_Craft/QualityCrafter.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/7b5c83c5-2d09-4748-a8ea-0bfd60b93001)
+  ![](image/Build_Craft/Researcher.png)
 </details>
 
 ---
 <details>
-  <summary>⬇️<h3>BUILD CRAFT</h3>⬆️</summary>
+  <summary>⬇️<h3>SCAVENGING</h3>⬆️</summary>
 
-  ![](https://github.com/user-attachments/assets/5e4598d9-b8b3-430e-aa3d-30139b60c6cb)
-
-  ---
-  ![](https://github.com/user-attachments/assets/58605892-d380-4bac-97ad-f810bd1552f1)
+  ![](image/Scavenging/ShredderUltimate.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/66be5088-6840-4961-a481-7b4b2558e43b)
+  ![](image/Scavenging/OptimizedRecycling.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/8b907462-b279-492d-9ab3-6e84b19bdc52)
+  ![](image/Scavenging/EfficientRecycling.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/4b17c0f9-1626-448f-8f68-07452ecb4906)
+  ![](image/Scavenging/BarrelSmasher.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/7fdc2cf2-24ea-49d5-93ba-88b2ff6db5bb)
+  ![](image/Scavenging/ComponentSalvager.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/aacdb8b3-3018-4502-a3f9-6a1654bbe2e6)
+  ![](image/Scavenging/ElectronicsSalvager.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/152c7edf-bb46-4a0d-8ef3-6c2c32432876)
+  ![](image/Scavenging/ElectronicsLuck.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/e9bde2a1-15f6-470d-ba93-5e5e20b6456b)
+  ![](image/Scavenging/ComponentLuck.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/2e07761d-3466-4121-8f63-6a8869ec37fc)
+  ![](image/Scavenging/LootMagnet.png)
 
   ---
-  ![](https://github.com/user-attachments/assets/ada90a72-db77-4d14-beac-14d97d3a1919)
+  ![](image/Scavenging/Looter.png)
 
+  ---
+  ![](image/Scavenging/LuckDetective.png)
+
+  ---
+  ![](image/Scavenging/LuckyLooter.png)
+  
+  ---
+  ![](image/Scavenging/Digger.png)
+  
+  ---
+  ![](image/Scavenging/MagneticDigger.png)
 </details>
 
+<details>
+  <summary>⬇️<h3>VEHICLES</h3>⬆️</summary>
 
+  ![](image/Vehicles/TankUltimate.png)
+
+  ---
+  ![](image/Vehicles/AmatureRider.png)
+
+  ---
+  ![](image/Vehicles/AdeptRider.png)
+
+  ---
+  ![](image/Vehicles/ExpertRider.png)
+
+  ---
+  ![](image/Vehicles/EconomicalCaptain.png)
+
+  ---
+  ![](image/Vehicles/Yachtman.png)
+
+  ---
+  ![](image/Vehicles/EconomicalPilot.png)
+
+  ---
+  ![](image/Vehicles/JetEngine.png)
+
+  ---
+  ![](image/Vehicles/HybridPilot.png)
+
+  ---
+  ![](image/Vehicles/Airbags.png)
+
+  ---
+  ![](image/Vehicles/Mechanic.png)
+
+  ---
+  ![](image/Vehicles/Supercharged.png)
+</details>
+
+---
+<details>
+  <summary>⬇️<h3>COOKING</h3>⬆️</summary>
+
+  ![](image/Cooking/BurstOfEnergyUltimate.png)
+
+  ---
+  ![](image/Cooking/EasilySatisfied.png)
+
+  ---
+  ![](image/Cooking/FruggalRationer.png)
+
+  ---
+  ![](image/Cooking/FryCook.png)
+
+  ---
+  ![](image/Cooking/Glutton.png)
+
+  ---
+  ![](image/Cooking/IronStomach.png)
+
+  ---
+  ![](image/Cooking/KeenEye.png)
+
+  ---
+  ![](image/Cooking/MasterChef.png)
+
+  ---
+  ![](image/Cooking/Mixologist.png)
+
+  ---
+  ![](image/Cooking/SlowMetabolism.png)
+
+  ---
+  ![](image/Cooking/TeaConnoisseur.png)
+
+  ---
+  ![](image/Cooking/TeaParty.png)
+</details>
+
+---
+<details>
+  <summary>⬇️<h3>UNDERWATER</h3>⬆️</summary>
+
+  ![](image/Underwater/AquaticCombatant.png)
+
+  ---
+  ![](image/Underwater/CageDiver.png)
+
+  ---
+  ![](image/Underwater/RecklessDiver.png)
+
+  ---
+  ![](image/Underwater/Gilled.png)
+
+  ---
+  ![](image/Underwater/NimbleFingers.png)
+
+  ---
+  ![](image/Underwater/SharkVeterinarian.png)
+
+  ---
+  ![](image/Underwater/SonarPulse.png)
+
+  ---
+  ![](image/Underwater/TreasureHunter.png)
+</details>
+
+---
+<details>
+  <summary>⬇️<h3>RAIDING</h3>⬆️</summary>
+
+  ![](image/Raiding/RainHellfireUltimate.png)
+
+  ---
+  ![](image/Raiding/BlastSuit.png)
+
+  ---
+  ![](image/Raiding/Demolition.png)
+
+  ---
+  ![](image/Raiding/MineSweeper.png)
+
+  ---
+  ![](image/Raiding/Perceptive.png)
+
+  ---
+  ![](image/Raiding/PressedExplosive.png)
+
+  ---
+  ![](image/Raiding/ReliableExplosive.png)
+
+  ---
+  ![](image/Raiding/TrapEvader.png)
+</details>
+
+---
+<details>
+  <summary>⬇️<h3>TEAM</h3>⬆️</summary>
+
+  ![](image/Team/BrewedBonding.png)
+
+  ---
+  ![](image/Team/ComfortingAura.png)
+
+  ---
+  ![](image/Team/CraftmansAura.png)
+
+  ---
+  ![](image/Team/FeastFellows.png)
+
+  ---
+  ![](image/Team/Guidance.png)
+
+  ---
+  ![](image/Team/Medic.png)
+</details>
