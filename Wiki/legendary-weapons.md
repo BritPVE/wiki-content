@@ -38,9 +38,9 @@ Legendary Weapons are custom weapons unique to Brits PvE Worlds. Each weapon has
 | Plaguepiercer | **+500% damage against Scientists.** | Arrows | ![Plaguepiercer](/api/lookup/skins/2318551283/image) |
 | Ashmaker | Revolver that fires **HV Rockets**. | Pistol Ammo + HV Rockets | ![Ashmaker](/api/lookup/skins/3484754927/image) |
 | Brits Boom Stick | Revolver capable of launching Rockets. | 5.56 Rifle Ammo + Rockets | ![Brits Boom Stick](/api/lookup/skins/3435065995/image) |
-| Ace's Python | 50-round magazine, **+30% damage to Helis**, **+20% extra damage while wearing an Egg Suit.** | 5.56 Rifle Ammo | ![Ace's Python](/api/lookup/skins/93442569/image) |
+| Ace's Python | 50-round magazine, **+30% damage to Helis**, **+20% extra damage while wearing an Egg Suit.** | 5.56 Rifle Ammo | ![Ace's Python](/api/lookup/skins/2439353573/image) |
 | Cluster Clutch | Waterpipe Shotgun that launches **F1 Grenades**. | Shotgun Shells + F1 Grenades | ![Cluster Clutch](/api/lookup/skins/938442569/image) |
-| Brits Broken Eoka | **+500% damage against Patrol Helis.** | Shotgun Shells | ![Brits Broken Eoka]() |
+| Brits Broken Eoka | **+500% damage against Patrol Helis.** | Shotgun Shells | ![Brits Broken Eoka](/api/lookup/items/icon/-75944661) |
 | DoubleBoom | Double Barrel Shotgun that fires Rockets. | Shotgun Shells + Rockets | ![DoubleBoom](/api/lookup/skins/2935979924/image) |
 | Hydra's Stolen Wand | Fires **MLRS Rockets**. | MLRS Rockets | ![Hydra’s Stolen Wand]() |
 | Huff-N-Puff | Fires explosive darts capable of destroying Bradleys extremely quickly. | HV Rockets + Darts | ![Huff-N-Puff](/api/lookup/skins/-851288382/image) |
@@ -71,3 +71,4 @@ Check the **Item Drops** section of the wiki for the latest drop locations and l
 ## Continue Reading
 
 Continue with **Legendary Tools** to discover the custom tools that improve farming, gathering, and progression.
+These are all custom-made weapons.
