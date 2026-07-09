@@ -42,7 +42,7 @@ Legendary Weapons are custom weapons unique to Brits PvE Worlds. Each weapon has
 | Cluster Clutch | Waterpipe Shotgun that launches **F1 Grenades**. | Shotgun Shells + F1 Grenades | ![Cluster Clutch](/api/lookup/skins/938442569/image) |
 | Brits Broken Eoka | **+500% damage against Patrol Helis.** | Shotgun Shells | ![Brits Broken Eoka](/api/lookup/items/icon/-75944661) |
 | DoubleBoom | Double Barrel Shotgun that fires Rockets. | Shotgun Shells + Rockets | ![DoubleBoom](/api/lookup/skins/2935979924/image) |
-| Hydra's Stolen Wand | Fires **MLRS Rockets**. | MLRS Rockets | ![Hydra’s Stolen Wand]() |
+| Hydra's Stolen Wand | Fires **MLRS Rockets**. | MLRS Rockets | ![Hydra’s Stolen Wand](/api/lookup/skins/3645025353/image) |
 | Huff-N-Puff | Fires explosive darts capable of destroying Bradleys extremely quickly. | HV Rockets + Darts | ![Huff-N-Puff](/api/lookup/skins/-851288382/image) |
 | Kill Switch'lr | **+75% damage to Harbinger Drone Boss.** | 5.56 Rifle Ammo | ![THE KILLSWITCH'R](/api/lookup/skins/3628211488/image) |
 | Anti Material Sniper | **+10x damage against turrets.** | 5.56 Explo Ammo | ![Anti-Material Sniper](/api/lookup/skins/3688581631/image) |
