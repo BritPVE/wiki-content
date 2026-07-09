@@ -1,17 +1,48 @@
 # Deep Sea Rework
 
-Deep Sea is an early-game Tier 2 event. (All information as of April 21st, 2026)
+Deep Sea is a high-reward PvE event featuring multiple Cargo Ships protected by Cobalt forces. It offers some of the best loot on the server, including Leviathan Armor pieces, explosives, and batteries.
+
+## Quick Overview
+
+- **Recommended For:** Mid to End Game
+- **Difficulty:** ⭐⭐⭐⭐⭐
+- **Main Goal:** Clear Cargo Ships while surviving Cobalt patrols and automated defenses.
+
+---
 
 ## Overview
 
-The new Deep Sea event is a rework of the existing vanilla Deep Sea. The notable change from vanilla is the addition of cargo events.
+Deep Sea is a custom event that expands Rust's vanilla Cargo Ship into a much larger PvE encounter.
 
-- There are 5 cargo events on each Deep Sea reset which happens every 1.5-2 hours after it closes.  
-- The cargos are similar to the vanilla ones, but include turrets and more roaming bots.  
-- Because Deep Sea is a Tier 2 location, you need Tier 1 endgame gear (Impact set) to survive out there.
+> ⚠ Warning
+>
+> Deep Sea is currently one of the hardest PvE activities on the server.
+>
+> If you're new, consider mastering Patrol Helis and Bradleys before attempting it.
 
-## Cobalt Patrols
-Boats that are roaming around the deep sea. Usually consists of 5 bots. There are 2 types of patrol boats. Scientists have the same loot table as cargo. They are usually harmless if killed from a distance or when only one patrol is present.
+---
+
+### Features
+
+- 5 Cargo Ships spawn every Deep Sea cycle.
+- Cargo Ships continue respawning until approximately **1 hour** remains in the event.
+- Each Cargo Ship is defended by Cobalt Scientists, Patrol Boats, and numerous Auto Turrets.
+
+> 💡 **Recommendation**
+>
+> Leviathan or Impact Armor is highly recommended before attempting Deep Sea.
+
+---
+
+## Cobalt Patrol Boats
+
+Cobalt Patrol Boats roam throughout the Deep Sea, usually carrying groups of **five Scientists**.
+
+They are generally easy to defeat when engaged from long range or one patrol at a time.
+
+Scientists use the same loot table found on Cargo Ships.
+
+---
 
 ## Cobalt Cargo Ships
 
@@ -20,19 +51,25 @@ Boats that are roaming around the deep sea. Usually consists of 5 bots. There ar
 - There are 5 cargo ships per Deep Sea, but they have the ability to respawn until there is 1 hour of Deep Sea left.  
 - No one is completely sure how this works right now (other than devs of reworked deep sea), and it is subject to change.
 
-### Loot
+---
 
-- These cargos are populated with bots, turrets, and really good loot.  
-- You can usually get about a stack of C4/rockets from one cargo.  
-- Locked crates guarantee 1 battery.
-- There is a good chance to get a levi piece, like a glove, kilt, hoodie. Others are a bit more rare.
+### Cargo Rewards
 
+Each Cargo Ship offers excellent rewards, including:
+
+- Large amounts of Rockets and C4
+- Locked Crates
+- Guaranteed Battery from Locked Crates
+- Leviathan Armor Pieces
+- High-tier loot
+
+---
 
 ## Dangers of Cargos and How to Neutralize Them
 
 ### Bots
 
-- They are trivial to deal with and relatively weak (150 HP).  
+- They are trivial to deal with and relatively weak (600 HP).  
 - You can shoot them, explode them, or kill them by any other means that deal damage.  
 
 **Recommended approach:**
@@ -54,6 +91,10 @@ Boats that are roaming around the deep sea. Usually consists of 5 bots. There ar
 - Always have a medkit in hotbar/Helping hands
 - **Be wary about turrets in the top middle, as there could be more than 1 per time**
 
+> ⚠ These turrets deal significantly more damage than vanilla Auto Turrets.
+
+---
+
 ## Enemy Locations
 
 ### Bots
@@ -72,9 +113,23 @@ Boats that are roaming around the deep sea. Usually consists of 5 bots. There ar
     - In corridors  
     - At entrances to the bottom floor  
 
+---
+
 ## Tactics for Clearing
 
-### Tactic 1: Scaredy Cat
+### Strategy 1 — Safe Clear
+
+**Difficulty:** ⭐⭐☆☆☆
+
+**Recommended For**
+- First-time players
+- Solo players
+- Learning the event
+
+**Average Time**
+25–35 minutes
+
+---
 
 **Overview:**
 
@@ -120,7 +175,19 @@ Boats that are roaming around the deep sea. Usually consists of 5 bots. There ar
 
 ---
 
-### Tactic 2: Speedrunner
+### Strategy 2 — Speedrun
+
+**Difficulty:** ⭐⭐⭐⭐⭐
+
+**Recommended For**
+- Experienced players
+- Fast farming
+- Players familiar with turret spawns
+
+**Average Time**
+10–15 minutes
+
+---
 
 **Overview:**
 
@@ -164,3 +231,11 @@ Boats that are roaming around the deep sea. Usually consists of 5 bots. There ar
 6. Get into the command room and get onto the top, be careful of 2 turrets up there.  
 7. From the top, shoot all of the turrets on the metal crates you can see.  
 8. Turrets should be left only in hallways and front by now, just proceed with caution and finish remaining threats.
+
+---
+
+## Continue Reading
+
+Interested in the armor obtained from Deep Sea?
+
+Continue with **Legendary Sets** to learn more about Leviathan Armor and its unique defensive bonuses.

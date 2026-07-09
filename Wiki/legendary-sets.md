@@ -1,37 +1,128 @@
 # Legendary Sets
 
-Legendary Gear & Sets
-## NEW ADDITION
-## Leviathan Armor Set - Deep Sea Prototype
-Legendary armor that reduces incoming damage, pieces and absorption rates: 
-1 piece : 33% absorption
-2 pieces : 36% absorption
-3 pieces : 38% absorption
-4 pieces : 41% absorption
-5 pieces : 44% absorption
-6 pieces : 46% absorption
-Full set bonus: 53% impact absorption.
+Legendary Sets provide powerful bonuses that can significantly improve your performance, whether you're farming resources, tackling PvE events, or raiding.
 
-## Impact Armor Set - Damage Mitigation
-Legendary armor that used to be the best in its field, pieces and absorption rates: 
-1 piece : 13% absorption
-2 pieces : 16% absorption
-3 pieces : 18% absorption
-4 pieces : 21% absorption
-5 pieces : 24% absorption
-6 pieces : 26% absorption
-Full set bonus: 33% impact absorption.
-## Dragon Thorn Armor Set - Vampiric Healer
-Legendary armor that heals you when dealing damage, pieces and vampiric healing; Facemask(1%), Hoodie(2%), Cloak(7%), Gloves(1%), Boots(1%) and Pants(0.5%), Full set bonus: 12.5% vampiric healing.
-## Resource and Farming
-- Mining / Hunter / Lumberjack Sets - boosts resource yield.
-Hat(30%), Chest(35%) and Pants(35%) - Full set bonus: 100%
-- Farmer / Scavenger Sets - boosts farming efficiency
-Hat(10%), Chest(30%) and Pants(20%) - Full set bonus: 60%
-- Angler Set - boosts fishing/angling efficiency
-Hat(55%), Chest(75%) and Pants(70%) - Full set bonus: 200%
-## SPECIAL LEGENDARY GEAR
-Helping hands - Instantly revives you when downed with full HP and makes you immortal for 5s.
-TIP: You can do the underground tunnels to find most of the farming and resource sets while if you wish to know where to find the rest of the legendary sets you can head over to this link here, made by Medic.
+## Quick Overview
 
-P.S.: We still do not know the full changes on the impact / leviathan sets, we will get to know more after the town hall update, and i will update this guide following that.
+- **Recommended For:** Mid to End Game
+- **Main Goal:** Choose the right legendary set for your preferred playstyle.
+
+---
+
+## Combat Sets
+
+### Leviathan Armor
+
+The strongest defensive legendary armor currently available.
+
+**Best For**
+- Patrol Helis
+- Harbinger
+- Deep Sea
+- High-end PvE
+  
+## Full Set Bonus
+
+Provides approximately **53% Impact Absorption**.
+
+| Pieces Equipped | Impact Absorption |
+|----------------:|------------------:|
+| 1 | 33% |
+| 2 | 36% |
+| 3 | 38% |
+| 4 | 41% |
+| 5 | 44% |
+| 6 | 46% |
+| Full Set | **53%** |
+
+> 💡 **Tip**
+>
+> Leviathan is currently the strongest defensive armor set available and is considered a direct upgrade over the Impact Armor Set.
+
+---
+
+### Impact Armor
+
+A defensive legendary armor set focused on reducing incoming damage.
+
+**Best for**
+- Mid-game PvE
+- Patrol Helis
+- Bradley
+
+### Full Set Bonus
+
+Provides approximately **33% Impact Absoption**.
+
+| Pieces Equipped | Impact Absorption |
+|----------------:|------------------:|
+| 1 | 13% |
+| 2 | 16% |
+| 3 | 18% |
+| 4 | 21% |
+| 5 | 24% |
+| 6 | 26% |
+| Full Set | **33%** |
+
+---
+
+### Dragon Thorns Armor
+
+A Legendary armor set that restores health while dealing damage.
+
+**Best For**
+- Scientists
+- Long PvE fights
+- Solo players
+
+### Full Set Bonus
+
+Provides **12.5% Vampiric Healing**.
+
+| Piece | Bonus |
+|-------|------:|
+| Facemask | 1% |
+| Hoodie | 2% |
+| Cloak | 7% |
+| Gloves | 1% |
+| Boots | 1% |
+| Pants | 0.5% |
+
+---
+
+## Resource & Farming Sets
+
+These legendary sets are designed to maximize resource gathering and are highly recommended for Quartermaster tasks and RP farming.
+
+| Set | Best For | Full Set Bonus |
+|------|----------|---------------:|
+| **Mining Set** | Stone, Metal & Sulfur | +100% Ore Yield |
+| **Lumberjack Set** | Wood | +100% Wood Yield |
+| **Hunter Set** | Animals & Bone Fragments | +100% Yield |
+| **Farmer Set** | Crops | +60% Crop Yield |
+| **Scavenger Set** | Barrels & Road Farming | +60% Yield |
+| **Angler Set** | Fishing | +200% Fishing Efficiency |
+
+> 💡 **Tip**
+>
+> Most resource and farming sets can be obtained through the **Underground Tunnels**, making them relatively easy to acquire early in your progression.
+
+---
+
+## Special Legendary Gear
+
+### Helping Hands
+
+A unique legendary item that automatically revives you when downed.
+
+**Effect**
+- Instantly revives you with **full health**.
+- Grants **5 seconds of invulnerability** after reviving.
+  
+This makes Helping Hands one of the strongest survival items available, especially during difficult PvE encounters and boss fights.
+
+---
+
+## Continue Reading
+
+Now that you know which legendary sets best suit your playstyle, continue with **Legendary Weapons** to learn which weapons pair best with each set.

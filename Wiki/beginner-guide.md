@@ -1,43 +1,103 @@
 # Beginner Guide
 
-This section is custom-made so newbies can get the basics down and avoid feeling lost when they first join the server.
+Welcome to **Brits PvE Worlds**! This guide covers everything a new player needs to know to get started and avoid feeling lost during their first few minutes on the server.
 
-## First Steps (10–20 minutes)
+> **Fast Overview:**
+>
+> - **Estimated Time**: 10-20 minutes.
+> - **Difficulty:** ⭐☆☆☆☆
+> - **Main Goal:** Build your first base, complete the starter quests, and unlock your own Recycler.
 
-When you first join the server, you’ll either spawn in a world (1–8, or 9–10 for VIPs) or in the HUB.
+---
+
+## First Steps
+
+When you first join the server, you’ll either spawn in a world (**1–8**, or **9–10** for VIPs) or in the HUB.
 
 ### The HUB
 
-The HUB is the main meeting place. Here you can travel between worlds (1–10) and raid worlds (1–4).
+The HUB is the central meeting point of the server.
 
-- The main `/s` market is also located here. If you want to buy or sell things to other players, this is where you do it.
-- There are also trade windows in the HUB for **player-to-player** trades.
-- You can enter the HUB with the commands `/hub` or `/hub 1–3`.
+From here you can:
+- Travel to any World (1-10).
+- Access the Raid Worlds (1-4).
+- Use the main player market with **`/s`**.
+- Trade directly with other players using the trade windows.
+
+You can return to the HUB at any time using **`/hub`**.
+
+---
 
 ### Choose Your World
 
-Now you need to choose a world. All worlds use the same map, so the choice does not significantly affect gameplay. This is where you can build your main base.
+Select the world where you want to build your main base. All worlds use the same map, so your choice won't significantly affect gameplay.
 
-### Starter Quests
+---
 
-After joining a world, type `/q` or `/quest` to open the quest menu. Start by accepting the “Getting Started [1–3]” quests. These require collecting 5,000 stone, 5,000 wood, and 1,000 metal ore, and they reward you with early building materials, XP, and RP.
+### Complete the Starter Quests
 
-### Build Your Base
+Open the quest menu with **`/q`** or **`/quest`** and accept the following quests:
 
-After completing these starter quests, you should have enough materials to place a small starter base. Use `/sethome "name"` for quick and easy teleportation to your base. You do not need to worry about doors or locks, as only you and your teammates can access what you place—one less thing to worry about.
+- **Getting Started 1**.
+- **Getting Started 2**.
+- **Getting Started 3**.
 
-### Progressing
+These quests require you to collect:
 
-Once your base is down, continue progressing through quests. Open the quest menu again and accept “Virtual Oil Baron” and “Barrel Basher,” which require collecting 10 diesel and destroying 75 barrels, respectively.
+- 5,000 Stone.
+- 5,000 Wood.
+- 1,000 Metal Ore.
 
-After completing these quests, return to the quest menu and claim all the rewards. You should now have enough RP to purchase your own Recycler. This will be very useful later in the wipe; for now, you can use it to recycle unwanted items and unlock useful blueprints.
+Completing them rewards you with early building materials, XP, and RP.
 
-You can also use the command `/sell` to sell, for example, components to the server. This will reward you with enough RP to do other things like raiding.
+---
 
-This covers the basics for getting started. In the following pages, you’ll find more information on progression, different playstyles, and tips to help you choose the path that suits you best.
+### Build Your  First Base
 
-**TIP:** To get starter guns and explosives, you can join the raid islands by going to the HUB (`/hub`) and walking through the red portals named “Raid World 1–4.” Inside, you will find six different portals named “Brad 1–6.” Join any one of them and look on the ground—usually more experienced players leave behind items they do not need.
+After finishing the starter quests, you should have enough resources to place a small starter base.
 
-**TIP 2:** You can use **`/kit`** to get some starting materials like medical supplies, wood, stone, and more. If you link or authenticate your account on Discord, you will get access to additional kits.
+Use **`/sethome <name>`** to create a teleport point back to your base.
 
-**TIP 3:** With the command **`/info`**, you’ll get an overview of all commands, different activities, and more. This is a really helpful command that you should use.
+You don't need to worry about doors or locks, as only you and your teammates can access anything you place-one less thing to worry about.
+
+---
+
+### Continue Your Progressing
+
+Once your base is ready, return to the quest menu and accept:
+
+- **Virtual Oil Baron**.
+- **Barrel Basher**.
+
+These quests require:
+
+- Collecting **10 Diesel**.
+- Destroying **75 Yellow or Blue Barrels**.
+
+After completing them, don't forget to **claim your quest rewards**.
+
+You should now have enough RP to purchase your own **Recycler**, which will be extremely usefull throughout your wipe. Early on, you can use it to recycle unwanted items and unlock valuable blueprints.
+
+You can also use **`/sell`** to exchange valuable items, such as components, for additional RP.
+
+---
+
+## Beginner Tips
+
+> 💡 **Starter Kits**
+>
+> Use **`/kit`** to claim free starter resources such as medical supplies, wood, stone, and more. Linking or authenticating your account through Discord unlocks additional kits.
+
+> 💡 **Free Equipment**
+>
+> Looking for your first weapons or explosives? Visit the Raid Worlds by using **`/hub`**, then enter one of the red portals (**Raid World 1-4**). Inside you'll find six Bradley islands (**Brad 1-6**). Experienced players often leave behind unwanted gear that newer players can pick up. 
+
+> 💡 **Useful Commands**
+>
+> Use **`/info`** to view a list of server commands, activities, and other useful information.
+
+---
+
+## Continue Reading
+
+Once you've completed these steps, continue with **Progression & Levels** guide to learn the fastest ways to level up, unlock skills, and progress through the server.
