@@ -109,7 +109,7 @@ These are the commands every new player should know.
 | `/buyraid` | Purchase a Raid Base |
 | `/rb` | View Raid statistics |
 | `/mybike` | Buys a 20 RP bike to travel faster |
-| `/toolazytowalk` | same as stated above |
+| `/toolazytowalk` | Same as stated above |
 
 ### Dungeons
 
@@ -125,6 +125,7 @@ These are the commands every new player should know.
 |----------|-------------|
 | `/buy <vehicle>` | Purchase a vehicle |
 | `/spawn <vehicle>` | Spawn a purchased vehicle |
+| `/boatrecover` | Useful when your boat gets bugged / stuck, only works in deep sea |
 
 ---
 
