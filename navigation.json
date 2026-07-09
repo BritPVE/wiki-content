@@ -10,6 +10,7 @@
           "pages": [
             "overview",
             "beginner-guide",
+            "commands",
             "progression-levels",
             "skills",
             "quests"
@@ -46,6 +47,7 @@
         {
           "name": "Prestige",
           "pages": [
+            "prestige-perks",
             "auto-sell",
             "terminal"
           ]
