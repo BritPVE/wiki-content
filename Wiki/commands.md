@@ -108,6 +108,8 @@ These are the commands every new player should know.
 |----------|-------------|
 | `/buyraid` | Purchase a Raid Base |
 | `/rb` | View Raid statistics |
+| `/mybike` | Buys a 20 RP bike to travel faster |
+| `/toolazytowalk` | same as stated above |
 
 ### Dungeons
 
