@@ -40,6 +40,12 @@ Dungeons are procedurally generated PvE challenges filled with custom enemies, a
 5. Purchase a Dungeon using **Tape**.
 6. Once it spawns, interact with the entrance door (**E**) to enter.
 
+> ⚠ **Attention**
+>
+> In case you die while doing your dungeon run, do not worry, your body will be teleported outside of the dungeon door.
+>
+> You can then loot it up and go back in as normal.
+
 ---
 
 ## How dungeons Work
