@@ -81,6 +81,8 @@ You can safely skip the following until later:
 
 <details>
   <summary>Skills to unlock later</summary>
+
+  ---
   
   ![](../assets/Mining/RobustPickaxe.png)
   
@@ -112,6 +114,8 @@ You can leave these for later:
 
 <details>
   <summary>Skills to unlock later</summary>
+
+  ---
   
   ![](../assets/Woodcutting/Chimney.png)
 
@@ -143,6 +147,8 @@ If you're planning on taking on Patrol Helis, Bradleys, Raid Bases, or Dungeons,
 
 <details> 
   <summary>🔽 <h3>MID GAME SKILLS</h3> 🔼</summary>
+
+  ---
   
   ![](../assets/Combat/DrumMag.png)
   
@@ -208,6 +214,8 @@ These skills dramatically increase crop yields and work perfectly alongside the 
 
 <details>
   <summary>🔽 <h3>HARVESTING SKILLS</h3>🔼 </summary>
+
+  ---
   
   ![](../assets/Harvesting/AmatureHarvester.png)
 
@@ -268,6 +276,8 @@ Here you will find all available skills on the server, organized into sections.
 <details>
   <summary>⬇️<h3>MINING</h3>⬆️</summary>
 
+  ---
+
   ![](../assets/Mining/StoneSenseUltimate.png)
   
   ---
@@ -302,6 +312,8 @@ Here you will find all available skills on the server, organized into sections.
 <details>
   <summary>⬇️<h3>WOODCUTTING</h3>⬆️</summary>
 
+  ---
+
   ![](../assets/Woodcutting/DeforestationUlitmate.png)
 
   ---
@@ -332,6 +344,8 @@ Here you will find all available skills on the server, organized into sections.
 ---
 <details>
   <summary>⬇️<h3>SKINNING</h3>⬆️</summary>
+
+  ---
 
   ![](../assets/Skinning/PrimalIdentityUltimate.png)
 
@@ -369,6 +383,8 @@ Here you will find all available skills on the server, organized into sections.
 ---
 <details>
   <summary>⬇️<h3>HARVESTING</h3>⬆️</summary>
+
+  ---
 
   ![](../assets/Harvesting/BotanistUltimate.png)
 
@@ -409,6 +425,8 @@ Here you will find all available skills on the server, organized into sections.
 ---
 <details>
   <summary>⬇️<h3>MEDICAL</h3>⬆️</summary>
+
+  ---
 
   ![](../assets/Medical/MessiahUltimate.png)
 
@@ -453,6 +471,8 @@ Here you will find all available skills on the server, organized into sections.
 <details>
   <summary>⬇️<h3>COMBAT</h3>⬆️</summary>
 
+  ---
+
   ![](../assets/Combat/VampiricTendenciesUltimate.png)
 
   ---
@@ -489,6 +509,8 @@ Here you will find all available skills on the server, organized into sections.
 ---
 <details>
   <summary>⬇️<h3>BUILD CRAFT</h3>⬆️</summary>
+
+  ---
   
   ![](../assets/Build_Craft/AccessGrantedUltimate.png)
 
@@ -532,6 +554,8 @@ Here you will find all available skills on the server, organized into sections.
 ---
 <details>
   <summary>⬇️<h3>SCAVENGING</h3>⬆️</summary>
+
+  ---
 
   ![](../assets/Scavenging/ShredderUltimate.png)
 
@@ -578,6 +602,8 @@ Here you will find all available skills on the server, organized into sections.
 <details>
   <summary>⬇️<h3>VEHICLES</h3>⬆️</summary>
 
+  ---
+
   ![](../assets/Vehicles/TankUltimate.png)
 
   ---
@@ -617,6 +643,8 @@ Here you will find all available skills on the server, organized into sections.
 ---
 <details>
   <summary>⬇️<h3>COOKING</h3>⬆️</summary>
+
+  ---
 
   ![](../assets/Cooking/BurstOfEnergyUltimate.png)
 
@@ -658,6 +686,8 @@ Here you will find all available skills on the server, organized into sections.
 <details>
   <summary>⬇️<h3>UNDERWATER</h3>⬆️</summary>
 
+  ---
+
   ![](../assets/Underwater/AquaticCombatant.png)
 
   ---
@@ -686,6 +716,8 @@ Here you will find all available skills on the server, organized into sections.
 <details>
   <summary>⬇️<h3>RAIDING</h3>⬆️</summary>
 
+  ---
+
   ![](../assets/Raiding/RainHellfireUltimate.png)
 
   ---
@@ -713,6 +745,8 @@ Here you will find all available skills on the server, organized into sections.
 ---
 <details>
   <summary>⬇️<h3>TEAM</h3>⬆️</summary>
+
+  ---
 
   ![](../assets/Team/BrewedBonding.png)
 
