@@ -125,6 +125,7 @@ These are the commands every new player should know.
 |----------|-------------|
 | `/buy <vehicle>` | Purchase a vehicle |
 | `/spawn <vehicle>` | Spawn a purchased vehicle |
+| `/boatrecover` | Useful when your boat gets bugged / stuck, only works in deep sea |
 
 ---
 
