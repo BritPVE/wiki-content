@@ -71,3 +71,5 @@ Check the **Item Drops** section of the wiki for the latest drop locations and l
 ## Continue Reading
 
 Continue with **Legendary Tools** to discover the custom tools that improve farming, gathering, and progression.
+These are all custom-made weapons.
+
