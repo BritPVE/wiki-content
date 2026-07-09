@@ -5,7 +5,7 @@ Learn how the levelling system works, the fastest ways to gain XP, and how to pr
 ## Quick Overview
 
 - **Difficulty:** ⭐⭐☆☆☆
-- **Recinnebded Fir:** All Players.
+- **Recommended For:** All Players.
 - **Main Goal:** Reach higher levels efficiently and prepare for Prestige.
 
 ---
