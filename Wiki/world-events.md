@@ -1,34 +1,130 @@
 # World Events
 
-These are some of the world driven events
-## Radtown event
-Objective: Unlock a locked crate while fighting off NPCs.
-TIPS: Best for early game XP and loot farming.
+World Events are server-wide activities that offer unique rewards, RP, and combat challenges. Whether you're looking for loot, XP, or a difficult boss fight, there's an event for every stage of progression.
+
+## Quick Overview
+
+- **Recommended For:** All Players
+- **Main Goal:** Complete events to earn valuable loot, XP, and RP.
+
+| Event | Difficulty | Recommended For |
+|--------|:----------:|-----------------|
+| Radtown | ⭐☆☆☆☆ | Early Game |
+| Harbinger | ⭐⭐⭐⭐⭐ | End Game |
+| Harbor | ⭐⭐⭐⭐☆ | Mid–Late Game |
+| Zombie | ⭐⭐☆☆☆ | Casual / PvP Event |
+| Leaderboards | ⭐⭐⭐☆☆ | Competitive Players |
+
+---
+
+## Radtown Event
+
+One of the best early-game events for players looking to earn XP and loot.
+
+**Objective**
+- Unlock the Locked Crate while defending against waves of NPCs.
+
+> 💡 **Tip**
+>
+> This is an excellent event for newer players looking to gear up quickly.
+
+---
+
 ## Harbinger Event
-Boss: drone-like mechanical boss.
-Where: go to the /outpost you will find a portal next to the piano.
-Entry: requires 1M RP keycard.
-Strategy: Enter the deep cave to get cover from rockets and shoot it down with an M2.
-NOTES: Only one shot per key. If you die, you cannot re-enter, but your loot will remain outside. You can re-do the boss in about 30m. I also suggest you unlock the anti-fire skill on the healing /st, as the harbinger starts shooting rays of fire at one point.
+
+The Harbinger is one of the hardest PvE encounters on the server.
+
+**Entry Requirement**
+- Purchase a **Harbinger Keycard** for **1,000,000 RP**.
+- Enter through the portal next to the piano at **`/outpost`**.
+
+**Strategy**
+- Fight from inside the cave to protect yourself from rockets.
+- An **M2** or **Kill Switch'lr** is highly recommended.
+- Unlock the **Anti-Fire** skill in the Healing Skill Tree before attempting the fight.
+
+> ⚠ **Important**
+>
+> You only get **one attempt per keycard**. If you die, you cannot re-enter until you purchase another key.
+>
+> Don't worry—your loot will remain outside the arena.
+
+**Respawn**
+- Approximately every **30 minutes** (if defeated).
+- **5 minutes** if mission unsuccessful.
+
+---
+
 ## Harbor Event
-## Objectives
-- Kill scientists.
-- Destroy a bradley.
-- Take down a patrol heli.
-Reward: Loot crates upon completion.
+
+A multi-stage PvE event that rewards players with valuable loot.
+
+### Objectives
+
+1. Kill all scientists
+2. Destroy the Bradley.
+3. Defeat the Patrol Heli.
+
+Once all objectives have been completed, you'll be able to loot the reward crates.
+
+> 💡 **Tip**
+>
+> Bring plenty of ammunition. This event combines three different PvE encounters into one.
+> And remember to loot all bodies, they can have valuable loot inside of them.
+
+---
+
 ## Zombie Event
-Players are teleported to a dark room.
-Timer counts down until players can grab weapons to defend themselves.
-One player is chosen as the zombie, wielding only a fork.
-## Victory
-- Humans win: by killing all zombies or surviving as humans.
-- Zombies win: by killing all humans.
-Humans who die become zombies.
+
+A fun survival event where players fight to remain human.
+
+### How It Works
+
+- Players are teleproted into a dark arena.
+- A countdown begins before weapons become available.
+- One random player is selected as the **Zombie**, armed only with a fork.
+
+### Victory Conditions
+
+**Humans Win**
+- Kill every zombie.
+- Or survive until the event ends.
+
+**Zombie win**
+- Infect every human.
+
+Players killed by Zombies immediately become Zombies themselves.
+
+---
+
 ## Leaderboard Event
-Prize: In-Game perks or XP Bonuses.
-Info: this event has been modified to fit the global stage of the server, it now offers special perks and xp bonuses for those that place at the top of their respective leaderboards.
-## TIPS FOR EVENTS
-- Always scout the events before entering.
-- Bring appropriate gear and ammo for each stage.
-- Teaming up can make multi-stage events like harbor or zombie easier.
-- save keys (like harbinger) for when you are confident you can win.
+
+A seasonal competition that rewards the most active players.
+
+**Rewards**
+- Special server perks
+- XP bonuses
+- Exclusive leaderboard rewards
+
+> 💡 **Note**
+>
+> The Leaderboard system has been updated over time and now rewards players based on their performance in various server activities.
+
+---
+
+## Event Tips
+
+> 💡 **General Advice**
+>
+> - Scout an event before committing expensive gear.
+> - Bring enough ammunition and medical supplies.
+> - Teaming up can make longer events, such as Harbor, much easier.
+> - Save expensive keys, such as the Harbinger Keycard, until you're confident you can complete the event.
+
+---
+
+## Continue Reading
+
+Ready for tougher PvE content?
+
+Continue with **Tackling Patrol Helis** to learn how to defeat one of the server's most rewarding enemies.

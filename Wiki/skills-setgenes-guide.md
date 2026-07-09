@@ -1,39 +1,70 @@
 # /setgenes Guide
 
-The `/setgenes` command lets you choose the gene setup for a seed.
+The **`/setgenes`** command allows you to choose the exact gene combination for a seed, making farming much faster and more consistent.
 
-This is useful for setting up the exact genes you want while avoiding the issue of triggering the cooldown without getting the desired result.
+## Quick Overview
+
+- **Recommended For:** Players using the Harvesting Skill Tree.
+- **Main Goal:** Apply the exact gene combination you want without relying on random genetics.
+
+> 💡 **Tip**
+>
+> This command is especially useful when setting up large farms for the **Best RP Methods** covered elsewhere in the wiki.
+
+---
 
 ## Video Guide
 
 @[youtube](https://www.youtube.com/watch?v=LkRuThloZjs){width=960 height=540}
 
-## Important
+---
 
-Follow the steps below carefully. Using `/setgenes` without being ready, or not following the steps in order, may cause the cooldown to trigger without giving you the desired genes.
+## Before You Start
 
-You can check your `/setgenes` cooldown with `/cd`.
+Before using **`/setgenes`**, make sure you have:
 
-## How To Use /setgenes Successfully
+- A normal seed in your hotbar.
+- An available **`/setgenes`** cooldown.
 
-1. Have a **standard seed of any kind ready in your hotbar**.
-2. Type `/stfix` in chat.
-3. Type `/setgenes` in chat.
-4. A window will pop up showing the available gene structure options, as shown below.
+You can check your cooldown at any time using:
+
+**`/cd`**
+
+> ⚠ **Important**
+>
+> If the steps below are not followed in the correct order, the command may go on cooldown without applying your selected genes.
+
+---
+
+## Step-by-Step Guide
+
+1. Place a **normal seed** in your hotbar.
+2. Type **`/stfix`**.
+3. Type **`/setgenes`**.
+4. Select the desired gene combination from the menu.
 
 ![Plant Gene Structure menu](../assets/setgenes-gene-structure.png)
 
-5. Select the gene configuration you want.
-6. Click the **X** in the top-right corner to close the window.
-7. Plant **1 seed** in a planter box.
-8. Success — the planted seed should now have the selected genes.
+5. Close the menu using the **X** in the top-right corner.
+6. Plant **one seed** in a planter box.
+7. Your planted seed should now have the selected gene combination.
+
+---
 
 ## Troubleshooting
 
-If it does not work as expected:
+If the command doesn't work:
 
-- Make sure you have a standard seed ready in your hotbar.
-- Run `/stfix` before using `/setgenes`.
-- Make sure you selected the desired gene setup in the menu.
-- Close the menu with the **X** before planting.
-- Check `/cd` to see whether the command is still on cooldown.
+- Make sure you have a normal seed in your hotbar.
+- Run **`/stfix`** before using **`/setgenes`**.
+- Verify that you selected the correct gene combination.
+- Close the menu before planting the seed.
+- Check **`/cd`** to make sure the command isn't on cooldown.
+
+---
+
+## Continue Reading
+
+Interested in making the most of your crops?
+
+Continue with **Best RP Methods** to learn how to use perfect genes for large-scale farming and passive RP generation.

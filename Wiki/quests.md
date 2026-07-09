@@ -1,130 +1,274 @@
-# Quests & Events
+# Quests
 
-BritsPVE uses a custom quest system with progression paths from beginner objectives to end-game challenges.
+Brits PvE Worlds features a large collection of custom quests that reward players with **XP, RP, items, and progression materials**. Whether you're just starting out or looking for end-game challenges, there's always a quest suited to your current stage of the game.
 
-## Overview
+## Quick Overview
 
-Quests are grouped into categories based on playstyle and progression stage, with rewards such as RP, XP, items, and exclusive content.
+- **Recommended For:** All Players
+- **Main Goal:** Complete quests to earn XP, RP, resources, and unique rewards.
 
-## Quest Categories
+> 💡 **Tip**
+>
+> You can access your quest log at any time using **`/q`** or **`/quest`**.
 
-### Starter Quests
+---
 
-Beginner-friendly quests that teach core mechanics and help new players establish a base.
+## Quest Progression
 
-- **Rewards:** RP, XP, base-building items
-- **Useful items:** Any Axe, Any Pickaxe
-- **Current questlines (3):** Getting Started - 1, Getting Started - 2, Gettting Started - 3
+For the smoothest progression, we recommend completing quest categories in roughly this order:
 
-### Misc Quests
+1. Starter Quests
+2. Daily Quests
+3. Quartermaster Tasks
+4. RP Item Quests
+5. Raiding / Bradleys / Helis
+6. Dungeons
+7. Boom God
+8. Prestige Quests
 
-Specialized quests around quarries and exclusive legendary weapon progression.
+This isn't mandatory, but it provides one of the fastest progression paths for new players.
 
-- **Key rewards:** Quarry setup progression, Laginator
-- **Useful items:** Diesel Fuel, Duct Tape
-- **Current questlines (3):** Virtual Oil Baron, Oil Empire Begins, The Laginator
+---
 
-### Daily Quests
+# Quest Categories
 
-Repeatable daily objectives for consistent progression.
+## Starter Quests
 
-- **Rewards:** XP, RP, random useful items
-- **Useful items:** Tools, any weapon
-- **Current questlines (4):** Barrel Basher, The Final Extraction, Subway Siege, Elite Hacker
+Perfect for new players learning the server.
 
-### RP Items Quests
+**Rewards**
 
-Trade-focused quests that convert resources into XP and RP.
+- RP
+- XP
+- Building materials
 
-- **Rewards:** XP, RP
-- **Required items:** Duct Tape, Bleach, Batteries
-- **Current questlines (6):** Dumb ways to Die, Held Together with Duct Tape and String, Don't Drink it, Trade it!, Cleaning up the Streets, Power to the People, Power your Progression
+**Recommended Items**
 
-### Raiding Quests
+- Any Axe
+- Any Pickaxe
 
-Progressive raid-focused questline built around combat and base destruction.
+**Questlines**
 
-- **Rewards:** XP, RP, raiding materials, RP items
-- **Useful items:** Rocket Launchers, Explosives, Ashmaker, Brit's Boom Stick
-- **Current questlines (5):** Raid Rookie, Breach Bandit, Demolition Duty, Fortress Cracker, Siege Specialist
+- Getting Started 1
+- Getting Started 2
+- Getting Started 3
 
-### Quartermaster Tasks
+---
 
-Farming and gathering questline for dedicated resource players.
+## Daily Quests
 
-- **Rewards:** XP, RP, Teas, Super Serums
-- **Useful items:** Any Axe, Any Pickaxe, Brit's Broken Tools, Teas, Bear Pies, Cooking Recipes, Super Serums
-- **Current questlines (20):** Quartermaster - Wood T1-T5, Quartermaster - Stone T1-T5, Quartermaster - Metal T1-T5, Quartermaster - Sulfur T1-T5
+Repeatable quests that provide a steady source of XP, RP, and useful resources.
 
-### Boom God Quests
+**Rewards**
 
-High-level crafting progression focused on explosives.
+- XP
+- RP
+- Random useful items
 
-- **Rewards:** XP, RP, Legendary Heli Signal, Harbinger Boss Card
-- **Crafting materials:** Explosives, Gunpowder, Low Grade Fuel, Cloth, Pipes, Tech Trash
-- **Current questlines (4):** Boom for the Boom God, A Favor for a Friend..., Ignoring a Diety is ill-advised, Things Seem to Have Gotten... Out of Hand.
+**Questlines**
 
-### Dungeons Quests
+- Barrel Basher
+- The Final Extraction
+- Subway Siege
+- Elite Hacker
 
-Progressive PvE dungeon questline across difficulty tiers.
+---
 
-- **Rewards:** XP, RP, custom food, Duct Tape
-- **Useful items:** Rocket Launchers, HV Rockets, Ashmaker
-- **Current questlines (5):** Dungeon Crawler, Dungeon Crawler T2, Dungeon Crawler T3, Dungeon Crawler T4, Dungeon Crawler T5
+## Quartermaster Tasks
 
-### Bradleys Quests
+One of the fastest ways to level your character.
 
-Progressive Bradley APC questline for tank-combat progression.
+These quests revolve around gathering resources and become extremely efficient once you unlock the proper Skill Tree perks and Legendary Tools.
 
-- **Rewards:** XP, RP, extra Bradley Signals
-- **Useful items:** C4, Rocket Launchers, HV Rockets, Ashmaker, Huff-N-Puff, Brit's Golden AK, Chocolate Calzones
-- **Current questlines (4):** Brad Buster, Brad Buster T2, Brad Buster T3, Brad Buster T4
+**Rewards**
 
-### Levelling Quests
+- XP
+- RP
+- Teas
+- Super Serums
 
-Prestige-based long-term progression tied to skill tree advancement.
+**Recommended Items**
 
-- **Rewards:** Prestige rewards and progression bonuses
-- **Current questlines (10):** Obtain Prestige Level 1-10
+- Brits Broken Axe
+- Brits Broken Pickaxe
+- Lumberjack Set
+- Mining Set
+- Teas
+- Bear Pies
 
-### Exploration Quests
+**Questlines**
 
-Exploration-focused questline.
+- Wood T1-T5
+- Stone T1-T5
+- Metal T1-T5
+- Sulfur T1-T5
 
-- **Current questlines (1):** Deep Sea Settlement
+---
 
-### Fishing Quests
+## RP Item Quests
 
-Fishing-focused progression questline.
+Convert valuable resources into additional XP and RP.
 
-- **Current questlines (4):** Practice Makes Perfect, Practice makes Passible?, Practice makes Pretty Alright Actually, Practice, Perfection, Practical Application
+**Required Items**
 
-### Helis Quests
+- Duct Tape
+- Bleach
+- Batteries
 
-Helicopter-focused progression questline.
+**Questlines**
 
-- **Current questlines (5):** Cobalt Control, Cobalt Escalates, Cobalt Propaganda, Cobalt Occupation, Cobalt, a Reclamation
+- Dumb Ways to Die
+- Held Together with Duct Tape and String
+- Don't Drink It, Trade It!
+- Cleaning up the Streets
+- Power to the People
+- Power your Progression
 
-## Quick Reference
+---
 
-- **Starter:** New-player setup and basic progression
-- **Misc:** Quarry progression and Laginator path
-- **Daily:** Repeatable objectives for steady rewards
-- **RP Items:** Trade Duct Tape, Bleach, Batteries for XP/RP
-- **Raiding:** Progressive raid challenges
-- **Quartermaster:** Gathering and farming specialization
-- **Boom God:** End-game explosive crafting progression
-- **Dungeons:** PvE dungeon challenge ladder
-- **Bradleys:** APC/tank hunting progression
-- **Levelling:** Prestige and long-term advancement
-- **Exploration:** Exploration-specific questline
-- **Fishing:** Fishing progression questline
-- **Helis:** Helicopter progression questline
+## Miscellaneous Quests
 
-## Quest Progression Strategy
+Special quests focused on Virtual Quarries and unlocking unique content.
 
-1. Start with Starter Quests to build your foundation.
-2. Add Daily Quests to your regular routine.
-3. Focus on categories that match your playstyle.
-4. Progress naturally into higher-difficulty questlines.
-5. Combine overlapping objectives whenever possible.
+**Rewards**
+
+- Quarry progression
+- LAGINATOR progression
+
+**Questlines**
+
+- Virtual Oil Baron
+- Oil Empire Begins
+- The LAGINATOR
+
+---
+
+## Raiding Quests
+
+Progressive challenges centered around completing Raid Bases.
+
+**Rewards**
+
+- XP
+- RP
+- Explosives
+- Raid Materials
+
+**Recommended Items**
+
+- Rocket Launcher
+- Ashmaker
+- Brits Boom Stick
+
+---
+
+## Bradley Quests
+
+Progress through increasingly difficult Bradley challenges.
+
+**Rewards**
+
+- XP
+- RP
+- Bradley Signals
+
+**Recommended Items**
+
+- Ashmaker
+- Huff-N-Puff
+- Brits Golden AK
+
+---
+
+## Helicopter Quests
+
+Progressive Patrol Heli challenges.
+
+**Rewards**
+
+- XP
+- RP
+
+**Questlines**
+
+- Cobalt Control
+- Cobalt Escalates
+- Cobalt Propaganda
+- Cobalt Occupation
+- Cobalt, a Reclamation
+
+---
+
+## Dungeon Quests
+
+Dungeon progression through multiple difficulty tiers.
+
+**Rewards**
+
+- XP
+- RP
+- Duct Tape
+- Custom Food
+
+**Recommended Items**
+
+- Ashmaker
+- Rocket Launcher
+- HV Rockets
+
+---
+
+## Boom God Quests
+
+Late-game crafting quests centered around explosives.
+
+**Rewards**
+
+- XP
+- RP
+- Legendary Heli Signal
+- Harbinger Key Card
+
+---
+
+## Exploration Quests
+
+Explore custom content across the server.
+
+**Questline**
+
+- Deep Sea Settlement
+
+---
+
+## Fishing Quests
+
+Progress your fishing skills while earning useful rewards.
+
+---
+
+## Prestige Quests
+
+Long-term progression unlocked by reaching Prestige levels.
+
+Completing these quests rewards you as you progress from **Prestige 1** through **Prestige 10**.
+
+---
+
+## Tips
+
+> 💡 **Quest Stacking**
+>
+> Try to complete multiple quests at the same time. For example, while completing Quartermaster Tasks, you can also work on Daily Quests and various gathering objectives.
+
+> 💡 **Focus on XP**
+>
+> If your goal is to level quickly, Quartermaster Tasks remain one of the fastest XP sources on the server.
+
+---
+
+## Continue Reading
+
+Want to level up even faster?
+
+Continue with **Progression & Levels** to learn the fastest leveling strategies and which skills to unlock first.

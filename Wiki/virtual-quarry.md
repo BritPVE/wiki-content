@@ -1,34 +1,41 @@
 # Virtual Quarries
 
-Virtual Quarries (VQs) are one of the core passive-income systems on BritsPVE, letting you generate resources while offline or AFK.
+Virtual Quarries are one of the best passive resource systems on Brits PvE Worlds, allowing you to generate resources while you're offline or away from your base.
 
-## Overview
+## Quick Overview
 
-Virtual Quarries generate resources continuously and can be upgraded to Level 6.
+- **Recommended For:** Early to End Game
+- **Main Goal:** Generate passive resources with minimal maintenance.
 
-Three quarry types are available:
+| Quarry | Produces | Best For |
+|--------|----------|----------|
+| Mining Quarry | HQM, Metal Ore, Sulfur Ore | Resource Farming |
+| Pump Jack | Crude Oil | Fuel Production |
+| Wood Generator | Wood | Building & Smelting |
 
-- Mining Quarry (ore-focused)
-- Pump Jack (crude oil)
-- Wood Generator (wood)
+---
 
-### Getting Started
+## Getting Started
 
-1. Type `/s` to open the shop.
-2. Buy Survey Charges.
-3. Buy your desired quarry type.
-4. Type `/qr` to open the Virtual Quarry interface.
-5. Use Survey Charges to find strong nodes.
-6. Place your quarry.
-7. Keep it fueled with oil barrels.
+1. Open the Shop using **`/s`**.
+2. Purchase **Survey Charges**.
+3. Buy the Virtual Quarry you want.
+4. Open the Virtual Quarry menu with **`/qr`**.
+5. Find a strong Survey Node.
+6. Place your Quarry.
+7. Keep it supplied with **Oil Barrels**.
 
-> Fuel requirement: all quarries consume oil barrels.
+> 💡 **Important**
+>
+> Every Virtual Quarry consumes **Oil Barrels** as fuel while operating.
+
+---
 
 ## Quarry Types
 
 ### Mining Quarry
 
-Generates High Quality Metal (HQM), Metal Ore, and Sulfur Ore.
+The Mining Quarry produces the three most valuable ores in the game, making it the best long-term choice for most players.
 
 **Maximum output (Level 6, 8.5x):**
 
@@ -58,9 +65,11 @@ Generates High Quality Metal (HQM), Metal Ore, and Sulfur Ore.
 | 5 | 3,000 HQM + 7 Bleach + 3 Quarries |
 | 6 | 5,000 HQM + 5 Batteries + 3 Quarries |
 
+---
+
 ### Pump Jack
 
-Generates Crude Oil and has the highest max multiplier.
+The Pump Jack produces Crude Oil, allowing you to fuel your other Virtual Quarries and create a self-sustaining resource loop.
 
 **Maximum output (Level 6, 8.5x):**
 
@@ -88,9 +97,11 @@ Generates Crude Oil and has the highest max multiplier.
 | 5 | 3,000 HQM + 2 Batteries + 3 Pumpjacks |
 | 6 | 5,000 HQM + 5 Batteries + 3 Pumpjacks |
 
+---
+
 ### Wood Generator
 
-Produces large amounts of wood.
+The Wood Generator provides a constant supply of Wood, making it ideal for furnaces, construction, and large-scale smelting.
 
 **Maximum output (Level 6, 5x):**
 
@@ -118,13 +129,17 @@ Produces large amounts of wood.
 | 5 | 1,000 HQM + 50 Metal Blades + 5 Bleach + 20 Chainsaws |
 | 6 | 5,000 HQM + 60 Metal Blades + 5 Batteries + 20 Chainsaws |
 
-## Upgrade Strategy
+---
+
+## Recommended Progression
 
 ### Progression Tips
 
 - **Early game:** Start with a Pump Jack to create a self-fueling loop.
 - **Mid game:** Add Mining Quarries and push to Level 3-4.
 - **Late game:** Max all quarry types and farm Batteries for final upgrades.
+
+---
 
 ### Resource Path vs RP Path
 
@@ -140,6 +155,8 @@ Use **RP** when:
 - You need to preserve crafting materials
 - You are late game
 
+---
+
 ## Output Comparison (Level 6)
 
 | Type | Per Minute | Per Hour |
@@ -152,14 +169,21 @@ Use **RP** when:
 
 > Multiplier note: Mining Quarry and Pump Jack both reach 8.5x at Level 6.
 
-## Quick Reference
+---
 
-- Access quarries with `/qr`
-- Buy quarry items and Survey Charges via `/s`
-- All quarries require oil barrel fuel
-- Survey nodes before placement
-- Start with Pump Jack for fuel economy
-- Max level is 6
-- Multipliers: Mining (8.5x), Pump Jack (8.5x), Wood (5x)
-- Upgrades can be paid with resources or RP
-- Batteries are needed for end-tier upgrades
+> 💡 **Quick Reference**
+>
+> - Open the Quarry menu with **`/qr`**
+> - Purchase Quarries and Survey Charges through **`/s`**
+> - All Quarries require **Oil Barrels** as fuel
+> - Survey Nodes before placing a Quarry
+> - Pump Jacks are ideal for self-fueling setups
+> - Maximum Quarry Level: **6**
+
+---
+
+## Continue Reading
+
+Looking to maximize your passive income?
+
+Continue with **Item Bank & Auto-Sell** to learn how to automate your resource sales and earn RP even while offline.

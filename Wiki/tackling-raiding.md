@@ -1,27 +1,103 @@
 # Tackling Raiding
 
-## Overview
-Raiding is done inside of the Raid worlds, where you can purchase pre-build bases of different difficulties and destroy them for loot.
+Raiding is one of the most rewarding activities on Brits PvE Worlds. By purchasing pre-built raid bases, you can earn valuable loot and large amount of RP while testing your raiding skills.
 
-## How to start raiding
-1. Use /hub.
-2. Enter one of the 4 red portals to access the Raid Worlds.
-3. Use /buyraid to purchase a raidable base.
-## RAID DIFFICULTIES
-- Easy: Wood base (Low raid cost).
-- Medium: Metal base (medium raid cost).
-- Hard / Nightmare: HQM base (high raid cost).
+## Quick Overview
 
-## Requirements
-Before tackling the raiding features, I highly suggest unlocking the entire raiding skill tree in the /st, also bring enough rockets/C4s for the chosen difficulty, the bases have timers and will despawn.
+- **Recommended For:** Mid to End Game
+- **Difficulty:** ⭐⭐⭐☆☆
+- **Main Goal:** Complete raid bases efficiently while maximizing your profit.
 
-## Important Tips
-- Raid bases contain many traps, move carefully and clear slowly.
-- If you die, retaking your gear can be difficult due to trap placement.
-- Just like the bradley islands, you can switch raid world to reset the
- raiding cooldowns.
+---
 
-## Highly recommended
-I highly recommend to take with you a Brits Boom Stick and an Ashmaker, those will be essential for the harder difficulties and will help you clean them out faster. Overall raiding is the second best money making method after farming, it only requires 20.000 RP to generate one Nightmare Raid but you are able to earn around 300.000 RP per raid.
+## Recommended Gear
 
-PS: Remember to shoot down the SAM Sites before you use your /strike ultimate on the base, once smoke comes out it means they are down.
+### Essential
+
+- Plenty of Rockets or C4
+- Full Raiding Skill Tree (**`/st`**)
+
+### Highly Recommended
+
+- **Brits Boom Stick**
+- **Ashmaker**
+
+> 💡 **Tip**
+>
+> Legendary launchers greatly reduce the time needed to complete harder raid bases and make clearing them much safer.
+
+---
+
+## Starting a Raid
+
+1. Use **`/hub`**.
+2. Enter one of the red portals leading to **Raid World 1–4**.
+3. Use **`/buyraid`** to purchase a raid base.
+
+---
+
+## Raid Difficulties
+
+| Difficulty | Base Material | Recommended For |
+|------------|---------------|-----------------|
+| **Easy** | Wood | New Players |
+| **Medium** | Metal | Mid Game |
+| **Hard** | HQM | Experienced Players |
+| **Nightmare** | HQM | End Game |
+
+Higher Difficulties require significantly more explosives but offer much better rewards.
+
+---
+
+## Combat Strategy
+
+Before attempting harder raid bases, make sure you've fully unlocked the **Raiding Skill Tree** through **`/st`**.
+
+While clearing a raid:
+
+- Move slowly and check every room.
+- Watch out for hidden traps.
+- Bring enough explosives to finish before the raid timer expires.
+- If you die, recovering your gear can be difficult due to trap placement.
+
+> ⚠ **Important**
+>
+> Raid bases are timed. If you don't finish them before the timer expires, the base will despawn.
+
+---
+
+## Strike Ultimate
+
+If you're using the **Rain Hellfire** ultimate from the Raiding Skill Tree:
+
+> ⚠ **Important**
+>
+> Always destroy the **SAM Sites** before activating **`/strike`**.
+>
+> Once smoke starts coming from the SAM Sites, they're disabled and your MLRS strike can safely hit the base.
+
+---
+
+## Profit Potential
+
+Raiding is currently one of the best RP-making activities on the server.
+
+A **Nightmare Raid** costs appoximately **20,000 RP** to purchase but can reward **around 100,000 RP** upon completion, making it one of the highest-profit PvE activities available.
+
+---
+
+## Cooldowns
+
+Raid cooldowns are tracked separately for each Raid World.
+
+> 💡 **Tip**
+>
+> Just like Bradley Islands, you can switch between **Raid Worlds 1–4** to continue raiding without waiting for your cooldown to expire.
+
+---
+
+## Continue Reading
+
+Looking for assistance or need to report a bug during a raid?
+
+Continue with **Support Tickets to learn when and how to contact the staff.

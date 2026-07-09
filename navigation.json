@@ -6,55 +6,61 @@
       "slug": "wiki",
       "categories": [
         {
-          "name": "Start Here",
+          "name": "Getting Started",
           "pages": [
             "overview",
-            "suggestion-and-ideas"
-          ]
-        },
-        {
-          "name": "Guides",
-          "pages": [
             "beginner-guide",
-            "best-rp-method",
-            "deep-sea-rework",
-            "food-and-meal-system",
             "progression-levels",
-            "support-tickets",
-            "virtual-quarry"
+            "skills",
+            "quests"
           ]
         },
         {
-          "name": "Quests & Events",
+          "name": "Gameplay Guides",
           "pages": [
-            "quests",
-            "tackling-bradleys",
+            "best-rp-methods",
+            "virtual-quarry",
+            "food-and-meal-system",
+            "deep-sea",
+            "dungeon-guide"
+          ]
+        },
+        {
+          "name": "Combat",
+          "pages": [
             "tackling-helis",
+            "tackling-bradleys",
             "tackling-raiding",
             "world-events"
           ]
         },
         {
-          "name": "Skill Tree (/st)",
+          "name": "Items & Equipment",
           "pages": [
-            "skills-setgenes-guide",
-            "skills"
+            "legendary-weapons",
+            "legendary-tools",
+            "legendary-sets",
+            "armor-inserts"
           ]
         },
         {
-          "name": "Prestige Perks",
+          "name": "Prestige",
           "pages": [
             "auto-sell",
             "terminal"
           ]
         },
         {
-          "name": "Custom Items",
+          "name": "Farming",
           "pages": [
-            "armor-inserts",
-            "legendary-sets",
-            "legendary-tools",
-            "legendary-weapons"
+            "skills-setgenes-guide"
+          ]
+        },
+        {
+          "name": "Community",
+          "pages": [
+            "support-tickets",
+            "suggestion-and-ideas"
           ]
         }
       ]

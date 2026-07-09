@@ -1,29 +1,50 @@
 # Terminal
 
 ![](../assets/Terminal/header.png)
-The Terminal is a powerful and interactive tool that allows players to manage all of their base resources from a single location. Rather than being a simple menu or on-screen button, it functions as a fully placeable item that can be installed inside your base, creating a much more immersive and engaging experience.
 
-Its versatility makes it useful for a wide range of applications, whether you're simply organizing and monitoring your resources or designing an entire automated resource production system centered around the Terminal itself. With plenty of functionality and customization options, it can become a key part of any player's base setup.
+The Terminal is a placeable prestige item that allows you to centralize your base's storage, automate production, and manage resources from a single interface.
 
-Let's take a closer look at what it can do.
+Whether you're organizing your loot or building a fully automated factory, the Terminal is one of the most powerful utilities available on Brits PvE Worlds.
 
-## Obtaining The Terminal
-The Terminal can be obtained by selecting this as a Prestige Perk only within the server.
+## Quick Overview
 
-Once you have selected the reward for your Prestige Perk you can then obtain the Terminal by utilizing either "/kit" or by purchasing the item via "/s" and locating it under the Prestige category on the Stock Market.
+- **Requirement:** Unlock the **Terminal Prestige Perk**
+- **Recommended For:** Mid to End Game
+- **Main Goal:** Centralize storage and automate resource management.
+
+| Mode | Best For |
+|------|----------|
+| **Wireless Mode** | Access nearby storage containers through a single interface. |
+| **Cell Mode** | Massive long-term storage using Storage Cells. |
+
+---
+
+## Obtaining the Terminal
+
+The Terminal is unlocked by selecting the **Terminal Prestige Perk**.
+
+Once unlocked, you can obtain it by either:
+
+- Using **`/kit`**
+- Purchasing it through **`/s` → Prestige**
+
+---
 
 ## Features and Usage
 The Terminal is designed to give players complete control over their base operations through a single, easy-to-use interface. Monitor resource levels, manage connected systems, automate production workflows, and streamline day-to-day base management without constantly moving between storage containers and machines.
 
 Whether you're a casual player looking for a more organized base or an advanced builder creating a fully automated production network, the Terminal provides the tools needed to centralize and simplify resource management. Its modular design and extensive functionality make it a valuable addition to any base, regardless of size or playstyle.
 
+---
+
 ### Examples of Uses
-- Access and manage resources remotely from a single interface, allowing you to withdraw from and deposit into multiple storage containers simultaneously.
-- Use the Terminal as a centralized storage hub, effectively combining multiple connected containers into one large inventory system.
-- Utilize import and export pipe connections to automatically move resources between storage and production equipment.
-- Design and operate fully automated production facilities powered entirely through the Terminal network.
-- Create advanced logistics systems, such as resource buffer chests and distribution hubs, to optimize storage and production efficiency.
-- Combine multiple Terminal functions together to develop unique automation setups tailored to your base's needs.
+- Manage resources from multiple storage containers through a single interface.
+- Create one centralized storage system.
+- Automatically move resources using industrial piping.
+- Build fully automated production systems.
+- Design advanced logistics networks and storage hubs.
+
+---
 
 ### Key Features
 - Automatically combines identical item types into a single inventory slot, displaying the total quantity available while allowing precise withdrawal amounts.
@@ -34,16 +55,23 @@ Whether you're a casual player looking for a more organized base or an advanced 
 - Each storage cell has its own dedicated capacity and stack-size limitations, allowing for scalable storage expansion.
 - Intelligent item handling prevents containers from exceeding their configured storage limits, ensuring resources remain organized and properly distributed.
 
-## How to Use / Common Questions
+---
+
+## Using the Terminal & QA
 
 ![](../assets/Terminal/usage.png)
 
+---
+
 ### Retrieving/Picking Up Your Terminal
+
 Before a Terminal can be picked up, the player must have Tool Cupboard authorization.
 
 With a Building Hammer equipped, aim at the section of the Terminal displaying the Authorize prompt. Press R to open the available options and select Turn. The Terminal will then be ready to be collected.
 
 ![](../assets/Terminal/rotate.png)
+
+---
 
 ### Switching Between Operating Modes
 
@@ -57,6 +85,8 @@ The switch is shown below:
 ![](../assets/Terminal/cell1.png)
 ![](../assets/Terminal/cell2.png)
 
+---
+
 ### Using Wireless Mode
 
 Getting started with Wireless Mode is simple.
@@ -67,38 +97,43 @@ Once connected to the Terminal, locate the toggle button next to the storage box
 
 After enabling the toggle, you will be able to view and manage the resources stored in nearby containers directly through the Terminal interface, providing quick and convenient access to your base's inventory from a single location.
 
+---
+
 ### What Are Storage Cells and How Do They Work
 
 Storage Cells are designed to provide significantly more storage capacity than standard containers by utilizing enhanced stacking mechanics.
 
 Each Storage Cell has a set number of available slots and a maximum stack size per slot. Unlike regular storage containers, these special slots allow items to stack up to the cell's configured limit.
 
-The system operates on a one item type per slot basis. For example, if a Storage Cell supports a stack size of 5,000 and you place 10 Assault Rifles into it, they will occupy a single slot. You can continue adding identical Assault Rifles to that same slot until the stack reaches 5,000. However, if you add an Assault Rifle with different durability, it will be stored in a separate slot, as the item is considered unique.
+Storage Cells store one item type per slot.
 
-This behavior applies to all item types stored within a Storage Cell.
-
-A Level 1 Storage Cell contains:
-
-- 8 Storage Slots
-- Maximum Stack Size: 5,000 per slot
+For example, a Level 1 Storage Cell can hold up to **5,000 Sulfur Ore** in a single slot. Items with different durability are treated as unique items and occupy separate slots.
 
 If you choose to store only Sulfur Ore, each slot can hold up to 5,000 Sulfur, allowing the cell to store a total of 40,000 Sulfur Ore.
 
 Higher-tier Storage Cells provide additional slots and larger stack capacities, dramatically increasing the total amount of resources that can be stored.
 
-**Important Note**
+> ⚠ **Important**
+>
+> Increased stack sizes only exist while items remain inside a Storage Cell.
+>
+> Once withdrawn, they immediately return to Rust's normal stack limits.
 
-The enhanced stack sizes exist only while items are stored inside a Storage Cell. When items are withdrawn or transferred out, they automatically return to their normal Rust stack limits. Likewise, items placed into a Storage Cell will automatically combine into the configured storage stacks whenever possible
+---
 
 ### Using Cell Mode
 
-To use Cell Mode, you will first need to obtain Storage Cells. These can be found throughout the world as loot and rewards from various activities, including Bradleys, Helis, raids, and other high-value events.
-
-Once you have acquired a Storage Cell, place it into the Terminal's dedicated Cell Storage compartment. As shown below:
+#### Requirements
+- To use Cell Mode, you will first need to obtain Storage Cells. These can be found throughout the world as loot and rewards from various activities, including Bradleys, Helis, raids, and other high-value events.
+- Once you have acquired a Storage Cell, place it into the Terminal's dedicated Cell Storage compartment. As shown below:
 
 ![](../assets/Terminal/cellstorage.png)
 
+#### Installtion
+
 Next, switch the Terminal to Cell Mode using the mode selector located on the right side of the laptop.
+
+#### Using Cell Mode
 
 After opening the Terminal interface, you will be able to view all installed Storage Cells, monitor their available capacity, browse stored items, and transfer resources directly to and from the cells through the Terminal.
 

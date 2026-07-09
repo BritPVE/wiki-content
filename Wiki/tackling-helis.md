@@ -1,62 +1,134 @@
-# Tackling Helis
+# Tackling Patrol Helis
 
-## Normal Method
-### Recommended gear
-1. Full HQM Armor Set
-2. M249 (M2)
-3. Drum Mag skill (from the /st skill tree, you can find more useful skills [here](skills.md)).
-4. Blackberries for quick healing and/or other medicals, tea (Max Health Tea). 
-   - These greatly improve survivability and sustained damage when fighting patrol helicopters on Brits PVE Worlds.
+Patrol Helis are one of the best sources of loot on Brits PvE Worlds. This guide covers everything from your first Patrol Heli to building your own dedicated heli tower.
 
-### Starting the event
-1. Use /tower1-6 in one of the worlds (best one is /tower6).
-2. Open the store with /s and head over to Buyable Helis section.
-3. Choose a difficulty;
-   - Without a Brits Golden M249 or Impact Armor, avoid Elite and Legendary patrols as they deal extremely high damage and can easily one-shot players.
+## Quick Overview
+
+- **Recommended For:** Mid to End Game
+- **Difficulty:** ⭐⭐⭐☆☆
+- **Main Goal:** Defeat Patrol Heli safely while maximizing your loot.
+
+---
+
+## Recommended Gear
+
+### Essential
+
+- Full HQM Armor Set
+- M249 (M2)
+- Drum Mag Skill (**`/st`**)
+
+### Recommended Consumables
+
+- Blackberries
+- Medical Syringes
+- Max Health Tea
+
+> 💡 **Tip**
+>
+> Max Health Tea greatly increases your survivability, especially against Elite and Legendary Patrol Helis.
+
+### Starting the Event
+
+1. Teleport to a Patrol Tower using **`/tower1-6`**.
+   - **`/tower1`** is generally considered the best tower, but keep in mind that the map maker changes them every once in a while.
+2. Open the store using **`/s`**.
+3. Navigate to **Buyable Helis**.
+4. Select the Patrol Heli difficulty.
+
+> ⚠ **Recommendation**
+>
+> Until you own a **Brits Golden M249** or **Leviathan Armor**, avoid attempting the **Legendary** Patrol Helis.
 
 ## Combat Strategy
-1. Aim for the top rotor and tail rotor for maximum damage.
-2. If your aim is strong, use standard 5.56 for better damage output.
-3. If you’re less confident, use HV 5.56.
 
-**TIP:** Try to land the final shots when the patrol is the closest to the tower so that the crates land on the land around it, instead of the water, or you will have to swim to them.
+For the highest damage output, always prioritize:
+
+1. Main Rotor
+2. Tail Rotor
+
+These weak points take significantly more damage than the rest of the helicopter.
+
+If you're comfortable with your aim, use **standard 5.56 Rifle Ammo**.
+
+If you struggle to consistently hit the rotors, switch to **HV 5.56 Ammo** and focus on the helicopter's main body instead.
+
+> 💡 **Loot Tip**
+>
+> Try to land the final shots while the Patrol Heli is directly above or next to the tower. This helps ensure the crates land on solid ground instead of falling into the ocean.
 
 ## Safety TIPS
-- If you struggle to finish heli, ask help in the chat, many players are willing to assist others when needed.
-- Be aware that teammates can loot bodies; if things go wrong, gear may be lost.
-- If you want to despawn the heli, simply type: /hsretire.
+
+> 💡 **Need Help?**
+>
+> Don't hesitate to ask in chat. Many experienced players are happy to help newer players finish Patrol helis.
+
+> ⚠ **Be Careful**
+>
+> If another player dies while helping you, remember that teammates can loot each other's bodies.
+
+> 💡 **Retiring a Patrol Heli**
+>
+> IF you want to despawn your Patrol Heli, simply use:
+>
+> **`/hsretire`**
 
 <details>
-   <summary>🔽<h3>This meals a recommended for tackling helis:</h3>🔼</summary>
+   <summary>Recommended Meals</summary>
    ![](../assets/AllMeals/SteakDinner.png)
 
    ---
+
    ![](../assets/AllMeals/GnocchiNeapolitan.png)
 
    ---
+
    ![](../assets/AllMeals/FrenchToast.png)
 
    --- 
+
    ![](../assets/AllMeals/BerryCobbler.png)
 
-   ---
 </details>
 
-## Advanced Method
-You can build your own heli tower with god peeks like the heli tower 1-6 have and turrets for instant reload of your weapon. 
+## Building Your Own Heli Tower
 
-### How to build your own tower
+Experienced players often build dedicated Patrol Heli towers to make farming faster and safer.
+
+Advantages include:
+
+- Better visibility
+- Safer peek angles
+- Automatic weapon reloading
+- Faster Patrol Heli kills
+
+### Instant Reload Feature
+
+Your custom tower can be upgraded with an **Auto-Reload Turret**.
+
+### Requirements
+
+- 1 Auto Turret
+- 1 Spare M249
+- Rifle Ammo
+
+The turret doesn't require electricity.
+
+Simply place an M249 inside the turret.
+
+Whenever your weapon runs empty, open the turret and **hover-loot** or drag your M249 to instantly swap it with the fully loaded one inside.
+
+### How to build your Own Tower
+
 There are many different ways to build a heli tower, I will show you two different towers. This towers can be included in your main base or be place somewhere else in your home world. 
- - Be aware, to many Helis on the mainland will produce lag for you and other players!
- - With these two designs you can't build higher then 5 floors, stability prevents it!
-**TIP:** The higher the foundation starts, the better the visibility. A mountain or hill is well suited for your own heli tower.
 
-### Instant reload feature
-Each self-made tower can be upgradet with a turret, that automaticly reloads your M249 (M2). 
-  - You only need 1 Turret, a spare M2 and ammunation.
-  - The turret doesn't need power!
-  - Just put a M2 into the turret and ammunation and it's finished.
-  - If you now open the turret and hover loot on your M2 (in your inventory), it will be replaced with the M2 of the turret with full ammo. You can also drag and drop it, if you have for example, a Golden M2 and only want to use that.
+> ⚠ Be aware, to many Helis on the mainland will produce lag for you and other players!
+>
+> With these two designs you can't build higher then 5 floors, stability prevents it!
+
+> 💡 **Tower Tip**
+>
+> The higher the foundation starts, the better the visibility. A mountain or hill is well suited for your own heli tower.
 
 ## Tower 1 Video Guide
 
@@ -73,3 +145,7 @@ Each self-made tower can be upgradet with a turret, that automaticly reloads you
 @[youtube](https://youtu.be/zJcOjpqkhgY){width=960 height=540}
 
 ---
+
+## Continue Reading
+
+Once you're comfortable defeating Patrol Helis, continue with **Tackling Bradleys** to learn how to efficiently destroy bradleys for even greater rewards.
