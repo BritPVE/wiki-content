@@ -8,6 +8,12 @@ Deep Sea is a high-reward PvE event featuring multiple Cargo Ships protected by 
 - **Difficulty:** ⭐⭐⭐⭐⭐
 - **Main Goal:** Clear Cargo Ships while surviving Cobalt patrols and automated defenses.
 
+> 💡 **Deep Sea Tip**
+>
+> If you see a black bubble around a cargo, do NOT get close, its a taken cargo.
+>
+> Cargos that can be claimed will only have a purple circle on top of the water level.
+
 ---
 
 ## Overview
