@@ -102,7 +102,7 @@ These legendary sets are designed to maximize resource gathering and are highly 
 | **Farmer Set** | Crops | +60% Crop Yield |
 | **Scavenger Set** | Barrels & Road Farming | +60% Yield |
 | **Angler Set** | Fishing | +200% Fishing Efficiency |
-| **Skiller Set** | ALl | All of the above into one set |
+| **Skiller Set** | All | All of the above into one set |
 
 > 💡 **Tip**
 >
