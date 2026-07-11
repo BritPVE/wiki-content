@@ -133,7 +133,7 @@ Adds several helicopter assistance features, including:
 
 - Auto-hover
 - Auto-land
-- FLight assistance
+- Flight assistance
 - Crash prevention
 
 One of the best perks for players who fly frequently.
