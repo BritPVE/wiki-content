@@ -34,7 +34,7 @@ These are the commands every new player should know.
 |----------|-------------|
 | `/outpost` | Teleport to Outpost |
 | `/bandit` | Teleport to Bandit Camp |
-| `/tower1-3` | Teleport to Public Heli Towers |
+| `/tower1-6` | Teleport to Public Heli Towers |
 
 ---
 
