@@ -34,7 +34,7 @@ These are the commands every new player should know.
 |----------|-------------|
 | `/outpost` | Teleport to Outpost |
 | `/bandit` | Teleport to Bandit Camp |
-| `/tower1-3` | Teleport to Public Heli Towers |
+| `/tower1-6` | Teleport to Public Heli Towers |
 
 ---
 
@@ -127,12 +127,17 @@ These are the commands every new player should know.
 | `/spawn <vehicle>` | Spawn a purchased vehicle |
 | `/boatrecover` | Useful when your boat gets bugged / stuck, only works in deep sea |
 
+> 💡 **Boat Recover Tip**
+>
+> If your boat gets stuck in the normal world, you can travel to the deep sea to use the command, the boat will spawn under you.
+
 ---
 
 # Skin Commands
 
 | Command | Description |
 |----------|-------------|
+| `/skinbox` | Skin a specific item |
 | `/skin` | Skin your inventory |
 | `/skincraft` | Default crafting skins |
 | `/skinitem` | Skin placed items |
