@@ -64,6 +64,14 @@
             "support-tickets",
             "suggestion-and-ideas"
           ]
+        },
+        {
+          "name": "Town Halls",
+          "pages": [
+            "town-hall-info",
+            "town-hall-qa",
+            "upcoming-changes"
+          ]
         }
       ]
     },
