@@ -27,7 +27,7 @@ A legendary axe designed to improve resource gathering.
 
 ### Ability
 
-Has a chance to spawn **4 random ore nodes** whenever you chop down a tree.
+Has a chance to spawn **4 trees** around you whenever you chop down a tree.
 
 > 💡 **Tip**
 >
@@ -104,7 +104,7 @@ Increases Bone Fragment yield from harvested animals by **4x**.
 
 > 💡 **Tip**
 >
-> Pair it with the **Hunter Set**, **Bear Pie**, and **Super Serum** for the highest possible Bone Fragment yield.
+> Pair it with the **Hunter Set**, **Survival's/Bear Pie**, and **Super Serum** for the highest possible Bone Fragment yield.
 
 ---
 
