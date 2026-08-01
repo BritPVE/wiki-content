@@ -97,6 +97,10 @@ Each Cargo Ship offers excellent rewards, including:
 - Always have a medkit in hotbar/Helping hands
 - **Be wary about turrets in the top middle, as there could be more than 1 per time**
 
+> 💡 **Perceptive Tip**
+>
+> If you have the **Perceptive** perk in the Raiding tree, use `/traps` while clearing Deep Sea cargos. The ability lasts 60 seconds, has a 60 second cooldown, and gives a 20% chance per perk level to see nearby traps. This is especially useful for checking turret positions before pushing onto or through a cargo.
+
 > ⚠ These turrets deal significantly more damage than vanilla Auto Turrets.
 
 ---
