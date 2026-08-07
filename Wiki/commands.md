@@ -10,6 +10,68 @@ Brits PvE Worlds adds many custom commands that make travelling, progressing, au
 
 ---
 
+## Keybinds for Common Commands
+
+Rust keybinds let you run chat commands from a key instead of opening chat and typing them every time. This is useful for commands you press constantly, such as returning to the HUB, opening quests, opening shops, buying raid content, or calling a bike.
+
+Open the F1 console and use this format:
+
+```text
+bind key chat.say "/command"
+```
+
+For commands without spaces, you can also use the shorter form:
+
+```text
+bind key chat.say /command
+```
+
+Use quotes when the command includes spaces, such as `/home base`.
+
+The bind should work immediately. For binds you want to keep, Facepunch recommends running:
+
+```text
+writecfg
+```
+
+To remove a bind later, run:
+
+```text
+bind key ""
+```
+
+The example keys below are chosen to avoid common default movement, combat, map, voice, inventory, reload, crouch, sprint, and hotbar binds. If a key is already used on your setup, change the key name before running the bind.
+
+For home binds, replace `base` with your actual home name, such as `/home 1` or `/home main`.
+
+| Use | Command | Suggested key | Bind example | Remove this bind |
+|----------|----------|----------|----------|----------|
+| Return to HUB | `/hub` | Numpad `+` | `bind numpadplus chat.say /hub` | `bind numpadplus ""` |
+| Teleport home | `/home <name>` | Numpad `-` | `bind numpadminus chat.say "/home base"` | `bind numpadminus ""` |
+| Open quests | `/q` | Numpad `9` | `bind numpad9 chat.say /q` | `bind numpad9 ""` |
+| Open Virtual Quarries | `/vq` | Numpad `6` | `bind numpad6 chat.say /vq` | `bind numpad6 ""` |
+| Buy a raid base | `/buyraid` | Numpad `7` | `bind numpad7 chat.say /buyraid` | `bind numpad7 ""` |
+| Buy a dungeon | `/buydungeon` | Numpad `8` | `bind numpad8 chat.say /buydungeon` | `bind numpad8 ""` |
+| Open shop / stock market | `/s` | Comma | `bind comma chat.say /s` | `bind comma ""` |
+| Call a free bike | `/toolazytowalk` | Left bracket | `bind leftbracket chat.say /toolazytowalk` | `bind leftbracket ""` |
+| Open Skill Tree | `/st` | Right bracket | `bind rightbracket chat.say /st` | `bind rightbracket ""` |
+| Accept teleport request | `/tpa` | Period | `bind period chat.say /tpa` | `bind period ""` |
+
+### Smaller Keyboard Examples
+
+If you do not have a numpad, use bracket, punctuation, or other unused keys instead. Replace only the key name:
+
+```text
+bind leftbracket chat.say /hub
+bind rightbracket chat.say "/home base"
+bind comma chat.say /s
+bind period chat.say /tpa
+```
+
+Avoid replacing important default Rust keys unless you are sure you do not use them. For example, binding `q` to `/q` can be convenient, but it may overwrite a normal Rust bind on many setups.
+
+---
+
 # Essential Commands
 
 These are the commands every new player should know.
@@ -43,6 +105,7 @@ These are the commands every new player should know.
 | Command | Description |
 |----------|-------------|
 | `/home add <name>` | Create a Home |
+| `/home <name>` | Teleport to a Home |
 | `/home remove <name>` | Remove a Home |
 | `/home list` | Show all Homes |
 | `/home help` | Home command help |
@@ -109,7 +172,11 @@ These are the commands every new player should know.
 | `/buyraid` | Purchase a Raid Base |
 | `/rb` | View Raid statistics |
 | `/mybike` | Buys a 20 RP bike to travel faster |
-| `/toolazytowalk` | Same as stated above |
+| `/toolazytowalk` | Summon a free bike to travel faster |
+
+> 💡 **Bike Tip**
+>
+> Most players use **`/toolazytowalk`** instead of **`/mybike`** because it summons a bike for free. It is longer to type, so it is a good command to keybind.
 
 ### Dungeons
 
