@@ -28,8 +28,8 @@ Unlike Patrol Helis, Bradleys don't require expensive equipment. Good position i
 
 ## Starting the Event
 
-1. Use **`/hub`**.
-2. Enter one of the red portals leading to **Raid World 1-4**.
+1. Use **`/worlds`**.
+2. Enter one of the **Raid World 1-4**.
 3. Travel to one of the Bradley Islands.
 4. Open the store using **`/s`**.
 5. Navigate to the **Buyable Bradleys** section and purchase one.

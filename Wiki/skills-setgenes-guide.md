@@ -1,6 +1,6 @@
-# /setgenes Guide
+# Geneticist Guide
 
-The **`/setgenes`** command allows you to choose the exact gene combination for a seed, making farming much faster and more consistent.
+The geneticist skill allows you to choose the exact gene combination for a seed, making farming much faster and more consistent.
 
 ## Quick Overview
 
@@ -16,19 +16,16 @@ The **`/setgenes`** command allows you to choose the exact gene combination for 
 ## Video Guide
 
 @[youtube](https://www.youtube.com/watch?v=LkRuThloZjs){width=960 height=540}
+> Outdated as of 03/09/2026 - V2 changed a lot of things.
 
 ---
 
 ## Before You Start
 
-Before using **`/setgenes`**, make sure you have:
+Before using the skill, make sure you have:
 
 - A normal seed in your hotbar.
-- An available **`/setgenes`** cooldown.
-
-You can check your cooldown at any time using:
-
-**`/cd`**
+- An available genes skill cooldown.
 
 > ⚠ **Important**
 >
@@ -39,15 +36,16 @@ You can check your cooldown at any time using:
 ## Step-by-Step Guide
 
 1. Place a **normal seed** in your hotbar.
-2. Type **`/stfix`**.
-3. Type **`/setgenes`**.
-4. Select the desired gene combination from the menu.
+2. Head over to the **`/st"**.
+3. Click on the top right lighting icon.
+4. Search for the **geneticist ultimate** and click on **activate**.
+5. Select the desired gene combination from the menu.
 
 ![Plant Gene Structure menu](../assets/setgenes-gene-structure.png)
 
-5. Close the menu using the **X** in the top-right corner.
-6. Plant **one seed** in a planter box.
-7. Your planted seed should now have the selected gene combination.
+6. Close the menu using the **X** in the top-right corner.
+7. Plant **one seed** in a planter box.
+8. Your planted seed should now have the selected gene combination.
 
 ---
 
@@ -56,10 +54,8 @@ You can check your cooldown at any time using:
 If the command doesn't work:
 
 - Make sure you have a normal seed in your hotbar.
-- Run **`/stfix`** before using **`/setgenes`**.
 - Verify that you selected the correct gene combination.
 - Close the menu before planting the seed.
-- Check **`/cd`** to make sure the command isn't on cooldown.
 
 ---
 

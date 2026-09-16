@@ -41,7 +41,7 @@ Brits PvE Worlds offers a heavily customized Rust experience featuring:
 
 > 💡 **Current Wipe Information**
 >
-> **Next Wipe:** **Thursday, 16 July at 18:00 UTC**
+> **Next Wipe:** **Thursday, 17 September at 18:00 UTC**
 >
 > **Wipe Type:** Map + RP Wipe
 

@@ -20,7 +20,7 @@ Progression is one of the core mechanics of Brits PvE Worlds. Every level grants
 
 Levels reset **every 6 months** to keep progression fresh and to accomodate new updates and balance changes.
 
-Every **100 levels**, you can **Prestige (`/pr`)**, earning exclusive rewards. The maximum Prestige level is **Pr10**.
+Every **90 levels**, you can **Prestige (`/pr`)**, earning exclusive rewards. The maximum Prestige level is **Pr10**.
 
 ---
 

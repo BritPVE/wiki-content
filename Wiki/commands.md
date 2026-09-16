@@ -85,8 +85,8 @@ These are the commands every new player should know.
 | `/sell` | Sell resources for RP |
 | `/vq` or `/qr` | Open Virtual Quarries |
 | `/tod` | View the current time of day |
-| `/wipe` | Shows the next wipe date |
-| `/info` | Shows an informative window |
+| `/wiki` | Shows an informative window |
+| `/w` or `/worlds` | Open the World Menu |
 
 ---
 
@@ -127,16 +127,11 @@ These are the commands every new player should know.
 
 | Command | Description |
 |----------|-------------|
-| `/locatenodes` | Locate nearby nodes |
-| `/track` | Tracking ability |
-| `/setgenes` | Choose plant genes |
-| `/forage` | Foraging ability |
-| `/pouch` | Open pouch |
-| `/teatime` | Tea ability |
-| `/strike` | Airstrike ability |
-| `/picklock` | Picklock ability |
-| `/traps` | Trap ability |
-| `/sonar` | Sonar ability |
+| `/nstrike` | Airstrike ability |
+
+> 💡 **Airstrike Tip**
+>
+> Remember to have an empty slot on your hotbar so that the skill can spawn a flare in it.
 
 ---
 
@@ -210,7 +205,10 @@ These are the commands every new player should know.
 | `/skinitem` | Skin placed items |
 | `/skinrequest` | Request new skins |
 | `/skinbase` | Skin all deployables |
-| `/skini` | Skin the item you're looking at |
+
+> 💡 **Skin Base Tip**
+>
+> If you want to skin specific items in your base you will first need to use the /skincraft command, select the items you want skinned and their skins, then use /skinbase to skin all deployed items.
 
 ---
 
@@ -229,6 +227,14 @@ These are the commands every new player should know.
 
 ---
 
+# Clan & Alliances
+| Command | Description |
+|----------|-------------|
+| `/clan` | Manage your team / clan with an updated UI |
+| `/lfg` | looking for group for world events |
+
+---
+
 # Miscellaneous
 
 | Command | Description |
@@ -237,10 +243,7 @@ These are the commands every new player should know.
 | `/remove` | Remove placed entities |
 | `/limit` | Entity limits |
 | `/jet` | Activate Jetpack |
-| `/score` | XP leaderboard |
-| `/top` | Open leaderboard |
-| `/tc` | Count Tool Cupboards |
-| `/stfix` | Fix Skill Tree issues |
+| `/wa` | Achievements tab |
 
 ---
 

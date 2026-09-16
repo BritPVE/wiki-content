@@ -1,108 +1,60 @@
 # Skills
 
-Learn how to spend your Skill Points efficiently throughout your progression. This guide focuses on the most useful skills for early, mid, and late game, while the complete list if skills can be found further down this page.
+Brits PvE Worlds uses a Skill Tree system that allows you to specialize your character by spending Skill Points (SP) on different abilities.
 
 ## Quick Overview
 
-- **Difficulty:** ⭐⭐☆☆☆
-- **Recommended For:** All Players.
-- **Main Goal:** Unlock most valuable skills to speed up your progression.
+- **Skill Trees:** Gathercraft, Survivalcraft, Combat, and Vehicles
+- **Maximum Level:** 90
+- **Prestige:** Available at Level 90
+- **Specialization:** Each main tree is divided into different sections based on their purpose.
 
----
+### Skill Tree Sections
 
-## Opening the Skill Tree
+**Gathercraft**
+- Mining
+- Woodcutting
+- Gathering & Fishing
+- Scavenging
 
-Open the Skill Tree by using **`/st`** or by clicking the XP bar while your inventory is open.
+**Survivalcraft**
+- Skinning
+- Crafting & Building
+- Survival
+- Farming
 
-If its your first time opening it, we recomment clicking on **Overview (under this message)**, which explains every section of the interface and how the system works.
-
-<details>
-  <summary><strong>📖 Interface Overview</strong></summary>
+**Combat**
+- Hunting & Combat Support
+- Weapons
+- Explosives
+- Environmental Resistance
   
-### Top Bar
-  - Switch between the different skill trees.
-  - The overlay opens to the **Mining** tree by default.
-
-### Left Panel
-Contains information about the currently selected skill tree, including:
-
-- **Maximuum Level** - Highest level available for the selected skill.
-- **Level Up** - Spend Skill Points to upgrade the selected skill.
-- **Respec Cost** - Scrap required to reset the current skill tree.
-- **Respec** - Reset every skill in the selected tree.
-- **Rested XP** - Bonus XP available for specific activities.
-- **Current Level & XP** - Unspent Skill Points.
-- **Prestige** - Displays your current Prestige level.
-- **Gain Prestige** - Available at Level 100. Prestiging resets your level and Skill Points in exchange for permanent rewards.
-- **Ultimate Setings** - Customize the XP bar and other interface options.
-- **Buff Settings** - Toggle various buff display options.
+**Vehicles**
+- Optional skill tree
+  
+> **Note:** Skill effects, costs, and maximum levels are listed below based on the current V2 Skill Tree.
 
 > 💡 **Tip**
 >
 > Before prestiging, complete Quartermaster T4-T5 quests but **don't claim the rewards**. Once you prestige, turn them in immediately to gain levels much faster.
 
-## Center Panel
-- Displays the selected skill tree.
-- Shows Skill Points spent in that tree.
-- The first row is unlocked by default.
-- Every additional row requires **5 Skill Points**.
-- Ultimate skills require **25 Skill Points** in the tree.
-
-## Right Panel
-- Displays all active buffs provided by the selected skill tree.
-
-</details>
-
-## Essential First Skill
-
-Before investing points anywhere else, fully unlock **Maintenance** from the Combat skill tree.
-
-![](../assets/Combat/Maintenance.png)
-
-When fully upgraded, Maintenance completely prevents durability loss on your weapons, tools, and equipment.
-
-This is one of the most valuable quality-of-life skills on the server and should be prioritized by every players, regardless of playstyle.
-
 ---
 
-## Recommended Early Skills
+## Gathercraft
+
+Gathercraft focuses on resource collection, recycling, fishing and other gathering activities.
+
+### Recommended Early Skills
 
 Your main goal during the early game is to level up as quickly as possible. Since Quartermaster Tasks are the fastest source of XP, you should prioritize the skills that improve your resource gathering.
 
-## Priority 1 - Mining
+### Priority 1 - Mining
 
-The mining tree should be your next priority if you plan on completing Stone, Metal, or Sulfur Quartermaster Tasks.
+Mining should be your priority if you plan on completing Stone, Metal, or Sulfur Quartermaster Tasks.
 
 **Prioritize unlocking:**
 - Mining yield increases
 - Mining speed
-
-You can safely skip the following until later:
-
-<details>
-  <summary>Skills to unlock later</summary>
-
-  ---
-  
-  ![](../assets/Mining/RobustPickaxe.png)
-  
-  Already unnecessary if you have Maintenance.
-
-  ---
-
-  ![](../assets/Mining/Refiner.png)
-  
-  Useful, but refined resources don't count towards Quartermaster Tasks.
-
-  ---
-
-  ![](../assets/Mining/StoneSenseUltimate.png)
-
-  Helpful, but nore required during the early game.
-
-</details>
-
----
 
 ### Priority 2 - Woodcutting
 
@@ -110,666 +62,163 @@ If you're focusing on Wood Quartermaster Tasks, invest heavily into Woodcutting 
 
 Try to unlock every gathering-related skill as early as possible.
 
-You can leave these for later:
+### Left: Mining
 
-<details>
-  <summary>Skills to unlock later</summary>
+| Skill | Effect | Max Level | Cost |
+|---|---|---:|---:|
+| **Prospector** | Increases mining yield by 25% per level. | 3 | 1 SP / level |
+| **Second Strike** | 35% chance to respawn a node you just destroyed. | 1 | 1 SP |
+| **Ore Sense** | Snapshots nearby ores within a 200m radius. 60s cooldown. | 1 | 5 SP |
+| **Tempered Steel** | Mining tools lose 15% less durability per level. | 3 | 1 SP / level |
+| **Vein Seeker** | Automatically hits mining hotspots 100% of the time. | 1 | 1 SP |
+| **Shatterpoint** | 100% chance to instantly finish an ore node. | 1 | 5 SP |
 
-  ---
-  
-  ![](../assets/Woodcutting/Chimney.png)
+### Right: Woodcutting
 
-  Charcoal production isn't important early on.
+| Skill | Effect | Max Level | Cost |
+|---|---|---:|---:|
+| **Timberfall** | Increases wood yield by 25% per level. | 3 | 1 SP / level |
+| **Regrowth** | 5% chance to regrow 3–5 trees after finishing one. | 1 | 1 SP |
+| **Hardened Edge** | Woodcutting tools lose 15% less durability per level. | 3 | 1 SP / level |
+| **Felling Blow** | 100% chance to instantly chop down a tree. | 1 | 5 SP |
+| **Clearcut** | 35% chance to harvest nearby trees within a 30m radius. | 1 | 5 SP |
 
-  ---
+### Top: Scavenging
+| Skill | Effect | Max Level | Cost |
+|---|---|---:|---:|
+| **Treasure Hunter** | Automatically dig and collect stash/cache rewards. | 1 | 1 SP |
+| **Smash 'n Grab** | Barrels break quickly and loot is pulled to you. | 1 | 1 SP |
+| **Salvage King** | Increase scrap found from barrels and crates by 100% per level. | 3 | 1 SP / level |
+| **Parts Hunter** | 15% chance per level to duplicate a component from barrels and crates. | 3 | 1 SP / level |
 
-  ![](../assets/Woodcutting/RobustAxe.png)
+### Bottom: Gathering & Fishing
 
-  Already unnecessary if you have Maintenance.
+| Skill | Effect | Max Level | Cost |
+|---|---|---:|---:|
+| **Rapid Recycle** | Reduces recycle tick duration by 2.5s. | 1 | 1 SP |
+| **Forager's Fortune** | Increases wild collectables by 75% per level. | 3 | 1 SP / level |
+| **Tea Party** | Shares tea effects with teammates within 100m at 50% effectiveness. | 1 | 5 SP |
+| **Wild Sense** | Snapshots nearby collectables. 60s cooldown. | 1 | 5 SP |
+| **Fisherman's Fortune** | 50% chance to collect an additional fish on a successful catch. | 1 | 1 SP |
+| **Braided Line** | Reduces fishing strain and line-break pressure by 35%. | 1 | 1 SP |
+| **Feeding Frenzy** | Reduces bite time by 30% per level. | TBD | 1 SP / level |
 
-</details>
-
-> 💡 **Tip**
->
-> Unlock the **Woodcutting Ultimate** as soon as possible. It provides one of the biggest boosts to your overall wood farming efficiency.
-
-## Mid-Game Skills
-
-By the time you reach the mid game, you should already have Maintenance and your preferred gathering skills unlocked.
-
-From this point onward, your Skill Points should be invested based on the activities you enjoy the most.
-
----
-
-### Combat & Raiding
-
-If you're planning on taking on Patrol Helis, Bradleys, Raid Bases, or Dungeons, these should be your next priorities.
-
-<details> 
-  <summary>🔽 <h3>MID GAME SKILLS</h3> 🔼</summary>
-
-  ---
-  
-  ![](../assets/Combat/DrumMag.png)
-  
-  Increases your magazine capacity by up to **50%**, making it one of the strongest combat skills on the server.
-
-  ---
-
-  **Raiding Section:**
-  
-  ![](../assets/Raiding/TrapEvader.png)
-
-  Just to unlock the second row.
-
-  ---
-
-  ![](../assets/Raiding/BlastSuit.png)
-
-  Completely prevents self-inflicted explosive damage, making rocket raiding much safer.
-
-  ---
-
-  ![](../assets/Raiding/ReliableExplosive.png)
-
-  Satchel Charges always explode successfully, removing their normal RNG.
-
-  ---
-
-  ![](../assets/Raiding/Demolition.png)
-
-  Increases your overall raiding efficiency, allowing you to destroy bases more quickly.
-
-  ---
-
-  ![](../assets/Raiding/PressedExplosive.png)
-
-  Increases your overall raiding efficiency, allowing you to destroy bases more quickly.
-
-  ---
-
-  ![](../assets/Raiding/RainHellfireUltimate.png)
-
-  Launches an MLRS strike capable of heavily damaging Easy and Medium raid bases.
-
-  > ⚠ Remember to destroy nearby SAM Sites first, otherwise they'll intercept the rockets.
-
-</details>
-
-> 💡 **Recommended Weapons**
->
-> **Brits Boom Stick** → Best for Raids
-> **Ashmaker** → Excellent against Bradleys or Dungeon Mobs / Turrets
-> **Brits Golden M249 / M2** → Best choice for Patrol Helis
->
-> Learn more on the **Legendary Weapons** page.
+> ⚠ **Feeding Frenzy:** Currently reserved until the fishing rod patch is implemented.
 
 ---
 
-### Farming & RP
+### Survivalcraft
 
-If you're planning to make RP through farming, investing in the harvesting skill tree is essential.
+Survivalcraft focuses on survival, crafting, farming, cooking, and improving your ability to gather and use resources.
 
-These skills dramatically increase crop yields and work perfectly alongside the Farming Set.
+#### Left: Skinning
 
-<details>
-  <summary>🔽 <h3>HARVESTING SKILLS</h3>🔼 </summary>
+| Skill | Effect | Max Level | Cost |
+|---|---|---:|---:|
+| **Waste Not** | Increases skinning yield by 25% per level. | 3 | 1 SP / level |
+| **Damascus Steel** | Knives lose 15% less durability per level. | 3 | 1 SP / level |
+| **Predator's Eye** | Snapshots nearby animals. 60s cooldown. | 1 | 5 SP |
+| **Slice 'n Dice** | 25% chance to instantly finish skinning. | 1 | 1 SP |
 
-  ---
-  
-  ![](../assets/Harvesting/AmatureHarvester.png)
+#### Right: Crafting & Building
 
-  Unlocks the second row and provides more resources when gathering wild collectibles.
+| Skill | Effect | Max Level | Cost |
+|---|---|---:|---:|
+| **Made to Order** | Crafts items instantly unless blacklisted. | 1 | 5 SP |
+| **Walking Tank** | 15% chance per level for crafted armor to roll maximum insert slots. | 3 | 1 SP / level |
+| **Almost Up to Code** | 10% chance per level to refund building materials. | 3 | 1 SP / level |
+| **Spare Parts** | 10% chance per level to refund crafting components. | 3 | 1 SP / level |
+| **Well Crafted** | Armor loses 15% less durability per level. | 3 | 1 SP / level |
+| **Bargain Hunter** | 75% chance to refund the scrap research cost. | 1 | 1 SP |
+| **Refined Blueprints** | 25% chance to duplicate crafted items unless blacklisted. | 1 | 5 SP |
 
-  ---
+#### Top: Survival
 
-  ![](../assets/Harvesting/HobbiestHarvester.png)
+| Skill | Effect | Max Level | Cost |
+|---|---|---:|---:|
+| **Healing Factor** | Regenerates 0.5 health per second. | 1 | 1 SP |
+| **Lazarus Effect** | 50% chance to stand back up when wounded. | 1 | 5 SP |
+| **Feather Fall** | Take no fall damage. | 1 | 5 SP |
+| **Rejuvenating Presence** | Shares 25% of your healing with allies within 30m. | 1 | 5 SP |
+| **Inspired Decor** | Gain full comfort while within TC range. | 1 | 1 SP |
 
-  Increases the yield from wild collectibles. 
+#### Bottom: Farming
 
-  ---
-
-  ![](../assets/Harvesting/AmatureFarmer.png)
-
-  Increases the yield from your **grown** crops.
-
-  ---
-
-  ![](../assets/Harvesting/ExpertHarvester.png)
-
-  Now grants the maximum yield from all wild collectibles.
-
-  ---
-
-  ![](../assets/Harvesting/ExpertFarmer.png)
-
-  You now receive the maximum yield from your grown plants.
-
-  ---
-
-  ![](../assets/Harvesting/BotanistUltimate.png)
-
-  This is one of the best ultimates because it allows you to manually choose the genes.
-
-  > ⚠ Note that only the very next seed you plant will have the selected genes.
-
-</details>
+| Skill | Effect | Max Level | Cost |
+|---|---|---:|---:|
+| **Bountiful Harvest** | Increases planted crop yield by 50%. | 1 | 1 SP |
+| **Geneticist** | Unlocks crop gene setting. 3h cooldown. | 1 | 5 SP |
+| **Free Refills** | 10% chance per level to refund consumed items. | 3 | 1 SP / level |
+| **Lightweight** | Increases tea duration by 25% per level. | 3 | 1 SP / level |
+| **Mad Hatter** | Unlocks a 60m tea effect. 4h cooldown. | 1 | 5 SP |
+| **Skilled Chef** | Improves cooking craft speed and buff duration. | 1 | 5 SP |
+| **Chemical Chef** | Improves mixing and cooking speed. | 1 | 5 SP |
 
 ---
 
-## Late-Game Skills
+## Combat
 
-By the late game, you'll likely have already specialized in your preferred playstyle, whether that's farming, raiding, PvE events, or resource gathering.
+Combat focuses on improving your effectiveness in PvE combat, explosives, NPC encounters, and environmental hazards.
 
-At this stage, focus on completing the remaining skill trees that best support your activities.
+### Hunting & Combat Support
 
-One tree worth prioritizing is **Build & Craft**, as it provides several useful perks for high-tier Quartermaster quests, crafting, and late-game progression.
+| Skill | Effect | Max Level | Cost |
+|---|---|---:|---:|
+| **Big Game Hunter** | Deal 50% more damage to animals. | 1 | 1 SP |
+| **Thick Hide** | Take 50% less damage from animals. | 1 | 1 SP |
+| **Life Leech** | Heal for 1% of qualifying combat damage dealt. | 1 | 5 SP |
+| **Team Effort** | Share qualifying combat XP with teammates within 30m. | 1 | 5 SP |
 
-Don't forget that you can always **respec** a skill tree later if your playstyle changes.
+### Weapons
 
----
+| Skill | Effect | Max Level | Cost |
+|---|---|---:|---:|
+| **Extra Rounds** | Increases magazine capacity by 10% per level. | 3 | 1 SP / level |
+| **Elite Manufacturing** | Weapons lose 15% less condition per rank. | 3 | 1 SP / level |
+| **Ammo Rationing** | 25% chance not to consume ammo when firing. | 1 | 1 SP |
+| **Man-Hunter** | Deal 10% more damage to human NPCs per level. | 3 | 1 SP / level |
+| **Sixth Sense** | Snapshots nearby corpses, bags, NPCs, and items within a 25m radius. 60s cooldown. | 1 | 5 SP |
+| **Armored** | Take 10% less damage from scientists per level. | 3 | 1 SP / level |
 
-## Complete Skill List
+### Explosives
 
-Here you will find all available skills on the server, organized into sections.
+| Skill | Effect | Max Level | Cost |
+|---|---|---:|---:|
+| **Shockwave** | Increases explosive radius by 20% per level. | 3 | 1 SP / level |
+| **Chain Reaction** | 10% chance per level to trigger a second explosion. | 3 | 1 SP / level |
+| **Reliable Fuses** | Dud explosives detonate anyway. | 1 | 1 SP |
+| **Aerodynamically Sound** | Increases rocket velocity by 500%. | 1 | 5 SP |
+| **Blastproof** | Take no damage from your own explosives. | 1 | 1 SP |
+| **Orbital Strike** | Unlocks the `/nstrike` airstrike command. | 1 | 5 SP |
 
-<details>
-  <summary>⬇️<h3>MINING</h3>⬆️</summary>
+### Environmental Resistance
 
-  ---
-
-  ![](../assets/Mining/StoneSenseUltimate.png)
-  
-  ---
-  ![](../assets/Mining/AmateurMiner.png)
-  
-  ---
-  ![](../assets/Mining/AdeptMiner.png)
-  
-  ---
-  ![](../assets/Mining/ExpertMiner.png)
-  
-  ---
-  ![](../assets/Mining/EfficientMiner.png)
-  
-  ---
-  ![](../assets/Mining/InstantMining.png)
-  
-  ---
-  ![](../assets/Mining/Refiner.png)
-  
-  ---
-  ![](../assets/Mining/RobustPickaxe.png)
-  
-  ---
-  ![](../assets/Mining/SixthSense.png)
-  
-  ---
-  ![](../assets/Mining/StrokeOfLuck.png)
-</details>
+| Skill | Effect | Max Level | Cost |
+|---|---|---:|---:|
+| **Hot Blooded** | Take 25% less fire and heat damage. | 1 | 1 SP |
+| **Crawl Out Through the Fallout** | Reduces radiation damage by 25%. | 1 | 1 SP |
+| **Trapwise** | Take 50% less damage from traps. | 1 | 5 SP |
+| **Cold Blooded** | Provides 25% active cold resistance and immunity to environmental cold. | 1 | 1 SP |
+| **Disarmament** | Deal 50% more damage to traps. | 1 | 5 SP |
 
 ---
-<details>
-  <summary>⬇️<h3>WOODCUTTING</h3>⬆️</summary>
 
-  ---
+### Vehicles
 
-  ![](../assets/Woodcutting/DeforestationUlitmate.png)
+The Vehicles skill tree improves the performance and efficiency of different vehicle types.
 
-  ---
-  ![](../assets/Woodcutting/AmatureWoodcutter.png)
-
-  ---
-  ![](../assets/Woodcutting/AdeptWoodcutter.png)
-
-  ---
-  ![](../assets/Woodcutting/ExpertWoodcutter.png)
-
-  ---
-  ![](../assets/Woodcutting/Chimney.png)
-
-  ---
-  ![](../assets/Woodcutting/EfficientLumberjack.png)
-
-  ---
-  ![](../assets/Woodcutting/InstantWoodcutting.png)
-
-  ---
-  ![](../assets/Woodcutting/RobustAxe.png)
-
-  ---
-  ![](../assets/Woodcutting/TreeRegrowth.png)
-</details>
-
----
-<details>
-  <summary>⬇️<h3>SKINNING</h3>⬆️</summary>
-
-  ---
-
-  ![](../assets/Skinning/PrimalIdentityUltimate.png)
-
-  ---
-  ![](../assets/Skinning/AmatureSkinner.png)
-
-  ---
-  ![](../assets/Skinning/AdeptSkinner.png)
-
-  ---
-  ![](../assets/Skinning/ExpertSkinner.png)
-
-  ---
-  ![](../assets/Skinning/InstantSkinner.png)
-
-  ---
-  ![](../assets/Skinning/RobustKnife.png)
-
-  ---
-  ![](../assets/Skinning/SteelKnife.png)
-
-  ---
-  ![](../assets/Skinning/SkilledHunter.png)
-
-  ---
-  ![](../assets/Skinning/SkilledTracker.png)
-
-  ---
-  ![](../assets/Skinning/SkinningLuck.png)
-
-  ---
-  ![](../assets/Skinning/SurvivalChef.png)
-</details>
-
----
-<details>
-  <summary>⬇️<h3>HARVESTING</h3>⬆️</summary>
-
-  ---
-
-  ![](../assets/Harvesting/BotanistUltimate.png)
-
-  ---
-  ![](../assets/Harvesting/AmatureFarmer.png)
-
-  ---
-  ![](../assets/Harvesting/ExpertFarmer.png)
-
-  ---
-  ![](../assets/Harvesting/AmatureHarvester.png)
-
-  ---
-  ![](../assets/Harvesting/HobbiestHarvester.png)
-
-  ---
-  ![](../assets/Harvesting/ExpertHarvester.png)
-  
-  ---
-  ![](../assets/Harvesting/BraidedLine.png)
-
-  ---
-  ![](../assets/Harvesting/ExtraPockets.png)
-
-  ---
-  ![](../assets/Harvesting/Fisherman.png)
-
-  ---
-  ![](../assets/Harvesting/Ichthyologist.png)
-
-  ---
-  ![](../assets/Harvesting/LuckyForager.png)
-
-  ---
-  ![](../assets/Harvesting/ForagersIntuition.png)
-</details>
-
----
-<details>
-  <summary>⬇️<h3>MEDICAL</h3>⬆️</summary>
-
-  ---
-
-  ![](../assets/Medical/MessiahUltimate.png)
-
-  ---
-  ![](../assets/Medical/AccidentEvasion.png)
-
-  ---
-  ![](../assets/Medical/PerfectBalance.png)
-
-  ---
-  ![](../assets/Medical/BandageExpert.png)
-
-  ---
-  ![](../assets/Medical/BattleMedic.png)
-
-  ---
-  ![](../assets/Medical/ExposedRadiation.png)
-
-  ---
-  ![](../assets/Medical/RadiationExpert.png)
-
-  ---
-  ![](../assets/Medical/FlameRetardant.png)
-
-  ---
-  ![](../assets/Medical/RuggedUp.png)
-
-  ---
-  ![](../assets/Medical/LeadLined.png)
-
-  ---
-  ![](../assets/Medical/Revitalization.png)
-
-  ---
-  ![](../assets/Medical/SecondWind.png)
-
-  ---
-  ![](../assets/Medical/FreshSpawn.png)
-</details>
-
----
-<details>
-  <summary>⬇️<h3>COMBAT</h3>⬆️</summary>
-
-  ---
-
-  ![](../assets/Combat/VampiricTendenciesUltimate.png)
-
-  ---
-  ![](../assets/Combat/AnimalTamer.png)
-
-  ---
-  ![](../assets/Combat/DefenceResearch.png)
-
-  ---
-  ![](../assets/Combat/ScientificBreakthrough.png)
-
-  ---
-  ![](../assets/Combat/DrumMag.png)
-
-  ---
-  ![](../assets/Combat/Duelist.png)
-
-  ---
-  ![](../assets/Combat/Maintenance.png)
-
-  ---
-  ![](../assets/Combat/Resourceful.png)
-
-  ---
-  ![](../assets/Combat/Ricochet.png)
-
-  ---
-  ![](../assets/Combat/SixthSense.png)
-
-  ---
-  ![](../assets/Combat/SupersonicThrust.png)
-</details>
-
----
-<details>
-  <summary>⬇️<h3>BUILD CRAFT</h3>⬆️</summary>
-
-  ---
-  
-  ![](../assets/Build_Craft/AccessGrantedUltimate.png)
-
-  ---
-  ![](../assets/Build_Craft/AmatureTinkerer.png)
-
-  ---
-  ![](../assets/Build_Craft/AdeptTinkerer.png)
-
-  ---
-  ![](../assets/Build_Craft/ExpertTinkerer.png)
-
-  ---
-  ![](../assets/Build_Craft/ThriftyTinkerer.png)
-
-  ---
-  ![](../assets/Build_Craft/ThriftyRenovator.png)
-
-  ---
-  ![](../assets/Build_Craft/ThriftyDuplicator.png)
-
-  ---
-  ![](../assets/Build_Craft/Blacksmith.png)
-
-  ---
-  ![](../assets/Build_Craft/BlastFurnance.png)
-  
-  ---
-  ![](../assets/Build_Craft/MacGyver.png)
-
-  ---
-  ![](../assets/Build_Craft/PrimitiveExpert.png)
-
-  ---
-  ![](../assets/Build_Craft/QualityCrafter.png)
-
-  ---
-  ![](../assets/Build_Craft/Researcher.png)
-</details>
-
----
-<details>
-  <summary>⬇️<h3>SCAVENGING</h3>⬆️</summary>
-
-  ---
-
-  ![](../assets/Scavenging/ShredderUltimate.png)
-
-  ---
-  ![](../assets/Scavenging/OptimizedRecycling.png)
-
-  ---
-  ![](../assets/Scavenging/EfficientRecycling.png)
-
-  ---
-  ![](../assets/Scavenging/BarrelSmasher.png)
-
-  ---
-  ![](../assets/Scavenging/ComponentSalvager.png)
-
-  ---
-  ![](../assets/Scavenging/ElectronicsSalvager.png)
-
-  ---
-  ![](../assets/Scavenging/ElectronicsLuck.png)
-
-  ---
-  ![](../assets/Scavenging/ComponentLuck.png)
-
-  ---
-  ![](../assets/Scavenging/LootMagnet.png)
-
-  ---
-  ![](../assets/Scavenging/Looter.png)
-
-  ---
-  ![](../assets/Scavenging/LuckDetective.png)
-
-  ---
-  ![](../assets/Scavenging/LuckyLooter.png)
-  
-  ---
-  ![](../assets/Scavenging/Digger.png)
-  
-  ---
-  ![](../assets/Scavenging/MagneticDigger.png)
-</details>
-
-<details>
-  <summary>⬇️<h3>VEHICLES</h3>⬆️</summary>
-
-  ---
-
-  ![](../assets/Vehicles/TankUltimate.png)
-
-  ---
-  ![](../assets/Vehicles/AmatureRider.png)
-
-  ---
-  ![](../assets/Vehicles/AdeptRider.png)
-
-  ---
-  ![](../assets/Vehicles/ExpertRider.png)
-
-  ---
-  ![](../assets/Vehicles/EconomicalCaptain.png)
-
-  ---
-  ![](../assets/Vehicles/Yachtman.png)
-
-  ---
-  ![](../assets/Vehicles/EconomicalPilot.png)
-
-  ---
-  ![](../assets/Vehicles/JetEngine.png)
-
-  ---
-  ![](../assets/Vehicles/HybridPilot.png)
-
-  ---
-  ![](../assets/Vehicles/Airbags.png)
-
-  ---
-  ![](../assets/Vehicles/Mechanic.png)
-
-  ---
-  ![](../assets/Vehicles/Supercharged.png)
-</details>
-
----
-<details>
-  <summary>⬇️<h3>COOKING</h3>⬆️</summary>
-
-  ---
-
-  ![](../assets/Cooking/BurstOfEnergyUltimate.png)
-
-  ---
-  ![](../assets/Cooking/EasilySatisfied.png)
-
-  ---
-  ![](../assets/Cooking/FruggalRationer.png)
-
-  ---
-  ![](../assets/Cooking/FryCook.png)
-
-  ---
-  ![](../assets/Cooking/Glutton.png)
-
-  ---
-  ![](../assets/Cooking/IronStomach.png)
-
-  ---
-  ![](../assets/Cooking/KeenEye.png)
-
-  ---
-  ![](../assets/Cooking/MasterChef.png)
-
-  ---
-  ![](../assets/Cooking/Mixologist.png)
-
-  ---
-  ![](../assets/Cooking/SlowMetabolism.png)
-
-  ---
-  ![](../assets/Cooking/TeaConnoisseur.png)
-
-  ---
-  ![](../assets/Cooking/TeaParty.png)
-</details>
-
----
-<details>
-  <summary>⬇️<h3>UNDERWATER</h3>⬆️</summary>
-
-  ---
-
-  ![](../assets/Underwater/AquaticCombatant.png)
-
-  ---
-  ![](../assets/Underwater/CageDiver.png)
-
-  ---
-  ![](../assets/Underwater/RecklessDiver.png)
-
-  ---
-  ![](../assets/Underwater/Gilled.png)
-
-  ---
-  ![](../assets/Underwater/NimbleFingers.png)
-
-  ---
-  ![](../assets/Underwater/SharkVeterinarian.png)
-
-  ---
-  ![](../assets/Underwater/SonarPulse.png)
-
-  ---
-  ![](../assets/Underwater/TreasureHunter.png)
-</details>
-
----
-<details>
-  <summary>⬇️<h3>RAIDING</h3>⬆️</summary>
-
-  ---
-
-  ![](../assets/Raiding/RainHellfireUltimate.png)
-
-  ---
-  ![](../assets/Raiding/BlastSuit.png)
-
-  ---
-  ![](../assets/Raiding/Demolition.png)
-
-  ---
-  ![](../assets/Raiding/MineSweeper.png)
-
-  ---
-  ![](../assets/Raiding/Perceptive.png)
-
-  ---
-  ![](../assets/Raiding/PressedExplosive.png)
-
-  ---
-  ![](../assets/Raiding/ReliableExplosive.png)
-
-  ---
-  ![](../assets/Raiding/TrapEvader.png)
-</details>
-
----
-<details>
-  <summary>⬇️<h3>TEAM</h3>⬆️</summary>
-
-  ---
-
-  ![](../assets/Team/BrewedBonding.png)
-
-  ---
-  ![](../assets/Team/ComfortingAura.png)
-
-  ---
-  ![](../assets/Team/CraftmansAura.png)
-
-  ---
-  ![](../assets/Team/FeastFellows.png)
-
-  ---
-  ![](../assets/Team/Guidance.png)
-
-  ---
-  ![](../assets/Team/Medic.png)
-</details>
+| Skill | Effect | Max Level | Cost |
+|---|---|---:|---:|
+| **Efficient Equestrian** | Increases horse speed while mounted. 200% mounted speed. | 1 | 1 SP |
+| **Champion Cyclist** | Increases bike speed while mounted. 100% mounted acceleration. | 1 | 1 SP |
+| **Gas Guru** | Reduces vehicle fuel consumption by 25% per level. | 3 | 1 SP / level |
+| **Seasoned Sailor** | Increases boat speed while mounted. | 1 | 1 SP |
+| **Prodigious Pilot** | Increases helicopter speed while mounted. | 1 | 1 SP |
 
 ---
 
 ## Continue Reading
 
-Now that you know how to spend your Skill Points efficiently, it's time to start building your economy.
+Looking for more detailed guides?
 
-Continue with **Best RP Methods** to learn the fastest and most consistent ways to earn RP on Brits PvE Worlds.
+Continue with the **Legendary Sets**, **Food System**, and **Best RP Methods** pages to learn how these skills fit into progression.

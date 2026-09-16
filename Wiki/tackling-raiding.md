@@ -30,8 +30,8 @@ Raiding is one of the most rewarding activities on Brits PvE Worlds. By purchasi
 
 ## Starting a Raid
 
-1. Use **`/hub`**.
-2. Enter one of the red portals leading to **Raid World 1–4**.
+1. Use **`/worlds`**.
+2. Enter one of the **Raid World 1–4**.
 3. Use **`/buyraid`** to purchase a raid base.
 
 ---

@@ -9,7 +9,7 @@ Prestige perks are special unlocks that provide powerful quality-of-life improve
 
 > 💡 **Recommended Perks**
 >
-> - Double Skill Points
+> - 5 Starting SP
 > - Nightvision
 > - 20% XP Boost
 
@@ -22,14 +22,6 @@ These perks help you level up faster and progress through the server more effici
 ## +5 Starting Skill Points
 
 Start every prestige with **5 additional Skill Points**, allowing you to unlock useful skills much earlier.
-
----
-
-## Double Skill Points
-
-Gain **4 Skill Points per level** instead of the normal 2.
-
-One of the strongest progression perks, especially for newer players.
 
 ---
 
@@ -67,14 +59,6 @@ Excellent for players who travel frequently between bases and events.
 
 ---
 
-## Raid World Command
-
-Unlocks a command that allows you to teleport directly to the Raid Worlds from anywhere.
-
-Saves time by avoiding trips through the HUB.
-
----
-
 # Automation Perks
 
 ## Auto Sell
@@ -90,16 +74,6 @@ See the **Auto Sell** page for a complete setup guide.
 Unlocks the Terminal system, allowing advanced storage equipment and industrial automation.
 
 See the **Terminal** page for more information.
-
----
-
-# Building Perks
-
-## +350 Foundation Limit
-
-Increases your maximum foundation limit by **350 foundations**, allowing for much larger base building.
-
-Ideal for large automated bases or clan compounds.
 
 ---
 
@@ -159,18 +133,6 @@ Unlocks a companion bear that can:
 - Carry items in its own inventory
 
 Excellent for farming and long resource runs.
-
----
-
-# Economy Perks
-
-## Personal Casino
-
-Own your own Casino where other players can gamble using odds that you configure.
-
-> 💡 **Note**
->
-> Like any casino, players can win or lose depending on the odds you choose to offer.
 
 ---
 

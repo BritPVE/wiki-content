@@ -33,8 +33,8 @@ Dungeons are procedurally generated PvE challenges filled with custom enemies, a
 
 ## Starting a Dungeon
 
-1. Use **`/hub`**.
-2. Enter one of the **Raid World (1-4)** portals.
+1. Use **`/worlds`**.
+2. Enter one of the **Raid World (1-4)**.
 3. Enter the **Dungeon** portal.
 4. Use **`/buydungeon`**.
 5. Purchase a Dungeon using **Tape**.
