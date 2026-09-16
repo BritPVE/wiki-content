@@ -15,8 +15,8 @@ The geneticist skill allows you to choose the exact gene combination for a seed,
 
 ## Video Guide
 
-@[youtube](https://www.youtube.com/watch?v=LkRuThloZjs){width=960 height=540}
-> Outdated as of 03/09/2026 - V2 changed a lot of things.
+@[youtube](https://www.youtube.com/watch?v=E7c142tDCtQ){width=960 height=540}
+
 
 ---
 
@@ -41,10 +41,10 @@ Before using the skill, make sure you have:
 4. Search for the **geneticist ultimate** and click on **activate**.
 5. Select the desired gene combination from the menu.
 
-![Plant Gene Structure menu](../assets/setgenes-gene-structure.png)
+![Plant Gene Structure menu](../assets/SetGenes.png)
 
 6. Close the menu using the **X** in the top-right corner.
-7. Plant **one seed** in a planter box.
+7. Plant **one seed** in a planter box. *note: **DO NOT SHIFT CLICK YOUR SEEDS***
 8. Your planted seed should now have the selected gene combination.
 
 ---
