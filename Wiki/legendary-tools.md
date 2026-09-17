@@ -108,6 +108,18 @@ Increases Bone Fragment yield from harvested animals by **4x**.
 
 ---
 
+### Mad's Magical Tools
+
+A set of tools you can **drag** onto a damaged item to repair it, item is **single use** and stacks up to 50.
+
+---
+
+### Mad's Extra Magical Tools
+
+A significantly rarer set of tools that **fully repairs** any item it is used on. Item is **single use** and stacks to 50.
+
+---
+
 ## Continue Reading
 
 Now that you're familiar with the available Legendary Tools, continue with **Armor Inserts** to learn how they can further improve your survivability and performance.
