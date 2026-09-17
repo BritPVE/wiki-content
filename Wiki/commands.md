@@ -123,11 +123,9 @@ These are the commands every new player should know.
 
 ---
 
-# Skill Tree Commands
+# Skill Tree Abilities
 
-| Command | Description |
-|----------|-------------|
-| `/nstrike` | Airstrike ability |
+The **Orbital Strike** skill from the Combat tree is not triggered by a command. Once unlocked, the skill spawns a **flare** in your hotbar — throw the flare and the strike lands on that position.
 
 > 💡 **Airstrike Tip**
 >
