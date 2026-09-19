@@ -15,7 +15,7 @@ Each basic tree has its own XP pool and its own Skill Points. Specialized trees 
 
 ![Skill Tree home screen: the three primary trees, your overall level, Prestige and General Skillpoints, and the secondary Vehicles tree](../assets/SkillTree/home.png)
 
-Click a tree's diamond to open it. Each tree's info panel shows its XP sources and has a **Respec Tree** button that refunds every point assigned in that tree.
+Click a tree's diamond to open it. Each tree's info panel shows its XP sources and has a **Respec Tree** button.
 
 ### Skill Tree Sections
 
@@ -44,7 +44,7 @@ Click a tree's diamond to open it. Each tree's info panel shows its XP sources a
 
 > 💡 **Tip**
 >
-> Respeccing a tree requires **3 hours of playtime** before the button becomes available, so think before you commit points.
+> **Respecs are free, but on a timer.** Pressing **Respec Tree** refunds every point in that one tree (the others are untouched) and starts a **3 hour cooldown** that is shared by all trees: after respeccing Gathercraft you also have to wait 3 hours before you can respec Survivalcraft or Combat. The button shows **Ready** when it's available.
 
 > 💡 **Tip**
 >

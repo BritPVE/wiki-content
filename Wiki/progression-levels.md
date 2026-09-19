@@ -61,7 +61,7 @@ Use the wiki's **[XP Calculator](/xp-calculator)** to see the exact XP needed fo
 
 > 💡 **Tip**
 >
-> Respeccing a tree requires **3 hours of playtime** before it becomes available, so think before you commit points.
+> Respeccing a tree is free but has a **3 hour cooldown**. The cooldown is shared by all trees (respeccing one starts the timer for every tree), while the respec itself only refunds the tree you pressed it in. See the **[Skills](/wiki/skills)** page.
 
 ---
 
