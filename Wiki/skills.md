@@ -7,11 +7,15 @@ Brits PvE Worlds uses a Skill Tree system that allows you to specialize your cha
 - **Basic Trees:** Gathercraft, Survivalcraft, Combat
 - **Specialized Trees:** Vehicles *(more planned)*
 - **Maximum Level Per Basic Tree:** 30
-- **Maximum Overall Level:** 100
-- **Prestige:** Available at Level 100
+- **Maximum Overall Level:** 90 (the sum of the three basic trees)
+- **Prestige:** Available at overall level 90
 - **Specialization:** Each basic tree is divided into different sections based on their purpose.
 
-Each basic tree has its own XP pool and its own Skill Points. Specialized trees have no XP pool — you unlock points for them by raising your overall level, which is driven by your progress across the three basic trees. See the **Progression & Levels** page for the full breakdown.
+Each basic tree has its own XP pool and its own Skill Points. Specialized trees have no XP pool: they spend **General Skillpoints**, which you get by raising your overall level, which is driven by your progress across the three basic trees. See the **[Progression & Levels](/wiki/progression-levels)** page for the full breakdown.
+
+![Skill Tree home screen: the three primary trees, your overall level, Prestige and General Skillpoints, and the secondary Vehicles tree](../assets/SkillTree/home.png)
+
+Click a tree's diamond to open it. Each tree's info panel shows its XP sources and has a **Respec Tree** button.
 
 ### Skill Tree Sections
 
@@ -40,7 +44,11 @@ Each basic tree has its own XP pool and its own Skill Points. Specialized trees 
 
 > 💡 **Tip**
 >
-> Before prestiging, complete Quartermaster T4-T5 quests but **don't claim the rewards**. Once you prestige, turn them in immediately to gain levels much faster.
+> **Respecs are free, but on a timer.** Pressing **Respec Tree** refunds every point in that one tree (the others are untouched) and starts a **3 hour cooldown** that is shared by all trees: after respeccing Gathercraft you also have to wait 3 hours before you can respec Survivalcraft or Combat. The button shows **Ready** when it's available.
+
+> 💡 **Tip**
+>
+> Before prestiging, complete Quartermaster T4-T5 quests but **don't claim the rewards**. Once you prestige, turn them in immediately to gain levels much faster. See the **[Quests](/wiki/quests)** page for the payouts.
 
 ---
 
@@ -57,16 +65,18 @@ Your main goal during the early game is to level up as quickly as possible. Sinc
 Mining should be your priority if you plan on completing Stone, Metal, or Sulfur Quartermaster Tasks.
 
 **Prioritize unlocking:**
-- Mining yield increases
-- Mining speed
+- Mining yield increases (**Prospector**)
+- Mining speed (**Shatterpoint**)
 
 ### Priority 2 - Woodcutting
 
-If you're focusing on Wood Quartermaster Tasks, invest heavily into Woodcutting tree.
+If you're focusing on Wood Quartermaster Tasks, invest heavily into the Woodcutting section (**Timberfall** for yield, **Felling Blow** and **Clearcut** for speed).
 
 Try to unlock every gathering-related skill as early as possible.
 
-### Left: Mining
+![Gathercraft tree: Mining on the left, Woodcutting on the right, Scavenging on top, Gathering & Fishing at the bottom](../assets/SkillTree/gathercraft.png)
+
+### Mining (left side of the tree)
 
 | Skill | Effect | Max Level | Cost |
 |---|---|---:|---:|
@@ -77,7 +87,7 @@ Try to unlock every gathering-related skill as early as possible.
 | **Vein Seeker** | Automatically awards hotspot bonuses from both ore nodes and trees. | 1 | 1 SP |
 | **Shatterpoint** | 100% chance to instantly finish an ore node. | 1 | 5 SP |
 
-### Right: Woodcutting
+### Woodcutting (right side of the tree)
 
 | Skill | Effect | Max Level | Cost |
 |---|---|---:|---:|
@@ -87,7 +97,7 @@ Try to unlock every gathering-related skill as early as possible.
 | **Felling Blow** | 100% chance to instantly chop down a tree. | 1 | 5 SP |
 | **Clearcut** | 35% chance to harvest nearby trees within a 10m radius. | 1 | 5 SP |
 
-### Top: Scavenging
+### Scavenging (top of the tree)
 | Skill | Effect | Max Level | Cost |
 |---|---|---:|---:|
 | **Treasure Hunter** | Automatically dig and collect stash/cache rewards. | 1 | 1 SP |
@@ -95,7 +105,7 @@ Try to unlock every gathering-related skill as early as possible.
 | **Salvage King** | Increase scrap found from barrels and crates by 100% per level. | 3 | 1 SP / level |
 | **Parts Hunter** | 15% chance per level to duplicate a component from barrels and crates. | 3 | 1 SP / level |
 
-### Bottom: Gathering & Fishing
+### Gathering & Fishing (bottom of the tree)
 
 | Skill | Effect | Max Level | Cost |
 |---|---|---:|---:|
@@ -115,7 +125,7 @@ Try to unlock every gathering-related skill as early as possible.
 
 Survivalcraft focuses on survival, crafting, farming, cooking, and improving your ability to gather and use resources.
 
-### Left: Skinning
+### Skinning (left side of the tree)
 
 | Skill | Effect | Max Level | Cost |
 |---|---|---:|---:|
@@ -124,7 +134,7 @@ Survivalcraft focuses on survival, crafting, farming, cooking, and improving you
 | **Predator's Eye** | Snapshots nearby animals within a 200m radius. 60s cooldown. | 1 | 5 SP |
 | **Slice 'N Dice** | 25% chance to instantly finish skinning. | 1 | 1 SP |
 
-### Right: Crafting & Building
+### Crafting & Building (right side of the tree)
 
 | Skill | Effect | Max Level | Cost |
 |---|---|---:|---:|
@@ -136,7 +146,7 @@ Survivalcraft focuses on survival, crafting, farming, cooking, and improving you
 | **Bargain Hunter** | 75% chance to refund the scrap research cost. | 1 | 1 SP |
 | **Refined Blueprints** | 25% chance to duplicate crafted items unless blacklisted. | 1 | 5 SP |
 
-### Top: Survival
+### Survival (top of the tree)
 
 | Skill | Effect | Max Level | Cost |
 |---|---|---:|---:|
@@ -146,12 +156,12 @@ Survivalcraft focuses on survival, crafting, farming, cooking, and improving you
 | **Rejuvenating Presence** | Shares 25% of your healing with allies within 30m. | 1 | 5 SP |
 | **Inspired Decor** | Gain full comfort while within TC range. | 1 | 1 SP |
 
-### Bottom: Farming
+### Farming (bottom of the tree)
 
 | Skill | Effect | Max Level | Cost |
 |---|---|---:|---:|
 | **Bountiful Harvest** | Increases planted crop yield by 50%. | 1 | 1 SP |
-| **Geneticist** | Unlocks crop gene setting. 3h cooldown. | 1 | 5 SP |
+| **Geneticist** | Unlocks crop gene setting. 3h cooldown. See the [Geneticist Guide](/wiki/skills-setgenes-guide). | 1 | 5 SP |
 | **Free Refills** | 10% chance per level to refund consumed items. | 3 | 1 SP / level |
 | **Lightweight** | Increases tea duration by 25% per level. | 3 | 1 SP / level |
 | **Mad Hatter** | Unlocks a 60 minute tea effect. 4h cooldown. | 1 | 5 SP |
@@ -193,7 +203,7 @@ Combat focuses on improving your effectiveness in PvE combat, explosives, NPC en
 | **Reliable Fuses** | Dud explosives detonate anyway. | 1 | 1 SP |
 | **Aerodynamically Sound** | Increases rocket velocity by 500%. | 1 | 5 SP |
 | **Blastproof** | Take no damage from your own explosives. | 1 | 1 SP |
-| **Orbital Strike** | Spawns a flare in your hotbar — throw it to call in an orbital strike. 5 minute cooldown. | 1 | 5 SP |
+| **Orbital Strike** | Spawns a flare in your hotbar. Throw it to call in an orbital strike on that spot. 5 minute cooldown. Keep a hotbar slot free for the flare. | 1 | 5 SP |
 
 ### Environmental Resistance
 
@@ -209,7 +219,9 @@ Combat focuses on improving your effectiveness in PvE combat, explosives, NPC en
 
 ## Vehicles
 
-The Vehicles skill tree improves the performance and efficiency of different vehicle types. It is a **specialized tree**, so it has no XP pool of its own — its points come from raising your overall level through the three basic trees.
+The Vehicles skill tree improves the performance and efficiency of different vehicle types. It is a **specialized tree**, so it has no XP pool of its own: it spends the **General Skillpoints** that come from raising your overall level through the three basic trees.
+
+![Vehicles tree](../assets/SkillTree/vehicles.png)
 
 | Skill | Effect | Max Level | Cost |
 |---|---|---:|---:|
@@ -225,4 +237,4 @@ The Vehicles skill tree improves the performance and efficiency of different veh
 
 Looking for more detailed guides?
 
-Continue with the **Legendary Sets**, **Food System**, and **Best RP Methods** pages to learn how these skills fit into progression.
+Continue with the **[Legendary Sets](/wiki/legendary-sets)**, **[Food System](/wiki/food-and-meal-system)**, and **[Best RP Methods](/wiki/best-rp-methods)** pages to learn how these skills fit into progression.

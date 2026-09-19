@@ -2,7 +2,7 @@
 
 This page summarizes questions and answers discussed during recent Brits PvE Worlds Town Halls.
 
-> [!NOTE]
+> 💡 **Note**
 >
 > Answers reflect the information provided by the development team at the time of the Town Hall. Some systems may change as development continues.
 
@@ -54,11 +54,13 @@ Some current XP sources are also affected by bugs.
 ### How is XP divided between the three main trees?
 
 The current intended total XP requirements are:
+
 | Skill Tree | Total XP |
 |---|---:|
 | Gathercraft | 5,000,000 |
 | Combat | 5,000,000 |
 | Survivalcraft | 2,000,000 |
+
 Survivalcraft requires less total XP because it currently has fewer available XP sources.
 
 ---

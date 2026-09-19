@@ -10,32 +10,32 @@ The Food System introduces dozens of custom meals and ingredients that provide p
 
 > 💡 **Tip**
 >
-> Food bonuses stack with many bonuses from the **Skill Tree**, making meals an important part of progression.
+> Food bonuses stack with many bonuses from the **[Skill Tree](/wiki/skills)**, making meals an important part of progression.
 
 ---
 
-# Food System Basics
+## Food System Basics
 
 When opening your inventory, you'll notice four green buttons in the bottom-right corner:
 
-- **Meals**
-- **iBag**
-- **Cook**
-- **Market**
+| Button | What it does | Command |
+|---|---|---|
+| **Meals** | Shows your active food buffs | (no command) |
+| **iBag** | Your ingredients bag (also works as a fridge) | `/ibag` |
+| **Cook** | The cooking menu, where you craft meals | `/cook` |
+| **Market** | The Farmers Market, where players buy and sell ingredients | `/fmarket` |
 
-Each serves a different purpose.
+![The four food buttons in the bottom-right corner of the inventory. The ingredients shown have a snowflake because the iBag keeps them refrigerated](../assets/Food/inventory-buttons.png)
 
----
+Each is explained below.
 
-## Meals
+### Meals
 
 The **Meals** menu displays all active food buffs currently affecting your character.
 
-This button only becomes available while carrying at least one cooked meal.
+This button only becomes available while you are carrying at least one cooked meal.
 
----
-
-## iBag
+### iBag
 
 The **iBag** automatically stores food ingredients such as milk, vegetables, meat, and other cooking materials.
 
@@ -45,57 +45,33 @@ Benefits include:
 - Functions as a refrigerator.
 - Prevents ingredients from spoiling.
 
----
+### Cook
 
-## Cook
+The **Cook** menu is where you create custom meals. It contains four sections:
 
-The **Cook** menu is where you'll create custom meals.
-
-It contains four sections:
-
-### Recipes
-
-Displays every meal you can craft.
-
-Selecting a meal shows:
+**Recipes** displays every meal you can craft. Selecting a meal shows:
 
 - Required ingredients
 - Crafting cost
 - Meal effects
 - Buff duration
 
-### Ingredients
+**Ingredients** shows every ingredient available on the server and explains where it can be obtained.
 
-Shows every ingredient available on the server and explains where it can be obtained.
+**Favourites** lists the meals you've starred for quick access. Click the ⭐ inside a recipe to favourite it.
 
-### Favourites
+**Settings** contains various cooking-related options. All settings are enabled by default.
 
-Favourite meals appear here for quick crafting access.
+### Market
 
-Simply click the ⭐ inside a recipe to favourite it.
-
-### Settings
-
-Contains various cooking-related options.
-
-All settings are enabled by default.
-
----
-
-## Market
-
-The **Farmers Market** allows players to buy and sell cooking ingredients.
-
-Examples include:
+The **Farmers Market** allows players to buy and sell cooking ingredients, for example:
 
 - Bread
 - Sugar
 - Cloth
 - Other cooking materials
 
-To buy items, you'll spend Scrap.
-
-Selling ingredients rewards you with Scrap.
+Buying costs **Scrap**, and selling ingredients rewards you with **Scrap**.
 
 > 💡 **Important**
 >
@@ -103,59 +79,73 @@ Selling ingredients rewards you with Scrap.
 
 ---
 
-# Recommended Meals
+## Which Meal for Which Activity
 
-These are the meals you'll use most often throughout your progression.
+Quick reference for the most common activities on the server.
 
-| Activity | Best Meal |
-|-----------|-----------|
-| Mining | Bangers and Mash |
-| Wood Farming | Grilled Pork Kebab |
-| Farming | Mushroom Soup |
-| Animal Farming | Succulent Chicken Sandwich |
+| Activity | Recommended Meal |
+|-----------|------------------|
+| Quartermaster (Stone, Metal, Sulfur) / Mining | Bangers and Mash |
+| Quartermaster (Wood) / Wood Farming | Grilled Pork Kebab |
 | Crafting | Pork Omelette |
+| Farming (player-grown crops) | Mushroom Soup |
+| Animal Farming / Bone Fragments | Succulent Chicken Sandwich |
 | Bradley | Chocolate Calzone |
+| Patrol Helis | Steak Dinner |
+| Harbinger | French Toast |
+| Deep Sea | Pumpkin Pie |
+| Fishing | Baked Trout |
+| Raiding | Pancakes |
+| Healing | Pumpkin Pie |
+| Radiation | Chernobyl Casserole |
+| Group Bosses | Berry Cobbler |
 
 > 💡 **Tip**
 >
-> The **Slow Metabolism** skill in the Cooking Skill Tree increases meal duration, allowing buffs to last significantly longer.
+> The **Skilled Chef** skill (Survivalcraft tree, Farming section) doubles cooking speed and **meal buff duration**, so your buffs last twice as long.
+
+---
+
+## Recommended Meals
+
+These are the meals you'll use most often throughout your progression.
 
 <details>
-<summary>⏬ <h3>RECOMMENDED MEALS</h3> ⏫</summary>
+<summary><strong>⏬ Show the recommended meals ⏫</strong></summary>
 
 ### Gathering & Progression
 
-![](../assets/AllMeals/BangersandMash.png)
+![Bangers and Mash](../assets/AllMeals/BangersandMash.png)
 
 Best meal for Quartermaster Stone, Metal and Sulfur quests.
 
 ---
 
-![](../assets/AllMeals/GrilledPorkKebab.png)
+![Grilled Pork Kebab](../assets/AllMeals/GrilledPorkKebab.png)
 
 Best meal for Quartermaster Wood quests.
 
 ---
 
-![](../assets/AllMeals/PorkOmelette.png)
+![Pork Omelette](../assets/AllMeals/PorkOmelette.png)
 
 Best meal for Crafting quests.
 
 ---
 
-![](../assets/AllMeals/MushroomSoup.png)
+![Mushroom Soup](../assets/AllMeals/MushroomSoup.png)
 
 Best meal for harvesting player-grown crops.
 
 ---
 
-![](../assets/AllMeals/SucculentChickenSandwhich.png)
+![Succulent Chicken Sandwich](../assets/AllMeals/SucculentChickenSandwhich.png)
 
 Best meal for farming animals and Bone Fragments.
 
 ---
 
-![](../assets/AllMeals/ChocolateCalzone.png)
+![Chocolate Calzone](../assets/AllMeals/ChocolateCalzone.png)
 
 Best meal when tackling Bradleys.
 
@@ -163,68 +153,56 @@ Best meal when tackling Bradleys.
 
 ---
 
-# Useful Meals
+## Useful Meals
 
 These meals aren't used as frequently but are extremely valuable in certain situations.
 
-| Activity | Recommended Meal |
-|-----------|------------------|
-| Fishing | Baked Trout |
-| Patrol Helis | Steak Dinner |
-| Healing | Pumpkin Pie |
-| Radiation | Chernobyl Casserole |
-| Raiding | Pancakes |
-| Harbinger | French Toast |
-| Group Bosses | Berry Cobbler |
-
 <details>
-<summary>🔽 <h3>USEFUL MEALS</h3> 🔼</summary>
+<summary><strong>🔽 Show the useful meals 🔼</strong></summary>
 
----
-
-![](../assets/AllMeals/BakedTrout.png)
+![Baked Trout](../assets/AllMeals/BakedTrout.png)
 
 Best meal for Fishing.
 
 ---
 
-![](../assets/AllMeals/SteakDinner.png)
+![Steak Dinner](../assets/AllMeals/SteakDinner.png)
 
 Excellent for Patrol Helis and difficult PvE encounters.
 
 ---
 
-![](../assets/AllMeals/PumpkinPie.png)
+![Pumpkin Pie](../assets/AllMeals/PumpkinPie.png)
 
 Provides exceptional healing.
 
 ---
 
-![](../assets/AllMeals/ChernobylCasserole.png)
+![Chernobyl Casserole](../assets/AllMeals/ChernobylCasserole.png)
 
 Only meal that provides Radiation protection.
 
 ---
 
-![](../assets/AllMeals/GnocchiNeapolitan.png)
+![Gnocchi Neapolitan](../assets/AllMeals/GnocchiNeapolitan.png)
 
 Great preparation meal before tackling difficult content.
 
 ---
 
-![](../assets/AllMeals/Pancakes.png)
+![Pancakes](../assets/AllMeals/Pancakes.png)
 
 Excellent for Raiding.
 
 ---
 
-![](../assets/AllMeals/FrenchToast.png)
+![French Toast](../assets/AllMeals/FrenchToast.png)
 
 Great preparation meal before Harbinger or Patrol Helis.
 
 ---
 
-![](../assets/AllMeals/BerryCobbler.png)
+![Berry Cobbler](../assets/AllMeals/BerryCobbler.png)
 
 Excellent support meal for group activities thanks to its healing effects.
 
@@ -232,298 +210,275 @@ Excellent support meal for group activities thanks to its healing effects.
 
 ---
 
-# Ingredients
+## Ingredients
 
 Every meal requires ingredients gathered throughout the server.
 
 You can discover where each ingredient comes from through the **Ingredients** section inside the Cooking menu.
 
 <details>
-<summary>🔽 <h3>INGREDIENTS</h3> 🔼</summary>
+<summary><strong>🔽 Show all ingredients 🔼</strong></summary>
+
+![Anti Red Bills](../assets/Ingredients/AntiRedBills.png)
 
 ---
 
-![](../assets/Ingredients/AntiRedBills)
+![Apple](../assets/Ingredients/Apple.png)
 
 ---
 
-![](../assets/Ingredients/Apple)
+![Blueberry](../assets/Ingredients/BlueBerry.png)
 
 ---
 
-![](../assets/Ingredients/Blueberry)
+![Bread Loaf](../assets/Ingredients/BreadLoaf.png)
 
 ---
 
-![](../assets/Ingredients/BreadLoaf)
+![Cheese](../assets/Ingredients/Cheese.png)
 
 ---
 
-![](../assets/Ingredients/Cheese)
+![Chocolate](../assets/Ingredients/Chocolate.png)
 
 ---
 
-![](../assets/Ingredients/Chocolate)
+![Cloth](../assets/Ingredients/Cloth.png)
 
 ---
 
-![](../assets/Ingredients/Cloth)
+![Corn](../assets/Ingredients/Corn.png)
 
 ---
 
-![](../assets/Ingredients/Corn)
+![Egg](../assets/Ingredients/Egg.png)
 
 ---
 
-![](../assets/Ingredients/Egg)
+![Milk](../assets/Ingredients/Milk.png)
 
 ---
 
-![](../assets/Ingredients/Milk)
+![Mushroom](../assets/Ingredients/Mushroom.png)
 
 ---
 
-![](../assets/Ingredients/Mushroom)
+![Pineapple](../assets/Ingredients/Pineapple.png)
 
 ---
 
-![](../assets/Ingredients/Pineapple)
+![Potato](../assets/Ingredients/potato.png)
 
 ---
 
-![](../assets/Ingredients/potato)
+![Pumpkin](../assets/Ingredients/Pumpkin.png)
 
 ---
 
-![](../assets/Ingredients/Pumpkin)
+![Raw Bear Meat](../assets/Ingredients/RawBearMeat.png)
 
 ---
 
-![](../assets/Ingredients/RawBearMeat)
+![Raw Chicken Breast](../assets/Ingredients/RawChickenBreast.png)
 
 ---
 
-![](../assets/Ingredients/RawChickenBreast)
+![Raw Fish](../assets/Ingredients/RawFish.png)
 
 ---
 
-![](../assets/Ingredients/RawFish)
+![Raw Pork](../assets/Ingredients/RawPork.png)
 
 ---
 
-![](../assets/Ingredients/RawPork)
+![Raw Wolf Meat](../assets/Ingredients/RawWolfMeat.png)
 
 ---
 
-![](../assets/Ingredients/RawWolfMeat)
+![Red Berry](../assets/Ingredients/RedBerry.png)
 
 ---
 
-![](../assets/Ingredients/RedBerry)
+![Rice](../assets/Ingredients/Rice.png)
 
 ---
 
-![](../assets/Ingredients/Rice)
+![Seaweed](../assets/Ingredients/Seaweed.png)
 
 ---
 
-![](../assets/Ingredients/Seaweed)
+![Small Trout](../assets/Ingredients/SmallTrout.png)
 
 ---
 
-![](../assets/Ingredients/SmallTrout)
+![Spices](../assets/Ingredients/Spices.png)
 
 ---
 
-![](../assets/Ingredients/Spices)
+![Sugar](../assets/Ingredients/Sugar.png)
 
 ---
 
-![](../assets/Ingredients/Sugar)
+![Tomato](../assets/Ingredients/Tomato.png)
 
 ---
 
-![](../assets/Ingredients/Tomato)
-
----
-
-![](../assets/Ingredients/Wheat)
+![Wheat](../assets/Ingredients/Wheat.png)
 
 </details>
 
 ---
 
-# Other Meals
+## Other Meals
 
 The meals below have more niche uses and are generally crafted less frequently, but each still has its own purpose.
 
 <details>
-<summary>⤵️ <h3>ALL OTHER MEALS</h3> ⤴️</summary>
+<summary><strong>⤵️ Show all other meals ⤴️</strong></summary>
+
+![Apple Cake](../assets/AllMeals/AppleCake.png)
 
 ---
 
-![](../assets/AllMeals/AppleCake.png)
+![Bear Burger](../assets/AllMeals/BearBurger.png)
 
 ---
 
-![](../assets/AllMeals/BearBurger.png)
+![Bear Stew](../assets/AllMeals/BearStew.png)
 
 ---
 
-![](../assets/AllMeals/BearStew.png)
+![Beef Stew](../assets/AllMeals/BeefStew.png)
 
 ---
 
-![](../assets/AllMeals/BeefStew.png)
+![Burrito](../assets/AllMeals/Burrito.png)
 
 ---
 
-![](../assets/AllMeals/Burrito.png)
+![Cannelloni](../assets/AllMeals/Cannelloni.png)
 
 ---
 
-![](../assets/AllMeals/Cannelloni.png)
+![Cheese](../assets/AllMeals/Cheese.png)
 
 ---
 
-![](../assets/AllMeals/Cheese.png)
+![Cheese Toasty](../assets/AllMeals/CheeseToasty.png)
 
 ---
 
-![](../assets/AllMeals/CheeseToasty.png)
+![Chicken and Mushroom](../assets/AllMeals/ChickenAndMushroom.png)
 
 ---
 
-![](../assets/AllMeals/ChickenAndMushroom.png)
+![Chicken Burger](../assets/AllMeals/ChickenBurger.png)
 
 ---
 
-![](../assets/AllMeals/ChickenBurger.png)
+![Chicken Dinner](../assets/AllMeals/ChickenDinner.png)
 
 ---
 
-![](../assets/AllMeals/ChickenDinner.png)
+![Chilli Cheese Fries](../assets/AllMeals/ChilliCheeseFries.png)
 
 ---
 
-![](../assets/AllMeals/ChilliCheeseFries.png)
+![Chilli Con Carne](../assets/AllMeals/ChilliConCarne.png)
 
 ---
 
-![](../assets/AllMeals/ChilliConCarne.png)
+![Chocolate Brownie](../assets/AllMeals/ChocolateBrownie.png)
 
 ---
 
-![](../assets/AllMeals/ChocolateBrownie.png)
+![Cottage Pie](../assets/AllMeals/CottagePie.png)
 
 ---
 
-![](../assets/AllMeals/CottagePie.png)
+![Curry](../assets/AllMeals/Curry.png)
 
 ---
 
-![](../assets/AllMeals/Curry.png)
+![Dark Chocolate Mousse](../assets/AllMeals/DarkChocolateMousse.png)
 
 ---
 
-![](../assets/AllMeals/DarkChocolateMousse.png)
+![Fish and Chips](../assets/AllMeals/FishAndChips.png)
 
 ---
 
-![](../assets/AllMeals/FishAndChips.png)
+![Fish Eye Soup](../assets/AllMeals/FishEyeSoup.png)
 
 ---
 
-![](../assets/AllMeals/FishEyeSoup.png)
+![Fried Chicken](../assets/AllMeals/FriedChicken.png)
 
 ---
 
-![](../assets/AllMeals/FriedChicken.png)
+![Ham and Pineapple Pizza](../assets/AllMeals/HamPineapplePizza.png)
 
 ---
 
-![](../assets/AllMeals/HamPineapplePizza.png)
+![Horse Feed](../assets/AllMeals/HorseFeed.png)
 
 ---
 
-![](../assets/AllMeals/HorseFeed.png)
+![Icecream](../assets/AllMeals/Icecream.png)
 
 ---
 
-![](../assets/AllMeals/Icecream.png)
+![Mozzarella Sticks](../assets/AllMeals/MozzarellaSticks.png)
 
 ---
 
-![](../assets/AllMeals/MozzarellaSticks.png)
+![Packed Lunch](../assets/AllMeals/PackedLunch.png)
 
 ---
 
-![](../assets/AllMeals/PackedLunch.png)
+![Pepperoni Pizza](../assets/AllMeals/PepperoniPizza.png)
 
 ---
 
-![](../assets/AllMeals/PepperoniPizza.png)
+![Pineapple Fritta](../assets/AllMeals/PineappleFritta.png)
 
 ---
 
-![](../assets/AllMeals/PineappleFritta.png)
+![Pumpkin Soup](../assets/AllMeals/PumpkinSoup.png)
 
 ---
 
-![](../assets/AllMeals/PumpkinSoup.png)
+![Roast Chicken Pie](../assets/AllMeals/RoastChickenPie.png)
 
 ---
 
-![](../assets/AllMeals/RoastChickenPie.png)
+![Sausage Roll](../assets/AllMeals/SausageRoll.png)
 
 ---
 
-![](../assets/AllMeals/SausageRoll.png)
+![Scrambled Eggs](../assets/AllMeals/ScrambledEggs.png)
 
 ---
 
-![](../assets/AllMeals/ScrambledEggs.png)
+![Spaghetti and Meatballs](../assets/AllMeals/SpaghettiAndMeatballs.png)
 
 ---
 
-![](../assets/AllMeals/SpaghettiAndMeatballs.png)
+![Sponge Cake](../assets/AllMeals/SpongeCake.png)
 
 ---
 
-![](../assets/AllMeals/SpongeCake.png)
+![Steak with Red Wine Jus](../assets/AllMeals/SteakWithRedWineJus.png)
 
 ---
 
-![](../assets/AllMeals/SteakWithRedWineJus.png)
+![Sushi](../assets/AllMeals/Sushi.png)
 
 ---
 
-![](../assets/AllMeals/Sushi.png)
-
----
-
-![](../assets/AllMeals/VegetablePizza.png)
+![Vegetable Pizza](../assets/AllMeals/VegetablePizza.png)
 
 </details>
-
----
-
-# Meal Recommendations
-
-Here's a quick reference for some of the most common activities on the server.
-
-| Activity | Recommended Meal |
-|-----------|------------------|
-| Quartermaster (Wood) | Grilled Pork Kebab |
-| Quartermaster (Mining) | Bangers and Mash |
-| Farming | Mushroom Soup |
-| Animal Farming | Succulent Chicken Sandwich |
-| Bradley | Chocolate Calzone |
-| Patrol Helis | Steak Dinner |
-| Harbinger | French Toast |
-| Deep Sea | Pumpkin Pie |
-| Fishing | Baked Trout |
-| Raiding | Pancakes |
 
 ---
 
@@ -531,4 +486,4 @@ Here's a quick reference for some of the most common activities on the server.
 
 Meals become even stronger when combined with the **Skill Tree**.
 
-Continue with the **Skills** page to learn which perks synergize best with cooking and food buffs.
+Continue with the **[Skills](/wiki/skills)** page to learn which perks synergize best with cooking and food buffs.

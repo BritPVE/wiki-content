@@ -1,6 +1,6 @@
 # Tackling Raiding
 
-Raiding is one of the most rewarding activities on Brits PvE Worlds. By purchasing pre-built raid bases, you can earn valuable loot and large amount of RP while testing your raiding skills.
+Raiding is one of the most rewarding activities on Brits PvE Worlds. By purchasing pre-built raid bases, you can earn valuable loot and large amounts of RP while testing your raiding skills.
 
 ## Quick Overview
 
@@ -15,12 +15,12 @@ Raiding is one of the most rewarding activities on Brits PvE Worlds. By purchasi
 ### Essential
 
 - Plenty of Rockets or C4
-- Full Raiding Skill Tree (**`/st`**)
+- The **Explosives** skills from the Combat tree (**[`/st`](/wiki/skills)**)
 
 ### Highly Recommended
 
-- **Brits Boom Stick**
-- **Ashmaker**
+- **[Brits Boom Stick](/wiki/legendary-weapons)**
+- **[Ashmaker](/wiki/legendary-weapons)**
 
 > 💡 **Tip**
 >
@@ -31,27 +31,32 @@ Raiding is one of the most rewarding activities on Brits PvE Worlds. By purchasi
 ## Starting a Raid
 
 1. Use **`/worlds`**.
-2. Enter one of the **Raid World 1–4**.
-3. Use **`/buyraid`** to purchase a raid base.
+2. Enter one of the **Raid Worlds (1-5)**.
+3. Use **`/buyraid`**, choose a difficulty and purchase the raid base with RP.
 
 ---
 
 ## Raid Difficulties
 
-| Difficulty | Base Material | Recommended For |
-|------------|---------------|-----------------|
-| **Easy** | Wood | New Players |
-| **Medium** | Metal | Mid Game |
-| **Hard** | HQM | Experienced Players |
-| **Nightmare** | HQM | End Game |
+Raid bases are bought with RP from the **Buyable Events** menu (`/buyraid`). Combat XP per completed raid is from the **[Progression & Levels](/wiki/progression-levels)** page.
 
-Higher Difficulties require significantly more explosives but offer much better rewards.
+![Buyable Events menu](../assets/Raids/buyraid-menu.png)
+
+| Difficulty | Price | Base Material | Combat XP | Recommended For |
+|------------|------:|---------------|----------:|-----------------|
+| **Easy** | 500 RP | Wood | 1,000 | New Players |
+| **Medium** | 1,000 RP | Metal | 2,500 | Mid Game |
+| **Hard** | 5,000 RP | HQM | 5,000 | Experienced Players |
+| **Expert** | 10,000 RP | HQM | 7,000 | End Game |
+| **Nightmare** | 20,000 RP | HQM | 12,000 | End Game |
+
+Higher difficulties require significantly more explosives but offer much better rewards.
 
 ---
 
 ## Combat Strategy
 
-Before attempting harder raid bases, make sure you've fully unlocked the **Raiding Skill Tree** through **`/st`**.
+Before attempting harder raid bases, make sure you've unlocked the **Explosives** section of the Combat tree through **`/st`** (Shockwave, Chain Reaction, Reliable Fuses, Aerodynamically Sound, Blastproof and Orbital Strike).
 
 While clearing a raid:
 
@@ -66,15 +71,15 @@ While clearing a raid:
 
 ---
 
-## Strike Ultimate
+## Orbital Strike
 
-If you're using the **Rain Hellfire** ultimate from the Raiding Skill Tree:
+If you're using the **Orbital Strike** skill from the Combat tree (it spawns a flare in your hotbar; throw it where you want the strike):
 
 > ⚠ **Important**
 >
-> Always destroy the **SAM Sites** before activating **`/strike`**.
+> Always destroy the **SAM Sites** before throwing the flare.
 >
-> Once smoke starts coming from the SAM Sites, they're disabled and your MLRS strike can safely hit the base.
+> Once smoke starts coming from the SAM Sites, they're disabled and your strike can safely hit the base.
 
 ---
 
@@ -82,7 +87,7 @@ If you're using the **Rain Hellfire** ultimate from the Raiding Skill Tree:
 
 Raiding is currently one of the best RP-making activities on the server.
 
-A **Nightmare Raid** costs appoximately **20,000 RP** to purchase but can reward **around 100,000 RP** upon completion, making it one of the highest-profit PvE activities available.
+A **Nightmare Raid** costs **20,000 RP** to purchase but can reward **around 100,000 RP** upon completion, making it one of the highest-profit PvE activities available. The Raiding questline on the **[Quests](/wiki/quests)** page pays out on top of that.
 
 ---
 
@@ -92,7 +97,7 @@ Raid cooldowns are tracked separately for each Raid World.
 
 > 💡 **Tip**
 >
-> Just like Bradley Islands, you can switch between **Raid Worlds 1–4** to continue raiding without waiting for your cooldown to expire.
+> Just like **[Bradley Islands](/wiki/tackling-bradleys)**, you can switch between **Raid Worlds 1-5** to continue raiding without waiting for your cooldown to expire.
 
 ---
 
@@ -100,4 +105,4 @@ Raid cooldowns are tracked separately for each Raid World.
 
 Looking for assistance or need to report a bug during a raid?
 
-Continue with **Support Tickets to learn when and how to contact the staff.
+Continue with **[Support Tickets](/wiki/support-tickets)** to learn when and how to contact the staff.

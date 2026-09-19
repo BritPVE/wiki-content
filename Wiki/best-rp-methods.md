@@ -1,12 +1,20 @@
 # Best RP Methods
 
-Learn the fastest and most reliable ways to earn RP throughout your progression, from your furst days on the server to the late game.
+Learn the fastest and most reliable ways to earn RP throughout your progression, from your first days on the server to the late game.
 
 ## Quick Overview
 
 - **Difficulty:** ⭐⭐☆☆☆
 - **Recommended For:** All Players.
 - **Main Goal:** Build a consistent RP income.
+
+| Method | Stage | Startup cost | Scales with |
+|---|---|---|---|
+| 1. Cloth farming | Beginner to end game | Medium | Seed stock and farm size |
+| 2. Tactical Gloves recycling | Level 1 onwards | Very low | Doesn't scale (one glove at a time) |
+| 3. Virtual Quarries | End game | Very high | Quarry slots (rank / prestige) and team size |
+
+---
 
 ## Method 1 - Cloth farming (Beginner to End Game)
 
@@ -19,36 +27,36 @@ Learn the fastest and most reliable ways to earn RP throughout your progression,
 
 #### Essentials
 
-- God seed
-- Planters (T3 from the **/s**)
-- Reaping Spade
+- God seed (see the **[Geneticist Guide](/wiki/skills-setgenes-guide)** for setting genes)
+- Planters (T3 from **`/s`**)
+- **[Reaping Spade](/wiki/legendary-tools)**
 
 #### Strongly Recommended
 
-- Full Farming Set
-- Fertile Bone
-- Mushroom Soup
-- Harvesting Skills
+- Full **[Farmer Set](/wiki/legendary-sets)**
+- **[Fertile Bone](/wiki/legendary-tools)**
+- **[Mushroom Soup](/wiki/food-and-meal-system)**
+- Farming skills from the **[Skill Tree](/wiki/skills)**
 
 #### Optional
 
 - 100k+ Bone Fragments
 
-## Step-by-Step
-1. Wait for night-time (use /tod to check sunset).
-Night lasts about 4 minutes.
-2. Consume Mushroom Soup to increase farming yield. (+50% Farming Yield)
+### Step-by-Step
+
+1. Wait for night-time (use `/tod` to check sunset). Night lasts about 4 minutes.
+2. Consume Mushroom Soup to increase farming yield (+50% Farming Yield).
 3. Use the Reaping Spade on the center planter of your 3x3 setup to harvest all crops instantly.
 4. Immediately replant the seeds and use Fertile Bone to skip growth.
-5. Repeat the process till night ends.
-   
+5. Repeat the process until night ends.
+
 This method is currently one of the fastest and most consistent RP farming strategies on Brits PvE Worlds, especially when combined with a full farming setup and large seed stock.
 
 > 💡 **Selling Tip**
 >
 > Always use **`/pricecheck cloth`** or **`/pc cloth`** before selling.
 >
-> Cloth prices vary between worlds, so moving to the highest-paying server can significantly increase your profits.
+> Prices vary between worlds (this is true for HQM, scrap and sheet metal too), so moving to the highest-paying world can significantly increase your profits.
 > Only sell when the price of cloth is closer to ~2 RP.
 
 > 💡 **Bone Farming Tip**
@@ -68,10 +76,10 @@ This method is currently one of the fastest and most consistent RP farming strat
 
 This method offers one of the **highest RP-per-Scrap returns** in the game and can be used from **Level 1**. However, it is **not recommended for long-term farming**, as buying Tactical Gloves one at a time makes it very time-consuming, even for larger groups.
 
-### Requirements:
+### Requirements
 
 - Scrap *(100 is enough to get started)*
-- Recycler *(either at a monument or your own purchased from **`/s`**)*
+- **[Recycler](/wiki/recyclers)** *(either at a monument or your own purchased from **`/s`**)*
    - ⚠ **Do not recycle at Outpost or Bandit Camp.**
 
 ### Step-by-Step
@@ -120,7 +128,7 @@ This method offers one of the **highest RP-per-Scrap returns** in the game and c
 **Profitability:** ⭐⭐⭐⭐⭐  
 **Scalability:** ⭐⭐☆☆☆  
 
-This method is the best for passive profitablity at the end game, but it's very costly to fully upgrade. The amount of RP you earn scales with the size of your team.
+This method is the best for passive profitability at the end game, but it's very costly to fully upgrade. The amount of RP you earn scales with the size of your team. See the **[Virtual Quarries](/wiki/virtual-quarry)** page for the full upgrade tables.
 
 ### Requirements
 - Preferably **any rank or prestige** that gives you more quarry slots.  
@@ -132,46 +140,48 @@ This method is the best for passive profitablity at the end game, but it's very 
    - The best way to loot them are **brown boxes on roads** and **hard+ raid/heli**.
 
 2. Establish the best way for you to get **batteries, bleach, tape and both types of quarries**.
-   - You can always buy **bleach/tape from /s** if you have money from **Method 1*.
+   - You can always buy **bleach/tape from `/s`** if you have money from **Method 1**.
    - Batteries are pretty common in legendary helis and NM raids.
 
 3. Slowly but surely upgrade all of the quarries to **maximum level of 6**.
-   - Meanwhile you can run them, always make sure you have a net positive of diesiel.
+   - Meanwhile you can run them; always make sure you have a net positive of diesel.
 
-4. Once they are fully upgraded, you’re ready to start making money. Load diesel into the pumpjacks and quarries, then cook the crude and trade the low grade fuel at Outpost for more diesel. Keep repeating this process to maintain a net positive diesel balance while generating profit.
+4. Once they are fully upgraded, you're ready to start making money. Load diesel into the pumpjacks and quarries, then cook the crude and trade the low grade fuel at Outpost for more diesel. Keep repeating this process to maintain a net positive diesel balance while generating profit.
 
-5. Sell HQM you generated
-   - Make sure the price of hqm is about 6~ RP, you can always check it with **`/pricecheck hqm`** or **`/pc hqm`**
+5. Sell the HQM you generated.
+   - Make sure the price of HQM is around 6 RP. You can always check it with **`/pricecheck hqm`** or **`/pc hqm`**.
 
-### Some math   
+### Some math
 
 | Type | Per Minute | Per Hour |
 |---|---:|---:|
-| Pump Jack (Crude Oil) | 467.5 Crude Oil* | 28,050 Crude Oil |
-| Mining Quarry (HQM) | 416.5 HQM* | 24,990 HQM |
+| Pump Jack (Crude Oil) | 467.5 Crude Oil | 28,050 Crude Oil |
+| Mining Quarry (HQM) | 416.5 HQM | 24,990 HQM |
 
-*If they are fully maxed out
+Values are for fully maxed (Level 6) quarries.
 
->#### If you are Annual/Prestige 10, you get 5 mining quarries and 4 pumpjacks.
-> That means you gain almost 3mil HQM per day:   
-> (24,990 * 24) * 5 = 2,998,800 HQM/day    
+> **If you are Annual/Prestige 10, you get 5 mining quarries and 4 pumpjacks.**
 >
-> At 5.8 RP per HQM, that's about 17.4mil RP per day:    
-> 2,998,800 * 5.8 = 17,393,040 RP/day  
+> That means you gain almost 3 million HQM per day:
+> (24,990 × 24) × 5 = 2,998,800 HQM/day
 >
-> **So in total you get about 17.4mil RP per day.**
+> At 5.8 RP per HQM, that's about 17.4 million RP per day:
+> 2,998,800 × 5.8 = 17,393,040 RP/day
+>
+> **So in total you get about 17.4 million RP per day.**
 >
 > ---
 >
->#### If you have no Rank/Prestige you get 2 mining quarries and 1 pumpjack.
+> **If you have no Rank/Prestige you get 2 mining quarries and 1 pumpjack.**
 >
-> That means you gain almost 1.2mil HQM per day:
-> (24,990 * 24) * 2 = 1,199,520 HQM/day
+> That means you gain almost 1.2 million HQM per day:
+> (24,990 × 24) × 2 = 1,199,520 HQM/day
 >
-> At 5.8 RP per HQM, that's about 7mil RP per day:
-> 1,199,520 * 5.8 = 6,957,216 RP/day
+> At 5.8 RP per HQM, that's about 7 million RP per day:
+> 1,199,520 × 5.8 = 6,957,216 RP/day
 >
-> **So in total you get about 7mil RP per day.**
+> **So in total you get about 7 million RP per day.**
 >
 > ---
-> #### **This is assuming all quarries are fully maxed out and running continuously.**
+>
+> **This is assuming all quarries are fully maxed out and running continuously.**

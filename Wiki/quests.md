@@ -9,13 +9,13 @@ Brits PvE Worlds features a large collection of custom quests that reward player
 
 > 💡 **Tip**
 >
-> You can access your quest log at any time using **`/q`** or **`/quest`**.
+> You can access your quest log at any time using **`/q`** or **`/quest`**. Remember to **claim** finished quests from the menu, otherwise you don't get the rewards.
 
 ---
 
 ## Why Quests Matter
 
-Quest rewards are the dominant source of XP in the game. A Quartermaster T4 task pays **100,000 XP**; mining a single ore node pays **250**. Levelling without active quests attached to what you're doing means giving up the overwhelming majority of your XP.
+Quest rewards are the dominant source of XP in the game. A Quartermaster T4 task pays **100,000 XP**; mining a single ore node pays **250**. Levelling without active quests attached to what you're doing means giving up the overwhelming majority of your XP. See **[Progression & Levels](/wiki/progression-levels)** for the per-action XP values.
 
 Each quest pays into **one specific tree**, listed in the tables below. Gathering quests feed Gathercraft, combat and event quests feed Combat, and fishing, farming, and explosive-crafting quests feed Survivalcraft.
 
@@ -51,9 +51,9 @@ This isn't mandatory, but it provides one of the fastest progression paths for n
 
 ---
 
-# Quest Categories
+## Quest Categories
 
-## Starter Quests
+### Starter Quests
 
 Perfect for new players learning the server.
 
@@ -78,7 +78,7 @@ Perfect for new players learning the server.
 
 ---
 
-## Daily Quests
+### Daily Quests
 
 Repeatable quests that provide a steady source of XP, RP, and useful resources.
 
@@ -99,11 +99,11 @@ Repeatable quests that provide a steady source of XP, RP, and useful resources.
 
 ---
 
-## Quartermaster Tasks
+### Quartermaster Tasks
 
 One of the fastest ways to level your character.
 
-These quests revolve around gathering resources and become extremely efficient once you unlock the proper Skill Tree perks and Legendary Tools.
+These quests revolve around gathering resources and become extremely efficient once you unlock the proper **[Skill Tree](/wiki/skills)** perks and **[Legendary Tools](/wiki/legendary-tools)**.
 
 **Rewards**
 
@@ -135,9 +135,11 @@ These quests revolve around gathering resources and become extremely efficient o
 
 Wood tiers demand dramatically more raw material than the ore tiers for the same XP, so Stone, Metal, and Sulfur are the more efficient route to Gathercraft levels.
 
+> ⚠ **Wood T1 pays 25,000 XP**, ten times the ore T1 and more than Wood T2. This is what the quest currently pays, but it looks unintended and may be changed in a future update.
+
 ---
 
-## RP Item Quests
+### RP Item Quests
 
 A conversion chain that upgrades cheap scavenged items into progressively more valuable ones. These quests pay out in **items rather than XP or RP** — the value comes from selling what you receive.
 
@@ -158,9 +160,9 @@ Both are repeatable, so the chain can be run continuously.
 
 ---
 
-## Miscellaneous Quests
+### Miscellaneous Quests
 
-Special quests focused on Virtual Quarries and unlocking unique content.
+Special quests focused on **[Virtual Quarries](/wiki/virtual-quarry)** and unlocking unique content.
 
 **Rewards**
 
@@ -179,9 +181,9 @@ The LAGINATOR pays in progression unlocks rather than XP or RP.
 
 ---
 
-## Raiding Quests
+### Raiding Quests
 
-Progressive challenges centered around completing Raid Bases.
+Progressive challenges centered around completing Raid Bases. See **[Tackling Raiding](/wiki/tackling-raiding)**.
 
 **Rewards**
 
@@ -208,9 +210,9 @@ Progressive challenges centered around completing Raid Bases.
 
 ---
 
-## Bradley Quests
+### Bradley Quests
 
-Progress through increasingly difficult Bradley challenges.
+Progress through increasingly difficult Bradley challenges. See **[Tackling Bradleys](/wiki/tackling-bradleys)**.
 
 **Rewards**
 
@@ -235,9 +237,9 @@ Progress through increasingly difficult Bradley challenges.
 
 ---
 
-## Helicopter Quests
+### Helicopter Quests
 
-Progressive Patrol Heli challenges.
+Progressive Patrol Heli challenges. See **[Tackling Patrol Helis](/wiki/tackling-helis)**.
 
 **Rewards**
 
@@ -258,9 +260,9 @@ Progressive Patrol Heli challenges.
 
 ---
 
-## Dungeon Quests
+### Dungeon Quests
 
-Dungeon progression through multiple difficulty tiers.
+Dungeon progression through multiple difficulty tiers. See the **[Dungeon Guide](/wiki/dungeon-guide)**.
 
 **Rewards**
 
@@ -289,7 +291,7 @@ Dungeon progression through multiple difficulty tiers.
 
 ---
 
-## Boom God Quests
+### Boom God Quests
 
 Late-game crafting quests centered around explosives.
 
@@ -313,7 +315,7 @@ Because Survivalcraft only needs 2,000,000 XP in total, the final Boom God quest
 
 ---
 
-## Deep Sea Cargo Quests
+### Deep Sea Cargo Quests
 
 Progressive challenges built around clearing Deep Sea Cargo ships.
 
@@ -325,11 +327,11 @@ Progressive challenges built around clearing Deep Sea Cargo ships.
 | **Disrupting Supply Lines 2** | 6,000 | 7,500 |
 | **Disrupting Supply Lines 3** | 10,000 | 10,000 |
 
-See the **Deep Sea** page for how to run the cargos themselves.
+See the **[Deep Sea](/wiki/deep-sea)** page for how to run the cargos themselves.
 
 ---
 
-## Exploration Quests
+### Exploration Quests
 
 Explore custom content across the server.
 
@@ -339,7 +341,7 @@ Explore custom content across the server.
 
 ---
 
-## Fishing Quests
+### Fishing Quests
 
 Progress your fishing skills while earning useful rewards.
 
@@ -354,7 +356,7 @@ Progress your fishing skills while earning useful rewards.
 
 ---
 
-## Prestige Quests
+### Prestige Quests
 
 Long-term progression unlocked by reaching Prestige levels.
 
@@ -384,4 +386,4 @@ These pay out in perks and items rather than XP or RP, so they don't compete wit
 
 Want to level up even faster?
 
-Continue with **Progression & Levels** to learn the fastest leveling strategies and which skills to unlock first.
+Continue with **[Progression & Levels](/wiki/progression-levels)** to learn the fastest levelling strategies and which skills to unlock first.
