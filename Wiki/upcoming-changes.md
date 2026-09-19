@@ -4,17 +4,17 @@ This page contains a summary of features, improvements, balance changes, and qua
 
 Features are grouped by their current development status. Development plans may change, and features may be delayed, modified, or cancelled before release.
 
-> [!NOTE]
+> 💡 **Note**
 >
 > Information on this page comes from developer statements during Town Halls. This page is not a guaranteed roadmap.
 
 ---
 
-# 🚧 In Development
+## 🚧 In Development
 
 These features have been confirmed as actively being worked on.
 
-## Operations
+### Operations
 
 The existing Operations system is being actively developed and adjusted.
 The first Operation is receiving balance and difficulty changes, while additional Operations are already being developed.
@@ -23,7 +23,7 @@ Operations are intended to be group-based content rather than traditional solo c
 
 ---
 
-## Road Bradley
+### Road Bradley
 
 Bradleys are planned to transition into a more challenging Road Bradley system.
 The current Bradley system is considered too easy for its rewards, so future Road Bradleys are expected to provide a more difficult encounter with appropriately adjusted rewards.
@@ -31,7 +31,7 @@ A track around the raid island has also been discussed as a possible location fo
 
 ---
 
-## Skill Tree Expansion
+### Skill Tree Expansion
 
 The V2 Skill Tree is still being actively developed.
 The current system was intentionally launched with a smaller set of skills, with additional skills and categories planned over time.
@@ -40,7 +40,7 @@ The development team is also collecting player suggestions for future skills.
 
 ---
 
-## Upgradeable Legendaries
+### Upgradeable Legendaries
 
 Upgradeable Legendary items are planned.
 The system is intended to allow Legendary equipment to be improved over time rather than simply replacing existing items with stronger versions.
@@ -48,7 +48,7 @@ The exact implementation and progression system are still being developed.
 
 ---
 
-## Legendary Equipment Expansion
+### Legendary Equipment Expansion
 
 Additional Legendary equipment is planned, including:
 - New Legendary tools
@@ -61,7 +61,7 @@ The development team has specifically discussed moving toward more specialized L
 
 ---
 
-## Legendary Durability Changes
+### Legendary Durability Changes
 
 Legendary equipment is currently losing durability at the same rate as normal equipment.
 The development team plans to reduce durability loss on Legendary items so that they last longer.
@@ -70,7 +70,7 @@ A new system or item is also being developed to help players manage Legendary du
 
 ---
 
-## Huff-N-Puff Rework
+### Huff-N-Puff Rework
 
 Huff-N-Puff is considered too powerful and has significant performance and balance concerns.
 A rewrite and balance pass are planned.
@@ -78,7 +78,7 @@ The exact replacement mechanics have not yet been finalized.
 
 ---
 
-## Cobalt Assault Improvements
+### Cobalt Assault Improvements
 
 Cobalt Assault is still being actively balanced and developed.
 Planned improvements include:
@@ -91,7 +91,7 @@ The event is considered an evolving system rather than a finished product.
 
 ---
 
-## Skill Tree XP Improvements
+### Skill Tree XP Improvements
 
 XP distribution is being actively monitored and adjusted.
 The developers can independently modify XP gained from different activities such as:
@@ -106,7 +106,7 @@ Additional XP sources and better XP distribution are being considered as more da
 
 ---
 
-## Setgenes Improvements
+### Setgenes Improvements
 
 The `/setgenes` cooldown behavior is being investigated.
 The cooldown incorrectly failing to progress while offline was confirmed as a bug and is planned to be fixed.
@@ -114,7 +114,7 @@ Additional improvements to how certain Skill Tree abilities are accessed through
 
 ---
 
-## Wipe Achievement Improvements
+### Wipe Achievement Improvements
 
 The Wipe Achievement system and its UI are being revised.
 The current interface can make intermediate achievements appear as though they provide no reward when they are actually checkpoints toward a larger achievement.
@@ -122,45 +122,45 @@ The achievement UI is expected to be improved to communicate progression and rew
 
 ---
 
-## Wiki & Information System
+### Wiki & Information System
 
 The community wiki will continue to be expanded and used as an information source for the server.
 The development team also plans to improve in-game access to information, including changes to commands such as `/info` and `/commands`.
 
 ---
 
-# 📋 Planned
+## 📋 Planned
 
 These features have been discussed and are planned, but are not currently fully implemented.
 
-## Player Trade Windows
+### Player Trade Windows
 
 Public player-to-player trade windows are planned for the Hub.
 The feature cannot be introduced during the current wipe and is planned for a future wipe.
 
 ---
 
-## More Skill Tree Categories
+### More Skill Tree Categories
 
 Additional specialized Skill Tree categories will be added over time.
 These specialized categories will work similarly to the Vehicles tree and will not necessarily contribute to overall character level.
 
 ---
 
-## More Survivalcraft & Combat Quests
+### More Survivalcraft & Combat Quests
 
 Additional quests for Survivalcraft and Combat are planned to provide more XP sources for these categories.
 The developers acknowledged that these trees currently have fewer XP sources than Gathercraft.
 
 ---
 
-## Global Leaderboards
+### Global Leaderboards
 A custom global leaderboard system is planned.
 The development team intends to build the system internally rather than relying on existing plugins.
 
 ---
 
-## Improved Legendary Item Systems
+### Improved Legendary Item Systems
 
 The development team is working toward a broader Legendary progression system.
 This includes upgradeable Legendaries and more specialized equipment.
@@ -168,7 +168,7 @@ Simply creating weaker copies of existing Legendaries as separate tiers is not t
 
 ---
 
-## Additional Specialized Equipment
+### Additional Specialized Equipment
 
 More specialized gear is planned, including potential equipment such as:
 - Underwater breathing gear
@@ -178,21 +178,21 @@ More specialized gear is planned, including potential equipment such as:
 
 ---
 
-## Deep Sea Improvements
+### Deep Sea Improvements
 
 The Deep Sea system has several known issues being investigated, including problems with event timers and world shutdown.
 The Deep Sea timer issue has been identified and is planned to be fixed.
 
 ---
 
-## Furnace / Smelting Improvements
+### Furnace / Smelting Improvements
 
 The current furnace system is using an interim solution due to issues with the normal smelting controller.
 The development team plans to restore the intended smelting controller once the underlying issue is resolved.
 
 ---
 
-## Faster Air Drop Management
+### Faster Air Drop Management
 
 The developers are considering a better way to manage multiple Air Drops.
 The current cooldown will not simply be removed because unrestricted Air Drop use can cause excessive item spawning and server performance issues.
@@ -200,7 +200,7 @@ A different solution is being considered.
 
 ---
 
-## XP Boost Systems
+### XP Boost Systems
 
 Additional ways of increasing XP are being considered.
 One idea discussed was a playtime-based reward system that could provide temporary personal XP boosts.
@@ -208,7 +208,7 @@ Additional XP-related systems may be introduced as the Skill Tree develops.
 
 ---
 
-## Legendary Gem & Achievement Systems
+### Legendary Gem & Achievement Systems
 
 Wipe Achievement rewards are intended to eventually provide meaningful character bonuses through a gem system.
 Possible bonuses include XP or other character improvements.
@@ -216,14 +216,14 @@ The exact bonuses and progression are still being evaluated.
 
 ---
 
-## AU Mining World
+### AU Mining World
 
 The development team is considering adding a dedicated Mining World to the AU region.
 One possibility discussed was converting an AU raid world into a Mining World.
 
 ---
 
-# 💡 Under Consideration
+## 💡 Under Consideration
 
 These ideas have been discussed but are not confirmed features.
 - Player mob spawners for animals or NPCs
@@ -242,52 +242,52 @@ These ideas have been discussed but are not confirmed features.
 
 ---
 
-# ❌ Not Planned / Rejected
+## ❌ Not Planned / Rejected
 
 Some suggestions have been explicitly rejected or are not currently planned.
 
-## Monthly Wipes
+### Monthly Wipes
 
 Monthly wipes are not planned.
 The development team does not currently intend to move from the existing longer XP progression cycle to monthly wipes.
 
 ---
 
-## Solo Operations
+### Solo Operations
 
 Operations are designed as group-based content.
 The developers do not currently plan to create a dedicated solo version of the Operations system.
 
 ---
 
-## Legendary Trading
+### Legendary Trading
 
 Trading one Legendary item directly for another Legendary item is not planned.
 
 ---
 
-## Converting Legendaries Into Better Legendaries
+### Converting Legendaries Into Better Legendaries
 
 The development team does not plan to allow large quantities of existing Legendaries to simply be converted into a stronger Legendary.
 Upgradeable Legendary systems are being developed instead.
 
 ---
 
-## Legendary Skins
+### Legendary Skins
 
 Allowing players to change the skins of Legendary items is not currently planned.
 This is primarily due to the risk of players being unable to clearly identify Legendary items during trading.
 
 ---
 
-## Infinite Durability
+### Infinite Durability
 
 Infinite durability is not intended to remain as a permanent mechanic.
 The development team wants Legendary equipment to remain valuable while still requiring maintenance and eventually replacement.
 
 ---
 
-# 📌 Development Philosophy
+## 📌 Development Philosophy
 
 Brits PvE Worlds is continuing to move toward more custom systems and long-term progression.
 

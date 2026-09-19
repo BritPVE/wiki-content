@@ -6,7 +6,7 @@ Bradleys are one of the easiest repeatable PvE activities on Brits PvE Worlds, m
 
 - **Recommended For:** Early to Mid Game
 - **Difficulty:** ⭐⭐☆☆☆
-- **Main Goal:** Destroy bradleys efficiently while minimilizing damage taken.
+- **Main Goal:** Destroy Bradleys efficiently while minimizing damage taken.
 
 ---
 
@@ -17,8 +17,8 @@ Unlike Patrol Helis, Bradleys don't require expensive equipment. Good position i
 ### Recommended Weapons
 
 - Rocket Launcher
-- **Ashmaker** *(Highly Recommended)*
-- **Huff-N-Puff** *(Highly Recommended)*
+- **[Ashmaker](/wiki/legendary-weapons)** *(Highly Recommended)*
+- **[Huff-N-Puff](/wiki/legendary-weapons)** *(Highly Recommended)*
 
 > 💡 **Tip**
 >
@@ -29,8 +29,8 @@ Unlike Patrol Helis, Bradleys don't require expensive equipment. Good position i
 ## Starting the Event
 
 1. Use **`/worlds`**.
-2. Enter one of the **Raid World 1-4**.
-3. Travel to one of the Bradley Islands.
+2. Enter one of the **Raid Worlds (1-5)**.
+3. Travel to one of the six Bradley islands (**Brad 1-6**).
 4. Open the store using **`/s`**.
 5. Navigate to the **Buyable Bradleys** section and purchase one.
 
@@ -40,7 +40,7 @@ Unlike Patrol Helis, Bradleys don't require expensive equipment. Good position i
 
 Once purchased, the Bradley will be dropped from the sky.
 
-You **cannot damage it while it's airbrone**, so wait until it lands before attacking.
+You **cannot damage it while it's airborne**, so wait until it lands before attacking.
 
 If you're using a **Huff-N-Puff**, you can begin firing just before it lands to maximize your damage.
 
@@ -66,7 +66,7 @@ After destroying the Bradley, several loot crates will spawn in the middle of th
 
 > 💡 **Loot Tip**
 >
-> Quickly collect the items you want before the despawn or become difficult to manage.
+> Quickly collect the items you want before they despawn or become difficult to manage.
 
 ---
 
@@ -76,10 +76,10 @@ Bradley cooldowns are tracked separately for each Raid World.
 
 > 💡 **Tip**
 >
-> You can switch between **Raid Worlds 1–4** to continue farming without waiting for a cooldown to expire.
+> You can switch between **Raid Worlds 1-5** to continue farming without waiting for a cooldown to expire.
 
 ---
 
 ## Continue Reading
 
-Once you're comfortable defeating Bradleys, continue with **Tackling Raiding** to learn how to efficiently complete raid bases and earn even greater rewards.
+Once you're comfortable defeating Bradleys, continue with **[Tackling Raiding](/wiki/tackling-raiding)** to learn how to efficiently complete raid bases and earn even greater rewards. The Brad Buster questline is on the **[Quests](/wiki/quests)** page.

@@ -4,12 +4,12 @@ The geneticist skill allows you to choose the exact gene combination for a seed,
 
 ## Quick Overview
 
-- **Recommended For:** Players using the Harvesting Skill Tree.
+- **Recommended For:** Players who have unlocked the **Geneticist** skill (Survivalcraft tree, Farming section, 5 SP).
 - **Main Goal:** Apply the exact gene combination you want without relying on random genetics.
 
 > 💡 **Tip**
 >
-> This command is especially useful when setting up large farms for the **Best RP Methods** covered elsewhere in the wiki.
+> This skill is especially useful when setting up large farms for the **[Best RP Methods](/wiki/best-rp-methods)** covered elsewhere in the wiki.
 
 ---
 
@@ -25,18 +25,18 @@ The geneticist skill allows you to choose the exact gene combination for a seed,
 Before using the skill, make sure you have:
 
 - A normal seed in your hotbar.
-- An available genes skill cooldown.
+- The Geneticist skill off cooldown (it has a **3 hour** cooldown).
 
 > ⚠ **Important**
 >
-> If the steps below are not followed in the correct order, the command may go on cooldown without applying your selected genes.
+> If the steps below are not followed in the correct order, the skill may go on cooldown without applying your selected genes.
 
 ---
 
 ## Step-by-Step Guide
 
 1. Place a **normal seed** in your hotbar.
-2. Head over to the **`/st"**.
+2. Open the Skill Tree with **`/st`**.
 3. Click on the top right lighting icon.
 4. Search for the **geneticist ultimate** and click on **activate**.
 5. Select the desired gene combination from the menu.
@@ -51,7 +51,7 @@ Before using the skill, make sure you have:
 
 ## Troubleshooting
 
-If the command doesn't work:
+If it doesn't work:
 
 - Make sure you have a normal seed in your hotbar.
 - Verify that you selected the correct gene combination.
@@ -63,4 +63,4 @@ If the command doesn't work:
 
 Interested in making the most of your crops?
 
-Continue with **Best RP Methods** to learn how to use perfect genes for large-scale farming and passive RP generation.
+Continue with **[Best RP Methods](/wiki/best-rp-methods)** to learn how to use perfect genes for large-scale farming and RP generation.

@@ -1,6 +1,6 @@
 # Terminal
 
-![](../assets/Terminal/header.png)
+![Terminal](../assets/Terminal/header.png)
 
 The Terminal is a placeable prestige item that allows you to centralize your base's storage, automate production, and manage resources from a single interface.
 
@@ -8,7 +8,7 @@ Whether you're organizing your loot or building a fully automated factory, the T
 
 ## Quick Overview
 
-- **Requirement:** Unlock the **Terminal Prestige Perk**
+- **Requirement:** Unlock the **Terminal [Prestige Perk](/wiki/prestige-perks)**
 - **Recommended For:** Mid to End Game
 - **Main Goal:** Centralize storage and automate resource management.
 
@@ -23,7 +23,7 @@ Whether you're organizing your loot or building a fully automated factory, the T
 
 The Terminal is unlocked by selecting the **Terminal Prestige Perk**.
 
-Once unlocked, you can obtain it by either:
+Once you have picked the perk, you can obtain the Terminal item by either:
 
 - Using **`/kit`**
 - Purchasing it through **`/s` → Prestige**
@@ -57,9 +57,9 @@ Whether you're a casual player looking for a more organized base or an advanced 
 
 ---
 
-## Using the Terminal & QA
+## Using the Terminal
 
-![](../assets/Terminal/usage.png)
+![Terminal interface](../assets/Terminal/usage.png)
 
 ---
 
@@ -69,7 +69,7 @@ Before a Terminal can be picked up, the player must have Tool Cupboard authoriza
 
 With a Building Hammer equipped, aim at the section of the Terminal displaying the Authorize prompt. Press R to open the available options and select Turn. The Terminal will then be ready to be collected.
 
-![](../assets/Terminal/rotate.png)
+![Rotate option on the Terminal](../assets/Terminal/rotate.png)
 
 ---
 
@@ -82,8 +82,8 @@ The switch is shown below:
 - Red light is Wireless Mode
 - Green light is Cell Mode
 
-![](../assets/Terminal/cell1.png)
-![](../assets/Terminal/cell2.png)
+![Mode switch, red light](../assets/Terminal/cell1.png)
+![Mode switch, green light](../assets/Terminal/cell2.png)
 
 ---
 
@@ -125,17 +125,19 @@ Higher-tier Storage Cells provide additional slots and larger stack capacities, 
 
 #### Requirements
 - To use Cell Mode, you will first need to obtain Storage Cells. These can be found throughout the world as loot and rewards from various activities, including Bradleys, Helis, raids, and other high-value events.
-- Once you have acquired a Storage Cell, place it into the Terminal's dedicated Cell Storage compartment. As shown below:
+- Once you have acquired a Storage Cell, place it into the Terminal's dedicated Cell Storage compartment, as shown below:
 
-![](../assets/Terminal/cellstorage.png)
+![Cell Storage compartment](../assets/Terminal/cellstorage.png)
 
-#### Installtion
+#### Installation
 
 Next, switch the Terminal to Cell Mode using the mode selector located on the right side of the laptop.
 
 #### Using Cell Mode
 
 After opening the Terminal interface, you will be able to view all installed Storage Cells, monitor their available capacity, browse stored items, and transfer resources directly to and from the cells through the Terminal.
+
+### Video Guides
 
 @[youtube](https://www.youtube.com/watch?v=4usFBBkQaSc){width=960 height=540}
 
