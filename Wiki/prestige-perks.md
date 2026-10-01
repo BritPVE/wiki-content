@@ -17,7 +17,7 @@ Prestige perks are special unlocks that provide powerful quality-of-life improve
 
 ## How Prestige Perks Work
 
-- You can Prestige once your overall level reaches **90** (see **[Progression & Levels](/wiki/progression-levels)**). There are **10 Prestige levels**.
+- You can Prestige once your player level reaches **100** (see **[Progression & Levels](/wiki/progression-levels)**). There are **10 Prestige levels**.
 - Every Prestige level has a quest in the **Levelling** questline in **`/q`**. Completing it lets you **pick one perk** from the list below.
 - There are **13 perks** but only 10 Prestige levels, so you cannot unlock all of them. Choose the ones that fit your playstyle.
 - Prestige perks are kept for the whole XP cycle; they are not lost on map wipes.
@@ -34,7 +34,7 @@ These perks help you level up faster and progress through the server more effici
 
 ### Five Starting Skill Points
 
-Start every prestige with **5 additional Skill Points**, allowing you to unlock useful skills much earlier.
+Start every prestige with **5 additional global Skill Points**, allowing you to unlock useful skills much earlier. This bonus is added **once to your shared pool**, and you can spend it across any of the trees.
 
 ---
 

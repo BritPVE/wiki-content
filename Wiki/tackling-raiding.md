@@ -38,12 +38,12 @@ Raiding is one of the most rewarding activities on Brits PvE Worlds. By purchasi
 
 ## Raid Difficulties
 
-Raid bases are bought with RP from the **Buyable Events** menu (`/buyraid`). Combat XP per completed raid is from the **[Progression & Levels](/wiki/progression-levels)** page.
+Raid bases are bought with RP from the **Buyable Events** menu (`/buyraid`). The XP per completed raid is from the **[Progression & Levels](/wiki/progression-levels)** page and goes into your shared player level.
 
 ![Buyable Events menu](../assets/Raids/buyraid-menu.png)
 
-| Difficulty | Price | Base Material | Combat XP | Recommended For |
-|------------|------:|---------------|----------:|-----------------|
+| Difficulty | Price | Base Material | XP | Recommended For |
+|------------|------:|---------------|---:|-----------------|
 | **Easy** | 500 RP | Wood | 1,000 | New Players |
 | **Medium** | 1,000 RP | Metal | 2,500 | Mid Game |
 | **Hard** | 5,000 RP | HQM | 5,000 | Experienced Players |

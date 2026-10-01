@@ -14,32 +14,6 @@ Features are grouped by their current development status. Development plans may 
 
 These features have been confirmed as actively being worked on.
 
-### Operations
-
-The existing Operations system is being actively developed and adjusted.
-The first Operation is receiving balance and difficulty changes, while additional Operations are already being developed.
-Future Operations are expected to introduce additional puzzles, mechanics, and specialized content.
-Operations are intended to be group-based content rather than traditional solo content.
-
----
-
-### Road Bradley
-
-Bradleys are planned to transition into a more challenging Road Bradley system.
-The current Bradley system is considered too easy for its rewards, so future Road Bradleys are expected to provide a more difficult encounter with appropriately adjusted rewards.
-A track around the raid island has also been discussed as a possible location for Road Bradleys.
-
----
-
-### Skill Tree Expansion
-
-The V2 Skill Tree is still being actively developed.
-The current system was intentionally launched with a smaller set of skills, with additional skills and categories planned over time.
-Future specialized skill trees will be added without necessarily contributing to overall character level.
-The development team is also collecting player suggestions for future skills.
-
----
-
 ### Upgradeable Legendaries
 
 Upgradeable Legendary items are planned.
@@ -61,15 +35,6 @@ The development team has specifically discussed moving toward more specialized L
 
 ---
 
-### Legendary Durability Changes
-
-Legendary equipment is currently losing durability at the same rate as normal equipment.
-The development team plans to reduce durability loss on Legendary items so that they last longer.
-However, Legendary items are not intended to have infinite durability.
-A new system or item is also being developed to help players manage Legendary durability.
-
----
-
 ### Huff-N-Puff Rework
 
 Huff-N-Puff is considered too powerful and has significant performance and balance concerns.
@@ -88,21 +53,6 @@ Planned improvements include:
 - UI improvements
 - Continued monitoring of event performance and player behavior
 The event is considered an evolving system rather than a finished product.
-
----
-
-### Skill Tree XP Improvements
-
-XP distribution is being actively monitored and adjusted.
-The developers can independently modify XP gained from different activities such as:
-- Bradley events
-- Raids
-- Dungeons
-- Scientists
-- Crates
-- Other activities
-Some XP sources are currently affected by bugs and will be corrected.
-Additional XP sources and better XP distribution are being considered as more data becomes available.
 
 ---
 
@@ -143,14 +93,13 @@ The feature cannot be introduced during the current wipe and is planned for a fu
 ### More Skill Tree Categories
 
 Additional specialized Skill Tree categories will be added over time.
-These specialized categories will work similarly to the Vehicles tree and will not necessarily contribute to overall character level.
+Vehicles currently spends from the same global point pool as the other trees. Details of future categories remain subject to change.
 
 ---
 
 ### More Survivalcraft & Combat Quests
 
-Additional quests for Survivalcraft and Combat are planned to provide more XP sources for these categories.
-The developers acknowledged that these trees currently have fewer XP sources than Gathercraft.
+Additional survival and combat quests were discussed to broaden the range of rewarding activities. With the shared progression system, their XP contributes to the same player level as gathering quests.
 
 ---
 
@@ -225,13 +174,12 @@ One possibility discussed was converting an AU raid world into a Mining World.
 
 ## 💡 Under Consideration
 
-These ideas have been discussed but are not confirmed features.
+These ideas have been discussed but are not confirmed features. The earlier idea of XP progression between categories is no longer listed: the current system already combines activity XP into one shared total.
 - Player mob spawners for animals or NPCs
 - Additional specialized Skill Tree categories
 - More Legendary gear and attachments
 - Legendary ammunition
 - More Legendary upgrade options
-- Passive XP progression between Skill Tree categories
 - More XP boost systems
 - Additional Wipe Achievement bonuses
 - Additional radio stations

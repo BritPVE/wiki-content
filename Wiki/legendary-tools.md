@@ -14,10 +14,28 @@ Legendary Tools provide unique abilities that greatly improve gathering, farming
 | Fertile Bone | Crop Farming |
 | Reaping Spade | Large Farms |
 | Bal0o's Marrowpaw | Bone Farming |
+| Rock And Load MP5 | Mining nodes |
 | Mad's Magical Tools | Repairing items |
 | Mad's Extra Magical Tools | Fully repairing items |
 
 Drop sources below come from the wiki's **[Item Drops](/loot-tables)** page, which is generated from the server's loot tables. Exact drop chances are not published by the developers.
+
+---
+
+## Rock And Load MP5
+
+A legendary MP5 that harvests nodes as you shoot them.
+
+**Best For**
+- Mining nodes
+
+**Ability:** Load it with rifle ammo and shoot an ore node to farm it.
+
+**Drop sources:** added in the October 1st update, not yet listed on the Item Drops page.
+
+> 💡 **Tip**
+>
+> Pair it with the **Mining Set** to maximize your ore yield.
 
 ---
 

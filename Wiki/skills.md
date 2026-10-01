@@ -6,16 +6,14 @@ Brits PvE Worlds uses a Skill Tree system that allows you to specialize your cha
 
 - **Basic Trees:** Gathercraft, Survivalcraft, Combat
 - **Specialized Trees:** Vehicles *(more planned)*
-- **Maximum Level Per Basic Tree:** 30
-- **Maximum Overall Level:** 90 (the sum of the three basic trees)
-- **Prestige:** Available at overall level 90
+- **XP & Skill Points:** Shared across every tree
+- **Maximum Player Level:** 100
+- **Prestige:** Available at Level 100
 - **Specialization:** Each basic tree is divided into different sections based on their purpose.
 
-Each basic tree has its own XP pool and its own Skill Points. Specialized trees have no XP pool: they spend **General Skillpoints**, which you get by raising your overall level, which is driven by your progress across the three basic trees. See the **[Progression & Levels](/wiki/progression-levels)** page for the full breakdown.
+All XP contributes to one player level, and every tree spends from one **global Skill Point pool**. Gathercraft, Survivalcraft, Combat, and Vehicles are skill categories, not separate levelling tracks. Every player level grants 1 global point before applicable Prestige bonuses. See the **[Progression & Levels](/wiki/progression-levels)** page for the full breakdown.
 
-![Skill Tree home screen: the three primary trees, your overall level, Prestige and General Skillpoints, and the secondary Vehicles tree](../assets/SkillTree/home.png)
-
-Click a tree's diamond to open it. Each tree's info panel shows its XP sources and has a **Respec Tree** button.
+Click a tree's diamond to open it. Each tree has its own **Respec Tree** button.
 
 ### Skill Tree Sections
 
@@ -38,13 +36,13 @@ Click a tree's diamond to open it. Each tree's info panel shows its XP sources a
 - Environmental Resistance
   
 **Vehicles** *(specialized)*
-- Spends points unlocked by your overall level
+- Spends from the same global point pool as all other trees
   
-> **Note:** Skill effects, costs, and maximum levels are listed below based on the current V2 Skill Tree.
+> **Note:** The maximum levels in the skill tables refer to **individual skill ranks**, not tree levels. All listed SP costs are paid from your global pool.
 
 > 💡 **Tip**
 >
-> **Respecs are free, but on a timer.** Pressing **Respec Tree** refunds every point in that one tree (the others are untouched) and starts a **3 hour cooldown** that is shared by all trees: after respeccing Gathercraft you also have to wait 3 hours before you can respec Survivalcraft or Combat. The button shows **Ready** when it's available.
+> **Respecs are free, but on a timer.** Pressing **Respec Tree** refunds every point you spent in that one tree back into your global pool, leaving the other trees untouched, and starts a **3 hour cooldown** that is shared by all trees: after respeccing Gathercraft you also have to wait 3 hours before you can respec Survivalcraft or Combat. The button shows **Ready** when it's available.
 
 > 💡 **Tip**
 >
@@ -73,8 +71,6 @@ Mining should be your priority if you plan on completing Stone, Metal, or Sulfur
 If you're focusing on Wood Quartermaster Tasks, invest heavily into the Woodcutting section (**Timberfall** for yield, **Felling Blow** and **Clearcut** for speed).
 
 Try to unlock every gathering-related skill as early as possible.
-
-![Gathercraft tree: Mining on the left, Woodcutting on the right, Scavenging on top, Gathering & Fishing at the bottom](../assets/SkillTree/gathercraft.png)
 
 ### Mining (left side of the tree)
 
@@ -181,7 +177,7 @@ Combat focuses on improving your effectiveness in PvE combat, explosives, NPC en
 | **Big Game Hunter** | Deal 50% more damage to animals. | 1 | 1 SP |
 | **Thick Hide** | Take 50% less damage from animals. | 1 | 1 SP |
 | **Life Leech** | Heal for 1% of qualifying combat damage dealt. | 1 | 5 SP |
-| **Team Effort** | Share 5% of qualifying combat XP with teammates within 30m. | 1 | 5 SP |
+| **Team Effort** | Share 5% of XP from qualifying combat activities with teammates within 30m; it contributes to their shared XP total. | 1 | 5 SP |
 
 ### Weapons
 
@@ -219,9 +215,7 @@ Combat focuses on improving your effectiveness in PvE combat, explosives, NPC en
 
 ## Vehicles
 
-The Vehicles skill tree improves the performance and efficiency of different vehicle types. It is a **specialized tree**, so it has no XP pool of its own: it spends the **General Skillpoints** that come from raising your overall level through the three basic trees.
-
-![Vehicles tree](../assets/SkillTree/vehicles.png)
+The Vehicles skill tree improves the performance and efficiency of different vehicle types. Like every other tree, it spends from your **global Skill Point pool**. XP earned from any supported activity can help you unlock vehicle skills.
 
 | Skill | Effect | Max Level | Cost |
 |---|---|---:|---:|

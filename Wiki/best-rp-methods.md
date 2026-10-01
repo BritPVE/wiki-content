@@ -2,6 +2,10 @@
 
 Learn the fastest and most reliable ways to earn RP throughout your progression, from your first days on the server to the late game.
 
+> ⚠ **October 1st wipe**
+>
+> The October 1st wipe changed a lot of loot tables. Other methods might be more viable than the ones below until this page is updated.
+
 ## Quick Overview
 
 - **Difficulty:** ⭐⭐☆☆☆

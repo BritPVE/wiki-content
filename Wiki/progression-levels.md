@@ -7,8 +7,9 @@ Learn how the levelling system works, the fastest ways to gain XP, and how to pr
 - **Difficulty:** ⭐⭐☆☆☆
 - **Recommended For:** All Players.
 - **Main Goal:** Reach higher levels efficiently and prepare for Prestige.
-- **Maximum Overall Level:** 90 (30 + 30 + 30)
-- **Maximum Level Per Basic Tree:** 30
+- **Maximum Player Level:** 100
+- **XP & Skill Points:** One shared XP total and one global Skill Point pool
+- **Total XP for Level 100:** 12,000,000
 - **Basic Trees:** Gathercraft, Survivalcraft, Combat
 - **Specialized Trees:** Vehicles *(more planned)*
 
@@ -22,42 +23,25 @@ Progression is one of the core mechanics of Brits PvE Worlds. Every level grants
 
 ## How Levelling Works
 
-There are two kinds of skill tree, and understanding how they feed each other is the key to planning a grind.
+All XP contributes to **one player level**, capped at **100**. Gathering, survival activities, combat, events, and quest rewards all advance the same XP total.
 
-### Basic Trees
+### Skill Categories
 
-**Gathercraft**, **Survivalcraft**, and **Combat** are the three basic trees. Each tracks its own XP pool and each caps at **Level 30**. XP is not shared between them — mining ore only feeds Gathercraft, killing scientists only feeds Combat. Skill Points earned in a basic tree are spent in that same tree.
+**Gathercraft**, **Survivalcraft**, **Combat**, and **Vehicles** group skills by what they do. They do not have separate levels or separate XP targets. You can earn XP through any supported activity and use the resulting points in whichever category suits your build.
 
-This is why you can be deep into one tree and barely started in another. They are independent grinds.
+### Global Skill Points
 
-### Overall Level
+Each player level grants **1 global Skill Point**, with applicable Prestige perks adding bonuses. Every tree spends from the **same pool**, including Vehicles.
 
-Your **overall level** is the **sum of your three basic tree levels**, so it caps at **90** (30 + 30 + 30). You don't grind it directly; it rises as those three trees rise. The wiki's **[XP Calculator](/xp-calculator)** shows the same rule: Prestige unlocks at overall level 90.
+For example, at Level 72 with no bonus points or purchases, you have **72 points total**. Spending 5 points in Gathercraft leaves **67** to spend across any of the trees. Individual skills still have their own rank limits and point costs.
 
-### Specialized Trees
+Undoing a purchase or respeccing a tree returns its spent points to the global pool. Respeccing one tree leaves your purchases in the other trees intact.
 
-Specialized trees sit outside the basic three. **Vehicles** is the first of them, with more planned.
+### XP Required for Level 100
 
-Two rules matter here:
+The current shared XP requirement is **12,000,000 XP** to reach **Level 100**. There are no separate 30-level tracks to complete, and you do not need to balance XP between activity categories.
 
-- Specialized trees **do not** contribute to your overall level. They have no XP pool of their own.
-- You unlock points to spend in them **by raising your overall level** — which means by levelling the three basic trees.
-
-So levelling Gathercraft, Survivalcraft, and Combat is what ultimately pays for your Vehicles skills, even though nothing you do in a vehicle contributes to those trees.
-
-### XP Required Per Basic Tree
-
-| Tree | Max Level | Total XP to Max | Primary Activities |
-|---|---:|---:|---|
-| **Gathercraft** | 30 | 5,000,000 | Mining, woodcutting, fishing, looting |
-| **Survivalcraft** | 30 | 2,000,000 | Skinning, farming, cooking, crafting |
-| **Combat** | 30 | 5,000,000 | Scientists, animals, events |
-
-**Survivalcraft is the cheapest tree to max** at 2,000,000 XP — well under half the cost of Gathercraft or Combat. It requires less because it currently has fewer XP sources available. If you want a maxed tree quickly, or want to push your overall level for specialized tree points, that's the efficient place to start.
-
-XP requirements do not scale evenly across levels. The curve uses a **scale of 3.0**, meaning the last few levels of a tree cost dramatically more than the first few. Expect the early levels to fly by and the climb to 30 to slow to a crawl. For example, Gathercraft level 20 needs about 625,000 XP in total, but level 30 needs 5,000,000.
-
-Use the wiki's **[XP Calculator](/xp-calculator)** to see the exact XP needed for every level and how far you are from your target.
+XP requirements do not scale evenly across levels. The curve uses a **scale of 3.0**, so later levels require much more XP than early levels. A percentage of the total XP requirement is not the same percentage of the 100 levels.
 
 > 💡 **Tip**
 >
@@ -67,7 +51,7 @@ Use the wiki's **[XP Calculator](/xp-calculator)** to see the exact XP needed fo
 
 ## XP Rates
 
-Every value below is the XP granted per action, taken from the live skill tree config.
+Every value below is the base XP granted per action, taken from the skill tree config. The headings group activities for convenience: **all of this XP goes into the same shared total**. Applicable XP boosts can increase the amount you receive.
 
 > ⚠ **These numbers are tuned over time.** The developers can adjust XP per activity independently and add new sources, and some XP sources are currently affected by bugs. Treat these as current values rather than permanent ones.
 
@@ -77,7 +61,7 @@ Every value below is the XP granted per action, taken from the live skill tree c
 
 Before the per-action tables below, understand the scale involved. **Quest rewards dwarf everything else.**
 
-A single **Quartermaster T4** task pays **100,000 XP**. Mining an ore node pays **250**. That one quest is worth 400 ore nodes, and it's 2% of an entire 5,000,000 XP tree.
+A single **Quartermaster T4** task pays **100,000 XP**. Mining an ore node pays **250**. That one quest is worth 400 ore nodes and contributes to the same shared XP total as every other activity.
 
 | Quartermaster Tier | XP | RP |
 |---|---:|---:|
@@ -87,13 +71,13 @@ A single **Quartermaster T4** task pays **100,000 XP**. Mining an ore node pays 
 | **T4** | 100,000 | 50,000 |
 | **T5** | 500,000 | 500,000 |
 
-Quartermaster XP goes to **Gathercraft**. Tiers are identical across Stone, Metal, and Sulfur.
+Quartermaster XP contributes to your **shared player level**, and the points you earn can be spent in any tree. Tiers are identical across Stone, Metal, and Sulfur.
 
 The practical takeaway: **per-action XP is what you earn while working toward a quest, not a strategy on its own.** Grinding nodes without an active quest attached is leaving the overwhelming majority of your XP on the table.
 
 For the full payout list across all quest categories, see the **[Quests](/wiki/quests)** page.
 
-### Gathercraft XP
+### Gathering Activities
 
 | Action | XP |
 |---|---:|
@@ -105,7 +89,7 @@ For the full payout list across all quest categories, see the **[Quests](/wiki/q
 | **Barrel or crate looted** | 30 |
 | **Rust mission completed** | 1,000 |
 
-### Survivalcraft XP
+### Survival Activities
 
 | Action | XP |
 |---|---:|
@@ -120,7 +104,7 @@ For the full payout list across all quest categories, see the **[Quests](/wiki/q
 
 > ⚠ **Crafting XP is whitelisted.** Only higher-tier items count — explosives, guns, armour, and deployables such as furnaces, turrets, shields, and water purifiers. Spamming cheap crafts earns nothing.
 
-### Combat XP
+### Combat Activities
 
 | Action | XP |
 |---|---:|
@@ -129,9 +113,9 @@ For the full payout list across all quest categories, see the **[Quests](/wiki/q
 | **Scientist kill** | 45 |
 | **Animal kill** | 20 |
 
-### Combat Event XP
+### Event XP
 
-Events are by far the largest single XP payouts in the game.
+Events offer substantial activity XP payouts, alongside the larger quest rewards listed above.
 
 | Event | XP |
 |---|---:|
@@ -167,23 +151,23 @@ Events are by far the largest single XP payouts in the game.
 
 > 💡 **Tip**
 >
-> A single **Nightmare** raidable base pays **12,000 Combat XP** — the same as 267 scientist kills. If you can clear high-tier bases, they are the fastest Combat XP in the game by a wide margin.
+> A single **Nightmare** raidable base pays **12,000 XP** — roughly the same as 267 scientist kills. If you can clear high-tier bases, they can be a strong source of shared XP, especially alongside matching quests.
 
 ---
 
 ## Level Resets & Prestige
 
-Levels reset **every 6 months** (the **XP wipe**) to keep progression fresh and to accommodate new updates and balance changes. The next XP wipe date is on the **[Welcome page](/wiki/overview)** and in the wipe-feed channel on Discord. Map wipes are more frequent and do not reset levels.
+Levels reset **every 6 months** (the **XP wipe**) to keep progression fresh and to accommodate new updates and balance changes. The next XP wipe date is on the **[Welcome page](/wiki/overview)** and in the wipe-feed channel on Discord. Map wipes are more frequent and do not reset your level.
 
-The maximum overall level is **90**. On reaching it, you can **Prestige**, earning exclusive rewards. The maximum Prestige level is **Pr10**.
+The maximum player level is **100**. On reaching it, you can **Prestige**, earning exclusive rewards. Prestiging resets your shared level, XP, and allocated skills for a new progression cycle. The maximum Prestige level is **Pr10**.
 
-Each Prestige level lets you pick **one Prestige Perk** through the **Levelling** questline in **`/q`**. Two of them directly accelerate re-levelling: **+5 Starting Skill Points** per tree and a **20% XP Boost**. See the **[Prestige Perks](/wiki/prestige-perks)** page for the full list.
+Each Prestige level lets you pick **one Prestige Perk** through the **Levelling** questline in **`/q`**. Two of them directly accelerate re-levelling: **+5 Starting Skill Points** added once to your global pool and a **20% XP Boost**. See the **[Prestige Perks](/wiki/prestige-perks)** page for the full list.
 
 ---
 
 ## Fastest Way to Level Up
 
-The fastest and most consistent way to gain XP is by completing **Quartermaster Tasks** up to **Tier 4**, which pays **100,000 Gathercraft XP** and **50,000 RP** each.
+The fastest and most consistent way to gain XP is by completing **Quartermaster Tasks** up to **Tier 4**, which pays **100,000 XP** and **50,000 RP** each.
 
 To maximize efficiency, use the appropriate **[legendary tools](/wiki/legendary-tools)** and **[resource sets](/wiki/legendary-sets)** for each task.
 
