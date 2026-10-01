@@ -39,7 +39,7 @@ Players can invest directly into the skills that fit their playstyle.
 
 Yes.
 Additional specialized categories are planned.
-These will work similarly to the Vehicles tree and will not necessarily contribute toward overall character level.
+The current Vehicles tree uses the same global point pool as the other trees. Future categories remain subject to development plans.
 
 ---
 
@@ -51,19 +51,17 @@ Some current XP sources are also affected by bugs.
 
 ---
 
-### How is XP divided between the three main trees?
+### How does XP progression work now?
 
-The current intended total XP requirements are:
-| Skill Tree | Total XP |
-|---|---:|
-| Gathercraft | 5,000,000 |
-| Combat | 5,000,000 |
-| Survivalcraft | 2,000,000 |
-Survivalcraft requires less total XP because it currently has fewer available XP sources.
+**Update since the Town Hall:** XP is no longer divided into independently levelled trees. All supported activities contribute to **one shared XP total**, with a current requirement of **12,000,000 XP** to reach **Level 100**.
+
+Gathercraft, Survivalcraft, Combat, and Vehicles all spend from **one global Skill Point pool**. The old separate tree caps and XP requirements no longer apply.
 
 ---
 
-### What activities give XP to each tree?
+### What activities contribute to shared XP?
+
+The activity groups below describe XP sources, not separate XP pools. All of them advance the same player level.
 
 **Gathercraft**
 
@@ -280,10 +278,10 @@ A farming-related quest system has been discussed, but it is not currently confi
 
 ---
 
-### Is cooking part of Survivalcraft XP?
+### Does cooking contribute to shared XP?
 
 Yes.
-Cooking and farming activities fall under Survivalcraft.
+Cooking and farming are survival activities whose XP contributes to the shared player level.
 Survivalcraft also includes activities related to cultivating and maintaining your character and base.
 
 ---

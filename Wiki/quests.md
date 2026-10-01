@@ -17,20 +17,20 @@ Brits PvE Worlds features a large collection of custom quests that reward player
 
 Quest rewards are the dominant source of XP in the game. A Quartermaster T4 task pays **100,000 XP**; mining a single ore node pays **250**. Levelling without active quests attached to what you're doing means giving up the overwhelming majority of your XP.
 
-Each quest pays into **one specific tree**, listed in the tables below. Gathering quests feed Gathercraft, combat and event quests feed Combat, and fishing, farming, and explosive-crafting quests feed Survivalcraft.
+All quest XP contributes to your **shared player level**. The Skill Points earned through levelling can be spent in any tree, including Vehicles, regardless of which quest awarded the XP.
 
 ### Biggest Payouts
 
-| Quest | Tree | XP | RP |
-|---|---|---:|---:|
-| **Dungeon Crawler T5** | Combat | 750,000 | 1,000,000 |
-| **Things Seem to Have Gotten... Out of Hand.** | Survivalcraft | 500,000 | 150,000 |
-| **Quartermaster T5** *(any resource)* | Gathercraft | 500,000 | 500,000 |
-| **Cobalt Occupation** | Combat | 250,000 | 500,000 |
-| **Ignoring a Diety is ill-advised** | Survivalcraft | 100,000 | 25,000 |
-| **Quartermaster T4** *(any resource)* | Gathercraft | 100,000 | 50,000 |
+| Quest | XP | RP |
+|---|---:|---:|
+| **Dungeon Crawler T5** | 750,000 | 1,000,000 |
+| **Things Seem to Have Gotten... Out of Hand.** | 500,000 | 150,000 |
+| **Quartermaster T5** *(any resource)* | 500,000 | 500,000 |
+| **Cobalt Occupation** | 250,000 | 500,000 |
+| **Ignoring a Diety is ill-advised** | 100,000 | 25,000 |
+| **Quartermaster T4** *(any resource)* | 100,000 | 50,000 |
 
-For context, a full tree costs 5,000,000 XP for Gathercraft and Combat, or 2,000,000 for Survivalcraft. A single Dungeon Crawler T5 is **15% of the entire Combat tree**.
+The current shared requirement for Level 100 is **12,000,000 XP**. A single Dungeon Crawler T5 awards **750,000 XP**, or **6.25% of that total**. Because level thresholds are uneven, this does not mean 6.25 levels.
 
 ---
 
@@ -70,11 +70,11 @@ Perfect for new players learning the server.
 
 **Payouts** *(each is a Daily)*
 
-| Quest | Tree | XP | RP |
-|---|---|---:|---:|
-| **Getting Started 1** | Survivalcraft | 150 | 1,000 |
-| **Getting Started 2** | Survivalcraft | 150 | 1,000 |
-| **Getting Started 3** | Survivalcraft | 150 | 1,000 |
+| Quest | XP | RP |
+|---|---:|---:|
+| **Getting Started 1** | 150 | 1,000 |
+| **Getting Started 2** | 150 | 1,000 |
+| **Getting Started 3** | 150 | 1,000 |
 
 ---
 
@@ -90,12 +90,12 @@ Repeatable quests that provide a steady source of XP, RP, and useful resources.
 
 **Payouts**
 
-| Quest | Tree | XP | RP |
-|---|---|---:|---:|
-| **Elite Hacker** | Combat | 10,000 | — |
-| **Subway Siege** | Combat | 2,500 | 5,000 |
-| **The Final Extraction** | Combat | 2,500 | 2,500 |
-| **Barrel Basher** | Gathercraft | 500 | 1,000 |
+| Quest | XP | RP |
+|---|---:|---:|
+| **Elite Hacker** | 10,000 | — |
+| **Subway Siege** | 2,500 | 5,000 |
+| **The Final Extraction** | 2,500 | 2,500 |
+| **Barrel Basher** | 500 | 1,000 |
 
 ---
 
@@ -121,7 +121,7 @@ These quests revolve around gathering resources and become extremely efficient o
 - Teas
 - Bear Pies
 
-**Payouts** *(all XP goes to Gathercraft)*
+**Payouts** *(all XP contributes to your shared player level)*
 
 | Tier | Stone / Metal / Sulfur XP | Wood XP | RP |
 |---|---:|---:|---:|
@@ -133,7 +133,7 @@ These quests revolve around gathering resources and become extremely efficient o
 
 **T4 is the sweet spot for levelling.** Resource requirements climb far faster than rewards do at T5, though T5's 500,000 RP makes it attractive if RP is what you're after.
 
-Wood tiers demand dramatically more raw material than the ore tiers for the same XP, so Stone, Metal, and Sulfur are the more efficient route to Gathercraft levels.
+Wood tiers demand dramatically more raw material than the ore tiers for the same XP, so Stone, Metal, and Sulfur are the more efficient route to player levels.
 
 ---
 
@@ -169,11 +169,11 @@ Special quests focused on Virtual Quarries and unlocking unique content.
 
 **Payouts**
 
-| Quest | Tree | XP | RP |
-|---|---|---:|---:|
-| **Virtual Oil Baron** | Survivalcraft | 2,500 | 2,500 |
-| **Oil Empire Begins** | Survivalcraft | 8,000 | 5,000 |
-| **The LAGINATOR** | — | — | — |
+| Quest | XP | RP |
+|---|---:|---:|
+| **Virtual Oil Baron** | 2,500 | 2,500 |
+| **Oil Empire Begins** | 8,000 | 5,000 |
+| **The LAGINATOR** | — | — |
 
 The LAGINATOR pays in progression unlocks rather than XP or RP.
 
@@ -196,7 +196,7 @@ Progressive challenges centered around completing Raid Bases.
 - Ashmaker
 - Brits Boom Stick
 
-**Payouts** *(questline order, all XP goes to Combat)*
+**Payouts** *(questline order, all XP contributes to your shared player level)*
 
 | Quest | XP | RP |
 |---|---:|---:|
@@ -224,7 +224,7 @@ Progress through increasingly difficult Bradley challenges.
 - Huff-N-Puff
 - Brits Golden AK
 
-**Payouts** *(questline order, all XP goes to Combat)*
+**Payouts** *(questline order, all XP contributes to your shared player level)*
 
 | Quest | XP | RP |
 |---|---:|---:|
@@ -244,7 +244,7 @@ Progressive Patrol Heli challenges.
 - XP
 - RP
 
-**Payouts** *(questline order, all XP goes to Combat)*
+**Payouts** *(questline order, all XP contributes to your shared player level)*
 
 | Quest | XP | RP |
 |---|---:|---:|
@@ -275,7 +275,7 @@ Dungeon progression through multiple difficulty tiers.
 - Rocket Launcher
 - HV Rockets
 
-**Payouts** *(questline order, all XP goes to Combat)*
+**Payouts** *(questline order, all XP contributes to your shared player level)*
 
 | Quest | XP | RP |
 |---|---:|---:|
@@ -285,7 +285,7 @@ Dungeon progression through multiple difficulty tiers.
 | **Dungeon Crawler T4** | 15,000 | 12,500 |
 | **Dungeon Crawler T5** | 750,000 | 1,000,000 |
 
-**Dungeon Crawler T5 is the single largest reward in the game** — 15% of the entire Combat tree and a million RP. Expect it to be priced accordingly in difficulty.
+**Dungeon Crawler T5 is the largest XP reward listed here** — 750,000 shared XP and a million RP. Expect it to be priced accordingly in difficulty.
 
 ---
 
@@ -300,7 +300,7 @@ Late-game crafting quests centered around explosives.
 - Legendary Heli Signal
 - Harbinger Key Card
 
-**Payouts** *(all XP goes to Survivalcraft)*
+**Payouts** *(all XP contributes to your shared player level)*
 
 | Quest | XP | RP |
 |---|---:|---:|
@@ -309,7 +309,7 @@ Late-game crafting quests centered around explosives.
 | **Ignoring a Diety is ill-advised** | 100,000 | 25,000 |
 | **Things Seem to Have Gotten... Out of Hand.** | 500,000 | 150,000 |
 
-Because Survivalcraft only needs 2,000,000 XP in total, the final Boom God quest alone is **25% of the whole tree** — making this the fastest route to a maxed Survivalcraft.
+The final Boom God quest awards **500,000 shared XP**. Its reward helps advance your player level and unlock points for any tree, not just survival skills.
 
 ---
 
@@ -317,7 +317,7 @@ Because Survivalcraft only needs 2,000,000 XP in total, the final Boom God quest
 
 Progressive challenges built around clearing Deep Sea Cargo ships.
 
-**Payouts** *(all XP goes to Combat)*
+**Payouts** *(all XP contributes to your shared player level)*
 
 | Quest | XP | RP |
 |---|---:|---:|
@@ -335,7 +335,7 @@ Explore custom content across the server.
 
 **Questline**
 
-- Deep Sea Settlement — **currently disabled** *(5,000 Survivalcraft XP, 7,500 RP when active)*
+- Deep Sea Settlement — **currently disabled** *(5,000 XP, 7,500 RP when active)*
 
 ---
 
@@ -343,7 +343,7 @@ Explore custom content across the server.
 
 Progress your fishing skills while earning useful rewards.
 
-**Payouts** *(questline order, all XP goes to Survivalcraft)*
+**Payouts** *(questline order, all XP contributes to your shared player level)*
 
 | Quest | XP | RP |
 |---|---:|---:|
@@ -374,9 +374,9 @@ These pay out in perks and items rather than XP or RP, so they don't compete wit
 >
 > If your goal is to level quickly, Quartermaster Tasks remain one of the fastest XP sources on the server.
 
-> 💡 **Match Quests to the Tree You Want**
+> 💡 **Choose Quests That Fit Your Activities**
 >
-> Each quest pays into one tree only. If you need Survivalcraft levels, Boom God and Fishing quests are your route — no amount of Quartermaster grinding will move that tree.
+> All quest XP advances the same player level. Choose quests that match what you enjoy or can complete efficiently, then spend your global Skill Points wherever your build needs them.
 
 ---
 

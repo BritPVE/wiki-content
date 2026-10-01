@@ -6,12 +6,12 @@ Brits PvE Worlds uses a Skill Tree system that allows you to specialize your cha
 
 - **Basic Trees:** Gathercraft, Survivalcraft, Combat
 - **Specialized Trees:** Vehicles *(more planned)*
-- **Maximum Level Per Basic Tree:** 30
+- **XP & Skill Points:** Shared across every tree
 - **Maximum Overall Level:** 100
 - **Prestige:** Available at Level 100
 - **Specialization:** Each basic tree is divided into different sections based on their purpose.
 
-Each basic tree has its own XP pool and its own Skill Points. Specialized trees have no XP pool — you unlock points for them by raising your overall level, which is driven by your progress across the three basic trees. See the **Progression & Levels** page for the full breakdown.
+All XP contributes to one player level, and every tree spends from one **global Skill Point pool**. Gathercraft, Survivalcraft, Combat, and Vehicles are skill categories, not separate levelling tracks. Every player level grants 1 global point before applicable Prestige bonuses. See the **Progression & Levels** page for the full breakdown.
 
 ### Skill Tree Sections
 
@@ -34,9 +34,9 @@ Each basic tree has its own XP pool and its own Skill Points. Specialized trees 
 - Environmental Resistance
   
 **Vehicles** *(specialized)*
-- Spends points unlocked by your overall level
+- Spends from the same global point pool as all other trees
   
-> **Note:** Skill effects, costs, and maximum levels are listed below based on the current V2 Skill Tree.
+> **Note:** The maximum levels in the skill tables refer to **individual skill ranks**, not tree levels. All listed SP costs are paid from your global pool.
 
 > 💡 **Tip**
 >
@@ -171,7 +171,7 @@ Combat focuses on improving your effectiveness in PvE combat, explosives, NPC en
 | **Big Game Hunter** | Deal 50% more damage to animals. | 1 | 1 SP |
 | **Thick Hide** | Take 50% less damage from animals. | 1 | 1 SP |
 | **Life Leech** | Heal for 1% of qualifying combat damage dealt. | 1 | 5 SP |
-| **Team Effort** | Share 5% of qualifying combat XP with teammates within 30m. | 1 | 5 SP |
+| **Team Effort** | Share 5% of XP from qualifying combat activities with teammates within 30m; it contributes to their shared XP total. | 1 | 5 SP |
 
 ### Weapons
 
@@ -209,7 +209,7 @@ Combat focuses on improving your effectiveness in PvE combat, explosives, NPC en
 
 ## Vehicles
 
-The Vehicles skill tree improves the performance and efficiency of different vehicle types. It is a **specialized tree**, so it has no XP pool of its own — its points come from raising your overall level through the three basic trees.
+The Vehicles skill tree improves the performance and efficiency of different vehicle types. Like every other tree, it spends from your **global Skill Point pool**. XP earned from any supported activity can help you unlock vehicle skills.
 
 | Skill | Effect | Max Level | Cost |
 |---|---|---:|---:|

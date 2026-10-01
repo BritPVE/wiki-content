@@ -21,7 +21,7 @@ These perks help you level up faster and progress through the server more effici
 
 ## +5 Starting Skill Points
 
-Start every prestige with **5 additional Skill Points**, allowing you to unlock useful skills much earlier.
+Start every prestige with **5 additional global Skill Points**, allowing you to unlock useful skills much earlier. This bonus is added **once to your shared pool**, and you can spend it across any of the trees.
 
 ---
 
