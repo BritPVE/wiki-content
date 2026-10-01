@@ -1,3 +1,5 @@
+NOTE: October 1st Wipe changed A LOT of loottables other methods might be more viable until this wiki is updated <3
+
 # Best RP Methods
 
 Learn the fastest and most reliable ways to earn RP throughout your progression, from your furst days on the server to the late game.

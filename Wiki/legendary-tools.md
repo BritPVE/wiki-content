@@ -14,7 +14,24 @@ Legendary Tools provide unique abilities that greatly improve gathering, farming
 | Fertile Bone | Crop Farming |
 | Reaping Spade | Large Farms |
 | Bal0o's Marrowpaw | Bone Farming |
+---
 
+## Rock And Load MP5
+
+A legendary mp5 that farms nodes as you shoot them
+
+**Best For**
+- Farming Nodes
+
+### Ability
+
+Load it with bullets and shoot a node. 
+
+> 💡 **Tip**
+>
+> Pair it with the **Mining Set** to maximize your wood farming efficiency.
+
+---
 ---
 
 ## Brits Broken Axe
