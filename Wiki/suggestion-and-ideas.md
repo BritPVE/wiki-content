@@ -1,6 +1,6 @@
 # Feedback and Ideas
 
-Have an idea for the server or feedback about existing content? The best place to share it is the **#suggestions** chanle on Discord.
+Have an idea for the server or feedback about existing content? The best place to share it is the **#suggestions** channel on Discord.
 
 Staff members regularly read suggestions, even if they do not reply directly.
 
@@ -12,7 +12,7 @@ Staff members regularly read suggestions, even if they do not reply directly.
 
 ## How to Write a Good Suggestion
 
-A Good suggestion is clear, constructive, and easy for others to understand.
+A good suggestion is clear, constructive, and easy for others to understand.
 
 Before posting:
 

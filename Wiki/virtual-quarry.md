@@ -20,14 +20,26 @@ Virtual Quarries are one of the best passive resource systems on Brits PvE World
 1. Open the Shop using **`/s`**.
 2. Purchase **Survey Charges**.
 3. Buy the Virtual Quarry you want.
-4. Open the Virtual Quarry menu with **`/qr`**.
-5. Find a strong Survey Node.
+4. Open the Virtual Quarry menu with **`/vq`** (or **`/qr`**).
+5. Survey for a depot until you get a good roll (see below).
 6. Place your Quarry.
-7. Keep it supplied with **Oil Barrels**.
+7. Keep it supplied with **Diesel Fuel**.
+
+### Surveying for a Depot
+
+![Virtual Quarry survey menu](../assets/VirtualQuarry/survey-menu.png)
+
+Every quarry sits on a **depot**, and each depot is found by spending **one Survey Charge**. A roll shows which resources the depot contains and their **base yield per minute** (in the screenshot: two resources at 54.55/min and 20.98/min). The yields are random, so keep rolling until you get one you're happy with:
+
+- **Search** spends another Survey Charge and rolls a new depot.
+- **Last Roll** brings back the previous roll.
+- **Place** builds the quarry on the current roll (it also costs the quarry item shown under *Required items*).
+
+The level multipliers in the tables below apply to the base yield you rolled, so a good roll pays off at every level. Experienced players aim for roughly **48 HQM/min** on a Mining Quarry and **53 to 55 Crude Oil/min** on a Pump Jack before placing (see **[Best RP Methods](/wiki/best-rp-methods)**).
 
 > 💡 **Important**
 >
-> Every Virtual Quarry consumes **Oil Barrels** as fuel while operating.
+> Every Virtual Quarry consumes **Diesel Fuel** while operating. Diesel can be bought at **Outpost** with Low Grade Fuel, and the starter quest **Virtual Oil Baron** asks you to collect 10 of it.
 
 ---
 
@@ -36,6 +48,8 @@ Virtual Quarries are one of the best passive resource systems on Brits PvE World
 ### Mining Quarry
 
 The Mining Quarry produces the three most valuable ores in the game, making it the best long-term choice for most players.
+
+The outputs below assume a good roll of about **49 HQM, 75 Metal Ore and 75 Sulfur Ore per minute** at Level 1; your own numbers scale from whatever you rolled.
 
 **Maximum output (Level 6, 8.5x):**
 
@@ -70,6 +84,8 @@ The Mining Quarry produces the three most valuable ores in the game, making it t
 ### Pump Jack
 
 The Pump Jack produces Crude Oil, allowing you to fuel your other Virtual Quarries and create a self-sustaining resource loop.
+
+The outputs below assume a good roll of about **55 Crude Oil per minute** at Level 1.
 
 **Maximum output (Level 6, 8.5x):**
 
@@ -131,29 +147,34 @@ The Wood Generator provides a constant supply of Wood, making it ideal for furna
 
 ---
 
-## Recommended Progression
+## The Self-Sustaining Fuel Loop
 
-### Progression Tips
+The reason to start with a Pump Jack: crude oil pays for its own diesel, and every extra diesel you make can then run a Mining Quarry for profit.
 
-- **Early game:** Start with a Pump Jack to create a self-fueling loop.
-- **Mid game:** Add Mining Quarries and push to Level 3-4.
-- **Late game:** Max all quarry types and farm Batteries for final upgrades.
+1. Buy **Diesel Fuel** at **Outpost** with **Low Grade Fuel**.
+2. Put the diesel into a **Pump Jack**, which mines **Crude Oil**.
+3. Refine the crude oil in a **Small Refinery** into **Low Grade Fuel**.
+4. Use that low grade to buy more diesel at Outpost. Repeat.
+5. Once you have a **surplus of diesel**, use it to run a **Mining Quarry** for **HQM**.
+6. Sell the HQM in **`/s` → Stock Market → Resources**.
+
+> 💡 **Sell in the right world**
+>
+> Sell prices differ between worlds. Before selling HQM, cloth, scrap or sheet metal, use **`/pc <item>`** (for example `/pc hqm`) to see which world pays the most, then sell there.
+
+See **[Best RP Methods](/wiki/best-rp-methods)** for how much RP this makes with fully upgraded quarries.
 
 ---
 
-### Resource Path vs RP Path
+## Recommended Progression
 
-Use **resources** when:
+- **Early game:** Start with a Pump Jack to create the self-fueling loop above.
+- **Mid game:** Add Mining Quarries and push to Level 3-4.
+- **Late game:** Max all quarry types and farm Batteries for final upgrades.
 
-- You have surplus materials
-- You want to save RP
-- You are early/mid game
-
-Use **RP** when:
-
-- You can farm RP efficiently
-- You need to preserve crafting materials
-- You are late game
+> ⚠ **Upgrades cost resources, not RP**
+>
+> Quarry levels can only be bought with the resources in the tables above. There is no RP option for quarries (unlike **[Recyclers](/wiki/recyclers)**).
 
 ---
 
@@ -173,10 +194,10 @@ Use **RP** when:
 
 > 💡 **Quick Reference**
 >
-> - Open the Quarry menu with **`/qr`**
+> - Open the Quarry menu with **`/vq`** or **`/qr`**
 > - Purchase Quarries and Survey Charges through **`/s`**
-> - All Quarries require **Oil Barrels** as fuel
-> - Survey Nodes before placing a Quarry
+> - All Quarries require **Diesel Fuel**
+> - Survey for a good depot roll before placing a Quarry
 > - Pump Jacks are ideal for self-fueling setups
 > - Maximum Quarry Level: **6**
 
@@ -186,4 +207,4 @@ Use **RP** when:
 
 Looking to maximize your passive income?
 
-Continue with **Item Bank & Auto-Sell** to learn how to automate your resource sales and earn RP even while offline.
+Continue with **[Item Bank & Auto-Sell](/wiki/auto-sell)** to learn how to automate your resource sales and earn RP even while offline, or see **[Best RP Methods](/wiki/best-rp-methods)** for the maths on how much RP fully upgraded quarries can make.

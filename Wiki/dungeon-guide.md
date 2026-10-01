@@ -1,10 +1,10 @@
 # Dungeon Guide
 
-Dungeons are procedurally generated PvE challenges filled with custom enemies, automated defensees and valuable loot. Each run is different, making them one of the most rewarding repeatable activities on the server.
+Dungeons are procedurally generated PvE challenges filled with custom enemies, automated defenses and valuable loot. Each run is different, making them one of the most rewarding repeatable activities on the server.
 
 ## Quick Overview
 
-- **Reccomended For:** Mid to End Game
+- **Recommended For:** Mid to End Game
 - **Difficulty:** ⭐⭐⭐⭐☆
 - **Main Goal:** Clear the dungeon, defeat the bosses, and claim the rewards.
 
@@ -21,9 +21,9 @@ Dungeons are procedurally generated PvE challenges filled with custom enemies, a
   
 ### Highly Recommended
 
-- **Ashmaker**
-- HQM or Leviathan Armor
-- Drum Mag Skill (**`/st`**)
+- **[Ashmaker](/wiki/legendary-weapons)**
+- HQM or **[Leviathan Armor](/wiki/legendary-sets)**
+- **Extra Rounds** skill (bigger magazines, Combat tree in **[`/st`](/wiki/skills)**)
 
 > 💡 **Tip**
 >
@@ -34,11 +34,25 @@ Dungeons are procedurally generated PvE challenges filled with custom enemies, a
 ## Starting a Dungeon
 
 1. Use **`/worlds`**.
-2. Enter one of the **Raid World (1-4)**.
+2. Enter one of the **Raid Worlds (1-5)**.
 3. Enter the **Dungeon** portal.
 4. Use **`/buydungeon`**.
-5. Purchase a Dungeon using **Tape**.
+5. Choose a difficulty and pay for it in **Duct Tape** (prices below).
 6. Once it spawns, interact with the entrance door (**E**) to enter.
+
+### Dungeon Prices
+
+![Buy Dungeon menu](../assets/Dungeons/buydungeon-menu.png)
+
+| Difficulty | Price |
+|---|---:|
+| **Easy** | 5 Duct Tape |
+| **Normal** | 10 Duct Tape |
+| **Medium** | 20 Duct Tape |
+| **Hard** | 50 Duct Tape |
+| **Nightmare** | 100 Duct Tape |
+
+Loot improves with difficulty (see **[Item Drops](/loot-tables)**).
 
 > ⚠ **Attention**
 >
@@ -48,7 +62,7 @@ Dungeons are procedurally generated PvE challenges filled with custom enemies, a
 
 ---
 
-## How dungeons Work
+## How Dungeons Work
 
 Every dungeon is **randomly generated**, so no two runs are exactly the same.
 
@@ -68,7 +82,7 @@ Each garage door leads to a new section. Clear every room before opening the nex
 The safest approach is to progress slowly.
 
 1. Open one Garage Door.
-2. Elimiate every enemy inside the room.
+2. Eliminate every enemy inside the room.
 3. Destroy any Turrets before advancing.
 4. Loot the room.
 5. Continue to the next section.
@@ -81,7 +95,7 @@ The safest approach is to progress slowly.
 
 ## Loot Phase
 
-Once every room has been cleared, the Dungeon enter its final loot phase.
+Once every room has been cleared, the Dungeon enters its final loot phase.
 
 You have approximately **5 minutes** before the Dungeon closes and kicks you out.
 
@@ -95,13 +109,13 @@ You have approximately **5 minutes** before the Dungeon closes and kicks you out
 
 ## Cooldowns
 
-After finishing a Dungeon, interact with the entrace door again to Leave.
+After finishing a Dungeon, interact with the entrance door again to leave.
 
-Just like Raids and Bradleys, Dungeon cooldowns are tracked separately for each Raid World.
+Just like **[Raids](/wiki/tackling-raiding)** and **[Bradleys](/wiki/tackling-bradleys)**, Dungeon cooldowns are tracked separately for each Raid World.
 
 > 💡 **Tip**
 >
-> Switch between **Raid Worlds 1-4** to continue running Dungeons without waiting your cooldowns.
+> Switch between **Raid Worlds 1-5** to continue running Dungeons without waiting for your cooldowns.
 
 ---
 
@@ -109,4 +123,4 @@ Just like Raids and Bradleys, Dungeon cooldowns are tracked separately for each 
 
 Need help choosing the best gear for your next Dungeon?
 
-Continue with **Legendary Weapons** and **Legendary Sets** to discover the equipment best suited for difficult PvE encounters.
+Continue with **[Legendary Weapons](/wiki/legendary-weapons)** and **[Legendary Sets](/wiki/legendary-sets)** to discover the equipment best suited for difficult PvE encounters, or see the **[Quests](/wiki/quests)** page for the Dungeon Crawler questline.

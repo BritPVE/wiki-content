@@ -33,7 +33,7 @@ Some situations require video evidence, especially when reporting bugs, lost ite
 
 If possible always record short clips while playing.
 
-You can follow the guide available on the **Discord** to set up Steam's build-in game recording feature.
+You can follow the guide available on the **Discord** to set up Steam's built-in game recording feature.
 
 ---
 
@@ -55,7 +55,7 @@ To enable Direct Messages:
 2. Select **Privacy Settings**.
 3. Enable **Allow Direct Messages from Server Members**.
 
-Once enabled, repreat the ticket creation process.
+Once enabled, repeat the ticket creation process.
 
 ---
 
@@ -134,7 +134,7 @@ Use this category to apply to become a member of the staff team.
 
 ## Response Times
 
-Support tickets are handled by voluntter staff members.
+Support tickets are handled by volunteer staff members.
 
 Typical response times range from **1-5 minutes**, but depending on staff availability, they may take several hours.
 

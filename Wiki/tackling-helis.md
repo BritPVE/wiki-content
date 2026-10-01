@@ -16,7 +16,7 @@ Patrol Helis are one of the best sources of loot on Brits PvE Worlds. This guide
 
 - Full HQM Armor Set
 - M249 (M2)
-- Drum Mag Skill (**`/st`**)
+- **Extra Rounds** skill (bigger magazines, Combat tree in **[`/st`](/wiki/skills)**)
 
 ### Recommended Consumables
 
@@ -28,7 +28,7 @@ Patrol Helis are one of the best sources of loot on Brits PvE Worlds. This guide
 >
 > Max Health Tea greatly increases your survivability, especially against Elite and Legendary Patrol Helis.
 
-### Starting the Event
+## Starting the Event
 
 1. Teleport to a Patrol Tower using **`/tower1-6`**.
    - **`/tower1`** is generally considered the best tower, but keep in mind that the map maker changes them every once in a while.
@@ -57,7 +57,7 @@ If you struggle to consistently hit the rotors, switch to **HV 5.56 Ammo** and f
 >
 > Try to land the final shots while the Patrol Heli is directly above or next to the tower. This helps ensure the crates land on solid ground instead of falling into the ocean.
 
-## Safety TIPS
+## Safety Tips
 
 > 💡 **Need Help?**
 >
@@ -69,25 +69,26 @@ If you struggle to consistently hit the rotors, switch to **HV 5.56 Ammo** and f
 
 > 💡 **Retiring a Patrol Heli**
 >
-> IF you want to despawn your Patrol Heli, simply use:
+> If you want to despawn your Patrol Heli, simply use:
 >
 > **`/hsretire`**
 
 <details>
-   <summary>Recommended Meals</summary>
-   ![](../assets/AllMeals/SteakDinner.png)
+<summary><strong>Recommended Meals</strong></summary>
 
-   ---
+![Steak Dinner](../assets/AllMeals/SteakDinner.png)
 
-   ![](../assets/AllMeals/GnocchiNeapolitan.png)
+---
 
-   ---
+![Gnocchi Neapolitan](../assets/AllMeals/GnocchiNeapolitan.png)
 
-   ![](../assets/AllMeals/FrenchToast.png)
+---
 
-   --- 
+![French Toast](../assets/AllMeals/FrenchToast.png)
 
-   ![](../assets/AllMeals/BerryCobbler.png)
+---
+
+![Berry Cobbler](../assets/AllMeals/BerryCobbler.png)
 
 </details>
 
@@ -114,17 +115,19 @@ Your custom tower can be upgraded with an **Auto-Reload Turret**.
 
 The turret doesn't require electricity.
 
-Simply place an M249 inside the turret.
+Simply place the spare M249 inside the turret.
 
 Whenever your weapon runs empty, open the turret and **hover-loot** or drag your M249 to instantly swap it with the fully loaded one inside.
 
 ### How to build your Own Tower
 
-There are many different ways to build a heli tower, I will show you two different towers. This towers can be included in your main base or be place somewhere else in your home world. 
+There are many ways to build a heli tower. Below are two proven designs. Both can be built into your main base or placed somewhere else in your home world.
 
-> ⚠ Be aware, to many Helis on the mainland will produce lag for you and other players!
+> ⚠ **Be aware**
 >
-> With these two designs you can't build higher then 5 floors, stability prevents it!
+> Too many Helis on the mainland will produce lag for you and other players.
+>
+> With these two designs you can't build higher than 5 floors, stability prevents it.
 
 > 💡 **Tower Tip**
 >
@@ -148,4 +151,4 @@ There are many different ways to build a heli tower, I will show you two differe
 
 ## Continue Reading
 
-Once you're comfortable defeating Patrol Helis, continue with **Tackling Bradleys** to learn how to efficiently destroy bradleys for even greater rewards.
+Once you're comfortable defeating Patrol Helis, continue with **[Tackling Bradleys](/wiki/tackling-bradleys)** to learn how to efficiently destroy Bradleys for even greater rewards.

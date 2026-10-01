@@ -1,11 +1,11 @@
 # Item Bank & Auto-Sell
 
-The **Item Bank** and **Auto-Sell** perks allow you to generate passive RP by automatically selling items on the Stock Market even while you're offline.
+The **Auto Sell to Server** Prestige perk unlocks the **Item Bank** and **Auto-Sell**, which let you generate passive RP by automatically selling items on the Stock Market even while you're offline.
 
 ## Quick Overview
 
-- **Requirement:** Unlock the **Item Bank** Prestige perk.
-- **REcommended For:** PLayers looking to earn passive RP.
+- **Requirement:** Unlock the **Auto Sell to Server** **[Prestige perk](/wiki/prestige-perks)**.
+- **Recommended For:** Players looking to earn passive RP.
 - **Main Goal:** Automatically sell items stored in your Item Bank.
 
 ---
@@ -48,7 +48,7 @@ Return to the **Stock Market** and search for the item you just deposited.
 
 ### Step 4 - Set Your Selling Price
 
-Open the item's **Stock Item Deatils**, enter your desired **Auto-Sell Price**, then confirm. 
+Open the item's **Stock Item Details**, enter your desired **Auto-Sell Price**, then confirm.
 
 ![Auto-sell price field](../assets/auto_sell/auto-sell.png)
 
@@ -94,4 +94,4 @@ Refill Your Bank
 
 Looking to earn even more RP?
 
-Continue with **Best RP Methods** to learn fastest active money-making strategies on Brits PvE Worlds.
+Continue with **[Best RP Methods](/wiki/best-rp-methods)** to learn the fastest active money-making strategies on Brits PvE Worlds.

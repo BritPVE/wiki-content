@@ -1,4 +1,4 @@
-# Deep Sea Rework
+# Deep Sea
 
 Deep Sea is a high-reward PvE event featuring multiple Cargo Ships protected by Cobalt forces. It offers some of the best loot on the server, including Leviathan Armor pieces, explosives, and batteries.
 
@@ -8,248 +8,128 @@ Deep Sea is a high-reward PvE event featuring multiple Cargo Ships protected by 
 - **Difficulty:** ⭐⭐⭐⭐⭐
 - **Main Goal:** Clear Cargo Ships while surviving Cobalt patrols and automated defenses.
 
-> 💡 **Deep Sea Tip**
->
-> If you see a black bubble around a cargo, do NOT get close, its a taken cargo.
->
-> Cargos that can be claimed will only have a purple circle on top of the water level.
->
-> If you did enter the zone and lost the boat, you can always do `/boatrecover` (note: it only works in deep sea)
----
-
-## Overview
-
-Deep Sea is a custom event that expands Rust's vanilla Cargo Ship into a much larger PvE encounter.
-
-> ⚠ Warning
+> ⚠ **Warning**
 >
 > Deep Sea is currently one of the hardest PvE activities on the server.
 >
-> If you're new, consider mastering Patrol Helis and Dungeons before attempting it.
+> If you're new, consider mastering **[Patrol Helis](/wiki/tackling-helis)** and **[Dungeons](/wiki/dungeon-guide)** before attempting it. **[Leviathan](/wiki/legendary-sets)** or Impact Guard armor is highly recommended.
 
 ---
 
-### Features
+## How the Event Works
 
-- 10 Cargo Ships spawn every Deep Sea cycle, 5 initially and then 5 more respawns.
-- Cargo Ships continue respawning until approximately **1 hour** remains in the event or 5 cargos spawned.
+Deep Sea is a custom event that expands Rust's vanilla Cargo Ship into a much larger PvE encounter. It takes place out at sea in the **normal worlds**: when the event is open, take a boat out from any normal world, just like you would for a vanilla Cargo Ship.
+
+- **5 Cargo Ships** spawn at the start of each Deep Sea cycle.
+- Cargos respawn until either **5 respawns** have happened or about **1 hour** of the event remains. That means up to **10 cargos** per cycle.
 - Each Cargo Ship is defended by Cobalt Scientists and numerous Auto Turrets.
+- **Cobalt Patrol Boats** roam the Deep Sea, usually carrying groups of **five Scientists**. They are generally easy to defeat from long range or one patrol at a time, and their scientists use the same loot table as the Cargo Ships.
 
-> 💡 **Recommendation**
->
-> Leviathan or Impact Armor is highly recommended before attempting Deep Sea.
+### Claiming a Cargo
 
----
-
-## Cobalt Patrol Boats
-
-Cobalt Patrol Boats roam throughout the Deep Sea, usually carrying groups of **five Scientists**.
-
-They are generally easy to defeat when engaged from long range or one patrol at a time.
-
-Scientists use the same loot table found on Cargo Ships.
-
----
-
-## Cobalt Cargo Ships
-
-### Spawn Behavior
-
-- There are 5 cargo ships per Deep Sea, but they have the ability to respawn until there is 1 hour of Deep Sea left or 5 of them respawned.  
-
----
+- A cargo that can be claimed has a **purple circle** on the water around it.
+- A cargo with a **black bubble** around it is already taken by another player. Do **not** get close.
+- If you entered a zone and lost your boat, use `/boatrecover` (it only works in the Deep Sea).
 
 ### Cargo Rewards
 
 Each Cargo Ship offers excellent rewards, including:
 
 - Medium amounts of Rockets and C4
-- Locked Crates
-- Battery from Locked Crates
-- Leviathan Armor Pieces
+- Locked Crates (which can contain a Battery)
+- Leviathan Armor pieces
 - High-tier loot
 
 ---
 
-## Dangers of Cargos and How to Neutralize Them
+## Threats on a Cargo
 
-### Bots
+### Bots (Cobalt Scientists)
 
-- They are trivial to deal with and relatively weak (600 HP).  
-- You can shoot them, explode them, or kill them by any other means that deal damage.  
+- Trivial to deal with and relatively weak (600 HP).
+- Shoot them, explode them, or kill them by any other means that deal damage.
+- Found in the left and right corridors on the bottom deck, and everywhere on top.
 
-**Recommended approach:**
-
-- Use explosions from something that can rapid-fire them, like Ashmaker.  
-- If you don’t have that, use M249/AR with incendiary ammo.
-
-> 💡 **Tip**   
-> Bots **WILL always** respawn when you open a locked crate, so be ready
-
----
+**Recommended approach:** use explosions from something that can rapid-fire them, like the Ashmaker. If you don't have one, use an M249 or AR with incendiary ammo.
 
 ### Turrets
 
-- They are the most dangerous threat you're gonna face while doing cargos.  
-- They have the same health as their vanilla analogs (1k HP | 3 HV rockets), but deal **significantly** more damage: 153 HP in full HQM and 126 HP in heavy metal pants/head with rest being vanilla.
+- The most dangerous threat on a cargo.
+- Same health as vanilla Auto Turrets (1,000 HP, or 3 HV rockets), but they deal **significantly** more damage: about **153 HP** per hit in full HQM, and **126 HP** in heavy metal pants and helmet with the rest vanilla.
+
+**Where they usually are:**
+
+- 1 to 2 at the front of the cargo
+- 1 to 4 in the corners of the bottom sections
+- 0 to 2 on the back top of the cargo
+- Around 10 scattered in the top middle: on top of metal crates, in corridors, and at entrances to the bottom floor. **There can be more than one at a time in the top middle.**
 
 **Recommended approach:**
 
-- Use splash from explosions to avoid entering shooting range.  
-- Use something that heals you fast, like pumpkin pies (100% HP heal).
-- Always have a medkit in hotbar/Helping hands
-- **Be wary about turrets in the top middle, as there could be more than 1 per time**
+- Use explosive splash damage so you never enter their firing range.
+- Carry something that heals fast, like Pumpkin Pies (100% HP heal).
+- Always have a medkit in your hotbar, or Helping Hands.
 
-> 💡 **Tip**   
-> Turrets **WILL always** respawn when you open a locked crate, so be ready
-
-> 💡 **Perceptive Tip**
->
-> If you have the **Perceptive** perk in the Raiding tree, use `/traps` while clearing Deep Sea cargos. The ability lasts 60 seconds, has a 60 second cooldown, and gives a 20% chance per perk level to see nearby traps. This is especially useful for checking turret positions before pushing onto or through a cargo.
-
-> ⚠ These turrets deal significantly more damage than vanilla Auto Turrets.
+> ⚠ **Both bots and turrets respawn every time you open a locked crate.** Be ready before you hack.
 
 ---
 
-## Enemy Locations
+## Strategy 1: Safe Clear
 
-### Bots
+**Difficulty:** ⭐⭐☆☆☆ | **Time:** 25 to 35 minutes solo
 
-- Bots are scattered around the cargo.  
-- You will meet them in the left and right corridors on the bottom, and everywhere on the top.
-
-### Turrets
-
-- Turrets are usually located:
-  - 1–2 at the front of the cargo  
-  - 1–4 in corners of bottom sections  
-  - 0–2 on the back top of the cargo  
-  - 10~ scattered in the top middle:
-    - On top of metal crates  
-    - In corridors  
-    - At entrances to the bottom floor  
-
----
-
-## Tactics for Clearing
-
-### Strategy 1 — Safe Clear
-
-**Difficulty:** ⭐⭐☆☆☆
-
-**Recommended For**
-- First-time players
-- Solo players
-- Learning the event
-
-**Average Time**
-25–35 minutes
-
----
-
-**Overview:**
-
-- Trying to be as careful as possible and take your time.  
-- Can be done by anyone no matter how skilled you are.  
-
----
-
-**Skill requirement:**
-
-- Basic knowledge of how to heal and shoot.
-
----
-
-**Time to clear:**
-
-- Usually 25–35 min to clear a cargo if solo.
-
----
+**Recommended for:** first-time players, solo players, learning the event. Can be done by anyone with basic knowledge of how to heal and shoot: the whole idea is to be as careful as possible and take your time.
 
 **Items required:**
 
-- Anything that can shoot rockets (e.g. Ashmaker, Rocket launcher)  
-- AR/M249 with incendiary ammo  
-- 5–10 Pumpkin pies  
-- ~500 Berries  
-- Preferably Impact set  
-  - If you don’t have one: Levi/Impact gloves, hoodie, chest, and heavy metal pants/head as it is the cheapest and most protective alternative.  
-- Max health teas (preferably with Prestige 2+)  
-- Player-built boat (3 stories tall, with protection, small peeks, roof access, and a respawn set)  
-- 10~ medkits or Helping hands in case you go down from a turret/bot.
-
----
+- Anything that can shoot rockets (Ashmaker, Rocket Launcher)
+- AR or M249 with incendiary ammo
+- 5 to 10 Pumpkin Pies
+- Around 500 Berries
+- Preferably a full Impact Guard set. If you don't have one: Leviathan or Impact Guard gloves, hoodie and chest, plus heavy metal pants and helmet. That is the cheapest and most protective alternative.
+- Max health teas (preferably with Prestige 2+)
+- A player-built boat: 3 storeys tall, with protection, small peeks, roof access, and a respawn point set up
+- Around 10 medkits, or Helping Hands, in case you go down to a turret or bot
 
 **Steps:**
 
-1. Get the boat as far as you can, as long as you can comfortably shoot bots.  
-2. Kill all the bots that peek you. Get as close as you can to the middle of the boat, check for turrets. If you see any, shoot them with explosives.  
-3. Get on the cargo and check your surroundings for turrets.  
-4. If you don't see any, move to the other section while being careful and peeking for turrets/bots. If you get hit by a turret, eat a pumpkin pie and shoot it.
-5. When opening locked crates, always dive for any cover from turrets/bots
-6. Utilize cover as much as possible, listen for sounds around you, and memorize common turret spawn locations for easier future runs.
-7. Repeat Step 4 until cargo is done.
+1. Bring the boat as close as you can while still being able to shoot bots comfortably.
+2. Kill every bot that peeks you. Get as close as you can to the middle of the cargo and check for turrets. If you see any, shoot them with explosives.
+3. Board the cargo and check your surroundings for turrets.
+4. If you don't see any, move to the next section carefully, peeking for turrets and bots. If a turret hits you, eat a Pumpkin Pie and shoot it.
+5. When opening locked crates, always dive for cover from turrets and bots.
+6. Use cover as much as possible, listen for sounds around you, and memorize common turret spawn locations for easier future runs.
+7. Repeat step 4 until the cargo is done.
 
 ---
 
-### Strategy 2 — Speedrun
+## Strategy 2: Speedrun
 
-**Difficulty:** ⭐⭐⭐⭐⭐
+**Difficulty:** ⭐⭐⭐⭐⭐ | **Time:** 10 to 15 minutes solo
 
-**Recommended For**
-- Experienced players
-- Fast farming
-- Players familiar with turret spawns
-
-**Average Time**
-10–15 minutes
-
----
-
-**Overview:**
-
-- Requires knowing the layout and usual spawns of turrets.  
-- Focused on fast clearing rather than safety
-
----
-
-**Skill requirement:**
-
-- Good knowledge of cargo layout and turret positions.  
-- Ability to react quickly to bots and turrets in one place (like healing or getting into cover).
-
----
-
-**Time to clear:**
-
-- Usually 10–15 min solo.
-
----
+**Recommended for:** experienced players who know the cargo layout and usual turret positions, and can react quickly to bots and turrets in one place (healing, getting into cover). Focused on fast clearing rather than safety.
 
 **Items required:**
 
-- 2–4 Ashmakers  
-- 40–50 Pumpkin pies  
-- ~500 Berries  
-- 10~ Medkits or Helping hands  
-- Rhib (Can be bought through `/rhib` with 1k scrap)
-- Max health tea (preferably Prestige 8+)  
-- Vampiric chest, rest Impact/Levi set  
-
----
+- 2 to 4 Ashmakers
+- 40 to 50 Pumpkin Pies
+- Around 500 Berries
+- Around 10 medkits, or Helping Hands
+- A RHIB (can be bought with `/rhib` for 1,000 Scrap)
+- Max health tea (preferably Prestige 8+)
+- Vampiric chest, rest Impact Guard or Leviathan set
 
 **Steps:**
 
-1. Approach the cargo through its front.  
-2. Get to the bottom floor door, **don't shoot scientists yet, to not activate turrets**.  
-3. As soon as you get inside, start spamming Ashmakers to kill all the bots (vampiric chest and berry spam should provide enough health).  
-4. When you are done with bots, look for turrets in the corners and clear them if they are present.  
-5. When opening locked crates, always dive for any cover from turrets
-6. Get out in the back of the cargo when done looting and look out for turrets, if they are present clear them from both sides.  
-7. Get into the command room and get onto the top, be careful of 2 turrets up there.  
-8. From the top, shoot all of the turrets on the metal crates you can see.  
-9. Turrets should be left only in hallways and front by now, just proceed with caution and finish remaining threats.
-
+1. Approach the cargo from its front.
+2. Get to the bottom floor door. **Don't shoot scientists yet**, so the turrets don't activate.
+3. As soon as you get inside, start spamming Ashmakers to kill all the bots (the vampiric chest and berry spam should provide enough health).
+4. When the bots are done, look for turrets in the corners and clear them if present.
+5. When opening locked crates, always dive for cover from turrets.
+6. Exit at the back of the cargo when done looting and look out for turrets. If present, clear them from both sides.
+7. Get into the command room and up to the top. Be careful of the 2 turrets up there.
+8. From the top, shoot every turret on the metal crates you can see.
+9. By now turrets should only be left in hallways and at the front. Proceed with caution and finish the remaining threats.
 
 ---
 
@@ -257,4 +137,4 @@ Each Cargo Ship offers excellent rewards, including:
 
 Interested in the armor obtained from Deep Sea?
 
-Continue with **Legendary Sets** to learn more about Leviathan Armor and its unique defensive bonuses.
+Continue with **[Legendary Sets](/wiki/legendary-sets)** to learn more about Leviathan Armor and its unique defensive bonuses, or check the **[Quests](/wiki/quests)** page for the Deep Sea Cargo questline.

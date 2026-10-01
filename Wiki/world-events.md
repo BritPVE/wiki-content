@@ -35,19 +35,19 @@ One of the best early-game events for players looking to earn XP and loot.
 The Harbinger is one of the hardest PvE encounters on the server.
 
 **Entry Requirement**
-- Purchase a **Harbinger Keycard** for **1,000,000 RP**.
+- Purchase a **Harbinger Keycard** for **1,000,000 RP** (it is also a reward from the Boom God questline on the **[Quests](/wiki/quests)** page).
 - Enter through the portal next to the piano at **`/outpost`**.
 
 **Strategy**
 - Fight from inside the cave to protect yourself from rockets.
-- An **M2** or **Kill Switch'lr** is highly recommended.
-- Unlock the **Anti-Fire** skill in the Healing Skill Tree before attempting the fight.
+- An **M2** or **[Kill Switch'lr](/wiki/legendary-weapons)** is highly recommended.
+- Unlock the **Hot Blooded** skill (Combat tree, Environmental Resistance: 25% less fire and heat damage) before attempting the fight.
 
 > ⚠ **Important**
 >
 > You only get **one attempt per keycard**. If you die, you cannot re-enter until you purchase another key.
 >
-> Don't worry—your loot will remain outside the arena.
+> Don't worry, your loot will remain outside the arena.
 
 **Respawn**
 - Approximately every **30 minutes** (if defeated).
@@ -80,7 +80,7 @@ A fun survival event where players fight to remain human.
 
 ### How It Works
 
-- Players are teleproted into a dark arena.
+- Players are teleported into a dark arena.
 - A countdown begins before weapons become available.
 - One random player is selected as the **Zombie**, armed only with a fork.
 
@@ -90,7 +90,7 @@ A fun survival event where players fight to remain human.
 - Kill every zombie.
 - Or survive until the event ends.
 
-**Zombie win**
+**Zombies Win**
 - Infect every human.
 
 Players killed by Zombies immediately become Zombies themselves.
@@ -112,6 +112,26 @@ A seasonal competition that rewards the most active players.
 
 ---
 
+## Other Events and Loot Sources
+
+The server has more events than this page currently documents. They show up on the **[Item Drops](/loot-tables)** page as loot sources, so they are listed here until someone writes them up (contributions welcome, see **[Contribute](/contribute/contribute)**):
+
+| Event | What we know |
+|---|---|
+| **Cobalt Assault** | A Patrol Heli based event, still being balanced (see **[Upcoming Changes](/wiki/upcoming-changes)**). Its legendary crate can contain most legendary weapons and armor pieces. |
+| **Dome Event** | Listed in the loot tables with elite, heli, hackable and Bradley crates plus guards. No player write-up yet. |
+| **Sat Dish Event** | Listed in the loot tables with crates and zombie NPCs. No player write-up yet. |
+| **Boss Drone** | A boss with a locked crate; drops Dragon Thorns and Impact Guard pieces among other things. |
+
+### Presents
+
+Presents are bought from the server store at [britspve.com/store](https://britspve.com/store) and are **gifted to everyone on the server** when someone buys them.
+
+- Merge **10 Small Presents** into **1 Medium Present**, and **5 Medium Presents** into **1 Large Present**.
+- Each size has better loot than the last. A **Large Present** can contain many of the top legendary weapons and every piece of the Leviathan, Impact Guard and Dragon Thorns sets (see **[Item Drops](/loot-tables)**).
+
+---
+
 ## Event Tips
 
 > 💡 **General Advice**
@@ -127,4 +147,4 @@ A seasonal competition that rewards the most active players.
 
 Ready for tougher PvE content?
 
-Continue with **Tackling Patrol Helis** to learn how to defeat one of the server's most rewarding enemies.
+Continue with **[Tackling Patrol Helis](/wiki/tackling-helis)** to learn how to defeat one of the server's most rewarding enemies.

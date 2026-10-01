@@ -28,7 +28,7 @@ Each insert family specializes in protecting against different types of damage, 
 
 ---
 
-### Wooden Inserts (Satiated Series)
+## Wooden Inserts (Satiated Series)
 
 General-purpose protection for everyday survival.
 
@@ -55,7 +55,7 @@ General-purpose protection for everyday survival.
 
 ---
 
-### Asbestos Inserts (Waterproof Series)
+## Asbestos Inserts (Waterproof Series)
 
 Specialized protection for water and cold environments.
 
@@ -77,7 +77,7 @@ Specialized protection for water and cold environments.
 
 ---
 
-### Lead Inserts (Impact Series)
+## Lead Inserts (Impact Series)
 
 Designed to reduce damage from impacts and explosions.
 
@@ -100,7 +100,7 @@ Designed to reduce damage from impacts and explosions.
 
 ---
 
-### Metal Inserts (Metal Series)
+## Metal Inserts (Metal Series)
 
 The strongest choice for direct combat.
 
@@ -140,8 +140,12 @@ Armor Inserts can be obtained from various loot sources throughout the server.
 
 Higher-tier inserts (`++` and `+++`) are significantly rarer than the basic `+` versions.
 
+> 💡 **Tip**
+>
+> The **Walking Tank** skill (Survivalcraft tree, Crafting & Building section) gives crafted armor a 15% chance per level to roll the maximum number of insert slots. See the **[Skills](/wiki/skills)** page.
+
 ---
 
 ## Continue Reading
 
-Now that you know how to customize your armor, continue with **World Events** to learn where to put your equipment to good use.
+Now that you know how to customize your armor, continue with **[World Events](/wiki/world-events)** to learn where to put your equipment to good use.

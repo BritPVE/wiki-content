@@ -38,9 +38,59 @@ Example category entry:
 
 To hide a page from the menu without deleting it, add its slug to the `hiddenPages` array in `navigation.json`.
 
-## Quick Formatting Tips
+A page's title in the menu is taken from its first `# Heading`, and its URL is `/wiki/<slug>`. Name files in lowercase with hyphens (`my-new-page.md`) so the filename matches the slug.
 
-- You can find a helpful guide on markdown [here](https://www.markdownguide.org/cheat-sheet/)
-- Use one `# Title` at the top of each markdown page.
+## Formatting Rules That Matter on This Site
+
+The wiki site renders standard Markdown, but a few things are easy to get wrong. Every rule below was checked against the live site.
+
+**Images**
+
+- Put images in the `assets/` folder and reference them with a relative path **including the file extension**: `![Steak Dinner](../assets/AllMeals/SteakDinner.png)`. A path without `.png` shows as a broken image.
+- Paths are **case-sensitive**: `BlueBerry.png` and `Blueberry.png` are different files.
+- Always fill in the alt text in the square brackets; it is what screen readers and broken-image placeholders show.
+- Item and skin icons can be embedded from the site's own lookup API: `![Name](/api/lookup/skins/<skinId>/image)` or `![Name](/api/lookup/items/icon/<itemId>)`. The skin IDs are visible on the **[Item Drops](/loot-tables)** page.
+
+**Links between pages**
+
+- Link to other wiki pages with an absolute path: `[Skills](/wiki/skills)`. Links to headings inside a page (`#section`) do **not** work, because headings don't get anchors.
+- The two tool pages are `/loot-tables` (Item Drops) and `/xp-calculator`.
+
+**Callouts and collapsible sections**
+
+- Use blockquotes for tips and warnings, matching the rest of the wiki:
+
+```markdown
+> 💡 **Tip**
+>
+> Text of the tip.
+
+> ⚠ **Important**
+>
+> Text of the warning.
+```
+
+- GitHub's `> [!NOTE]` alert syntax is **not** supported and shows up as literal text.
+- Collapsible sections use `<details>` and `<summary>`. Leave a **blank line** after `</summary>` and do not indent the content, otherwise the first Markdown line inside is shown as raw text:
+
+```markdown
+<details>
+<summary><strong>Show more</strong></summary>
+
+![Image](../assets/example.png)
+
+</details>
+```
+
+**Tables and videos**
+
+- Leave a blank line before and after every table. Without it, the sentence after the table gets swallowed into the last row.
+- Embed YouTube videos with: `@[youtube](https://www.youtube.com/watch?v=VIDEO_ID){width=960 height=540}`
+
+## Style Tips
+
+- You can find a helpful guide on markdown [here](https://www.markdownguide.org/cheat-sheet/).
+- Use one `# Title` at the top of each markdown page and `##` / `###` for the sections below it.
 - Use headings and bullet points to keep pages readable.
-- Keep content accurate and concise.
+- Keep content accurate and concise. Use the exact in-game names for items, quests and skills.
+- Prefer describing a rule (for example "every N weeks on Thursday at 18:00 UTC") over a single date that will go stale.

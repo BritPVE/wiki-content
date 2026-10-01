@@ -2,9 +2,9 @@
 
 Buy a real shop building on the map, fill it with your own items, and sell them to other players for **RP** while you're offline.
 
-## 📋 TL;DR — The Whole System in 6 Lines
+## TL;DR: The Whole System in 6 Lines
 
-Too lazy to read? Read this, then stop.
+In a hurry? Read this table, then come back for details when you need them.
 
 | # | Do this | How |
 |---|---|---|
@@ -15,31 +15,29 @@ Too lazy to read? Read this, then stop.
 | 5 | **Set prices** | Look at the machine from the **front** → set Amount + Price → **List** |
 | 6 | **Find shops** | **`/shopslist`** |
 
-> ⚠ The One Rule That Matters
+> ⚠ **The One Rule That Matters**
 >
-> **Rent runs out = your shop is demolished.**
-> 
-> **You get 5 hours cooldown**
+> **Rent runs out = your shop is demolished**, and you can't buy a new one for **5 hours**.
 >
-> Your items are **never** deleted. Get them back with **`/redeem shop`**(Available only in hub).
+> Your items are **never** deleted. Get them back with **`/redeem shop`** (only works in the HUB).
 
 ---
 
-# 1. What Are Shops and Why Bother?
+## 1. What Are Shops and Why Bother?
 
-A shop is a **real building on the map** that belongs to you on hub. Other players walk up to it and buy your stuff.
+A shop is a **real building in the HUB** that belongs to you. Other players walk up to it and buy your stuff.
 
 **What you can do:**
 
 - ✅ Sell anything you can put in a vending machine — guns, meds, resources, food, farm goods
 - ✅ Earn RP **while you're offline** — sales work 24/7, the RP lands instantly
 - ✅ Name your shop and paint its signs (only you can)
-- ✅ Show up on the in-game map and in **Rust+**, so buyers find you(also /shopslist available at all nodes)
+- ✅ Show up on the in-game map, in **Rust+** and in **`/shopslist`** (which works from any world), so buyers can find you
 - ✅ Get a private, locked building only you can enter
 
 **What you should know before buying:**
 
-- 🔒 **One shop per player.** Remove the old one before buying a new one.
+- 🔒 **One shop per player.** Remove the old one before buying a new one (and note the 5 hour cooldown below).
 - 🕐 **It's rented, not owned.** You pay RP per hour, forever.
 - 📍 **You don't choose the location.** The server places it on a free plot.
 - 🚫 **No refunds** if you remove it yourself.
@@ -51,7 +49,7 @@ A shop is a **real building on the map** that belongs to you on hub. Other playe
 
 ---
 
-# 2. How to Buy a Shop
+## 2. How to Buy a Shop
 
 **The only way in is to talk to a shop vendor NPC.** Walk up to one and press **E**.
 
@@ -61,7 +59,7 @@ A shop is a **real building on the map** that belongs to you on hub. Other playe
 2. A menu opens with all available shops — picture, name, price.
 3. Click a card. This does **not** buy anything yet — it opens a confirm window.
 4. Read the price and rent, then press **Buy**.
-5. Your shop is built on a free plot. Marker is placed on map for you. Your **4-digit lock code** is sent to you in chat.
+5. Your shop is built on a free plot, a marker is placed on your map, and your **4-digit lock code** is sent to you in chat.
 
 
 ### The Button Won't Let You Buy?
@@ -80,7 +78,7 @@ The button on each card tells you exactly why:
 
 > 💡 **Your first hour of rent is free.** It's included with the purchase, so you have time to stock up before paying anything extra.
 
-### ⏳ The 5 Hour Rebuy Cooldown
+### The 5 Hour Rebuy Cooldown
 
 **Lose a shop and you can't buy another one for 5 hours.** No exceptions, no way to skip it.
 
@@ -100,13 +98,13 @@ It starts the moment you lose a shop — **for any reason**:
 
 > ⚠ **Don't remove your shop to "move" it**
 >
-> You won't get a better plot — you'll get **5 hours with no shop**, no RP refund, and someone else may take the free spot while you wait. If your rent is running low, **extend it** instead.
+> You won't get a better plot. You'll get **5 hours with no shop**, no RP refund, and someone else may take the free spot while you wait. If your rent is running low, **extend it** instead.
 
-If you lost your shop through a server issue or something that wasn't your fault, open a [support ticket](support-tickets) — an admin can clear the cooldown for you.
+If you lost your shop through a server issue or something that wasn't your fault, open a [support ticket](/wiki/support-tickets): an admin can clear the cooldown for you.
 
 ---
 
-# 3. How to Pay / Extend Your Rent
+## 3. How to Pay / Extend Your Rent
 
 **This is the section that saves your shop.** Do it before the timer hits zero.
 
@@ -141,17 +139,17 @@ If you lost your shop through a server issue or something that wasn't your fault
 
 ---
 
-# 4. How to Put Something Up for Sale
+## 4. How to Put Something Up for Sale
 
 Two parts: **put items in**, then **set the price**. They're done from opposite sides of the machine.
 
-### Step 1 — Stock the Machine
+### Step 1: Stock the Machine
 
 Stand **behind** the vending machine and loot it like a normal one. Drop your items in.
 
 > 💡 The plugin does **not** move items for you. If the machine is empty, you have nothing to sell.
 
-### Step 2 — Set the Price
+### Step 2: Set the Price
 
 Stand in **front** of the machine and open it. (Or look at it and type **`/shopmanage`**.)
 
@@ -163,7 +161,7 @@ You'll see every item inside. For each one:
 | **Price (RP)** | The price for that **whole batch** — not per item. |
 | **List / Unlist** | Shows or hides the item from customers. |
 
-3. Set **Amount**, set **Price**, press **List item**. It's now for sale.
+Set **Amount**, set **Price**, press **List item**. It's now for sale.
 
 ### Rules
 
@@ -179,11 +177,11 @@ You'll see every item inside. For each one:
 - Rename each **vending machine** in the price editor (`V1`, `V2`, … by default).
 - In the world they show as `<Shop name> <Machine name>`.
 
-> 💡 **Map names are cut to 10 UPPERCASE characters** — that's a Rust limit. `Bob's Fine Guns` becomes `BOB'S FINE`. Put the important word first.
+> 💡 **Map names are cut to 10 UPPERCASE characters** (a Rust limit). `Bob's Fine Guns` becomes `BOB'S FINE`. Put the important word first.
 
 ---
 
-# 5. How to Buy From a Shop
+## 5. How to Buy From a Shop
 
 The easy part. **Just open the vending machine.**
 
@@ -197,22 +195,24 @@ The easy part. **Just open the vending machine.**
 ### Finding Shops
 
 - **`/shopslist`** opens a browser with **every shop on the network**, including shops on other servers. Each card shows the name, owner, item count and rent left.
-- Click a shop to see its **full price list** — but you still have to walk there to buy.
-- Press **Mark On Map** to pin it on your map. Press again to unpin(only on hub).
+- Click a shop to see its **full price list**, but you still have to walk there to buy.
+- Press **Mark On Map** to pin it on your map. Press again to unpin (only in the HUB).
 - Pinned shops **don't count** against your normal 5-marker limit. Pin as many as you like.
-- Shops marked `On <server>` live on another server — their price list has a **Go To Hub** button that transfers you.
+- Shops marked `On <server>` live on another server. Their price list has a **Go To Hub** button that transfers you.
 - Shop machines also broadcast on the **in-game map and Rust+**, like normal vending machines.
 
 ### Rules
 
 - 📏 You must be **within 4 metres** of the machine.
 - 🚫 You **cannot buy from your own shop**.
-- 🎒 **Inventory full?** Items go to redeem storage — get them with **`/redeem shop`**. You're told in chat.
+- 🎒 **Inventory full?** Items go to redeem storage. Get them with **`/redeem shop`**; you're told in chat.
 - 💰 The RP goes to the shop owner **instantly**.
 
 ---
 
-# 6. Player Commands(All except /shopslist available only in hub)
+## 6. Player Commands
+
+All of these except `/shopslist` only work in the HUB.
 
 | Command | What it does |
 |---|---|
@@ -227,7 +227,7 @@ The easy part. **Just open the vending machine.**
 ## Good to Know
 
 - 🔐 Your shop's code lock **cannot be picked, unlocked or authorised on** by anyone. Only you get in.
-- 🚪 Your **tool cupboard is yours alone** — you can't authorise friends or clanmates on it, even if you want to. Giving out the code doesn't change that.
+- 🚪 Your **tool cupboard is yours alone**: you can't authorise friends or clanmates on it, even if you want to. Giving out the code doesn't change that.
 - 🎨 Only you can **paint or erase the signs** on your shop.
 - 🗑️ **Remove shop** (in the cupboard panel) destroys it on purpose. **No RP refund**, and it starts the **5 hour** rebuy cooldown. Your stock still goes to `/redeem shop`.
 - 🚁 Delivery drones **cannot** buy from player shops.
@@ -241,7 +241,7 @@ The easy part. **Just open the vending machine.**
 | "My shop disappeared!" | Rent ran out. Your items are safe — **`/redeem shop`**. |
 | "It says cooldown." | You lost a shop in the last **5 hours**. The button shows the time left. |
 | "`/buyshop` does nothing." | That command doesn't exist. **Talk to a shop vendor NPC.** |
-| "I paid and got nothing." | Failed builds refund automatically. If not, open a [support ticket](support-tickets). |
+| "I paid and got nothing." | Failed builds refund automatically. If not, open a [support ticket](/wiki/support-tickets). |
 | "I can't set a price." | Look at the machine from the **front**, not the back. |
 | "I can't add a 5th item." | 4 listings per machine max. Unlist one first. |
 | "Nobody can find my shop." | Rename it so the first 10 characters are recognisable. |

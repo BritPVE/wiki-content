@@ -7,8 +7,9 @@ Learn how the levelling system works, the fastest ways to gain XP, and how to pr
 - **Difficulty:** ⭐⭐☆☆☆
 - **Recommended For:** All Players.
 - **Main Goal:** Reach higher levels efficiently and prepare for Prestige.
-- **Maximum Overall Level:** 100
+- **Maximum Player Level:** 100
 - **XP & Skill Points:** One shared XP total and one global Skill Point pool
+- **Total XP for Level 100:** 12,000,000
 - **Basic Trees:** Gathercraft, Survivalcraft, Combat
 - **Specialized Trees:** Vehicles *(more planned)*
 
@@ -16,7 +17,7 @@ Learn how the levelling system works, the fastest ways to gain XP, and how to pr
 
 ## Overview
 
-Progression is one of the core mechanics of Brits PvE Worlds. Every level grants **1 Skill Point**, which can be invested into the **Skill Tree (`/st`)** to unlock powerful upgrades for gathering, combat, raiding and much more. Prestige perks can increase the Skill Points you receive.
+Progression is one of the core mechanics of Brits PvE Worlds. Every level grants **1 Skill Point**, which can be invested into the **[Skill Tree](/wiki/skills) (`/st`)** to unlock powerful upgrades for gathering, combat, raiding and much more. **[Prestige perks](/wiki/prestige-perks)** can increase the Skill Points you receive.
 
 ---
 
@@ -44,7 +45,7 @@ XP requirements do not scale evenly across levels. The curve uses a **scale of 3
 
 > 💡 **Tip**
 >
-> Respeccing a tree requires **3 hours of playtime** before it becomes available, so think before you commit points.
+> Respeccing a tree is free but has a **3 hour cooldown**. The cooldown is shared by all trees (respeccing one starts the timer for every tree), while the respec itself only refunds the tree you pressed it in. See the **[Skills](/wiki/skills)** page.
 
 ---
 
@@ -53,6 +54,8 @@ XP requirements do not scale evenly across levels. The curve uses a **scale of 3
 Every value below is the base XP granted per action, taken from the skill tree config. The headings group activities for convenience: **all of this XP goes into the same shared total**. Applicable XP boosts can increase the amount you receive.
 
 > ⚠ **These numbers are tuned over time.** The developers can adjust XP per activity independently and add new sources, and some XP sources are currently affected by bugs. Treat these as current values rather than permanent ones.
+
+> ⚠ **Ignore the XP values in the in-game tree panels.** The "XP Sources" list you see when you click a tree in `/st` does not show the real values. The tables below come from the server config.
 
 ### Quests Are The Main Event
 
@@ -72,7 +75,7 @@ Quartermaster XP contributes to your **shared player level**, and the points you
 
 The practical takeaway: **per-action XP is what you earn while working toward a quest, not a strategy on its own.** Grinding nodes without an active quest attached is leaving the overwhelming majority of your XP on the table.
 
-For the full payout list across all quest categories, see the **Quests** page.
+For the full payout list across all quest categories, see the **[Quests](/wiki/quests)** page.
 
 ### Gathering Activities
 
@@ -154,11 +157,11 @@ Events offer substantial activity XP payouts, alongside the larger quest rewards
 
 ## Level Resets & Prestige
 
-Levels reset **every 6 months** to keep progression fresh and to accommodate new updates and balance changes.
+Levels reset **every 6 months** (the **XP wipe**) to keep progression fresh and to accommodate new updates and balance changes. The next XP wipe date is on the **[Welcome page](/wiki/overview)** and in the wipe-feed channel on Discord. Map wipes are more frequent and do not reset your level.
 
 The maximum player level is **100**. On reaching it, you can **Prestige**, earning exclusive rewards. Prestiging resets your shared level, XP, and allocated skills for a new progression cycle. The maximum Prestige level is **Pr10**.
 
-Prestige also unlocks **Prestige Perks**, browsable via **`/s` → Prestige**. Two of them directly accelerate re-levelling: **+5 Starting Skill Points** added once to your global pool and a **20% XP Boost**. See the **Prestige Perks** page for the full list.
+Each Prestige level lets you pick **one Prestige Perk** through the **Levelling** questline in **`/q`**. Two of them directly accelerate re-levelling: **+5 Starting Skill Points** added once to your global pool and a **20% XP Boost**. See the **[Prestige Perks](/wiki/prestige-perks)** page for the full list.
 
 ---
 
@@ -166,7 +169,7 @@ Prestige also unlocks **Prestige Perks**, browsable via **`/s` → Prestige**. T
 
 The fastest and most consistent way to gain XP is by completing **Quartermaster Tasks** up to **Tier 4**, which pays **100,000 XP** and **50,000 RP** each.
 
-To maximize efficiency, use the appropriate legendary tools and resource sets for each task.
+To maximize efficiency, use the appropriate **[legendary tools](/wiki/legendary-tools)** and **[resource sets](/wiki/legendary-sets)** for each task.
 
 **Tier 5** pays five times the XP (**500,000**) and ten times the RP (**500,000**), but the resource requirement climbs far faster than the reward does — so T4 remains the better rate for levelling, while T5 is worth it if RP is your goal.
 
@@ -175,6 +178,10 @@ To maximize efficiency, use the appropriate legendary tools and resource sets fo
 ## Quartermaster Tasks
 
 Quartermaster Tasks are the fastest and most consistent way to gain XP. The right equipment can drastically reduce the time needed to complete them.
+
+> 💡 **Farm in the Mining Worlds**
+>
+> The three **Mining Worlds** (`/w`) have no building and no monuments, so ore nodes and trees spawn far more densely than in the normal worlds. They are the best place to grind Quartermaster tasks.
 
 ### Wood Quartermaster
 
@@ -191,8 +198,8 @@ This setup is the fastest way to complete wood gathering tasks.
 These three Quartermaster tasks all benefit from the same setup.
 
 **Recommended Equipment**
-- **Brits Broken PIckaxe** *(required)* - Increases node yield by **60%**.
-- **Full Mining  Set** - Increases mining yield by **100%**.
+- **Brits Broken Pickaxe** *(required)* - Increases node yield by **60%**.
+- **Full Mining Set** - Increases mining yield by **100%**.
 
 Together, these provide a combined **160% mining yield bonus**, making them the best setup for mining Quartermaster tasks.
 
@@ -205,7 +212,7 @@ Together, these provide a combined **160% mining yield bonus**, making them the 
 > - **Bangers and Mash** → **+100% Ore Yield**.
 > - **Grilled Pork Kebab** → **+25% Wood Yield**.
 >
-> These food buffs can also be stacked with a **Bear Pie** or **Super Serum** for even greater efficiency.
+> These food buffs can also be stacked with a **Bear Pie** or **Super Serum** for even greater efficiency. See the **[Food System](/wiki/food-and-meal-system)** page.
 
 ---
 
@@ -213,6 +220,6 @@ Together, these provide a combined **160% mining yield bonus**, making them the 
 
 Once you've reached a comfortable level and unlocked your first skills, it's time to decide how you want to progress.
 
-The next recommended page is **Skills (/st)**, where you'll learn which skills to unlock first and how to spend your Skill Points efficiently.
+The next recommended page is **[Skills](/wiki/skills)**, where you'll learn which skills to unlock first and how to spend your Skill Points efficiently.
 
 If you'd like to learn more about the rewards for each Prestige level, visit the **player-resources** channel on the official Discord server.

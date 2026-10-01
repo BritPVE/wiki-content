@@ -2,7 +2,7 @@
 
 This page summarizes questions and answers discussed during recent Brits PvE Worlds Town Halls.
 
-> [!NOTE]
+> 💡 **Note**
 >
 > Answers reflect the information provided by the development team at the time of the Town Hall. Some systems may change as development continues.
 
