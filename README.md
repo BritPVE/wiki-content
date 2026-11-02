@@ -10,27 +10,32 @@ Use this page to submit content updates to the wiki through GitHub pull requests
 
 1. Fork `BritPVE/wiki-content` to your GitHub account.
 2. Create a new branch for your change.
-3. Choose the relevant top-level folder (for example `Wiki/`) and edit or add the target `.md` file.
+3. Edit the page under `lang/en/` (for example `lang/en/Wiki/`). Add a translation at the same path under `lang/<code>/`.
 4. Commit with a clear message describing what changed.
 5. Open a pull request to `BritPVE/wiki-content:main`.
 6. Include a short summary in the PR description.
 
 ## How Navigation Works
 
-The wiki menu is controlled by `navigation.json` at the root of the wiki-content repo. Page files are discovered automatically, but **they will not appear in the menu until you add them to `navigation.json`**.
+The wiki menu is controlled by `navigation.json` at the root of the wiki-content repo. Page files are discovered from `lang/en/`, but **they will not appear in the menu until you add them to `navigation.json`**.
+
+English is the default language. A translation mirrors that path under `lang/<code>/`. `lang/en/Wiki/skills.md` is translated by `lang/tr/Wiki/skills.md`. `overview.md` lives next to the section folders: `lang/en/overview.md`.
+
+A section or category `name` is a string, or an object of locale codes. The string, and the `en` value, are the default. Page entries stay filenames. Do not add a second section per language.
 
 When adding a new page:
 
-1. Add your `.md` file to the repo (for example `Wiki/my-new-page.md`).
+1. Add the English file under `lang/en/` (for example `lang/en/Wiki/my-new-page.md`).
 2. Open `navigation.json` and add the page slug to the correct category's `pages` array.
-3. Use the filename slug (for example `my-new-page`) or the file path (for example `Wiki/my-new-page.md`).
+3. Use the filename slug (for example `my-new-page`) or the path under the language folder (for example `Wiki/my-new-page.md`).
 4. Order pages in the array as you want them to appear in the side menu.
+5. To translate it, add `lang/<code>/Wiki/my-new-page.md` and, if the menu label changes, add that code to the category `name`.
 
 Example category entry:
 
 ```json
 {
-  "name": "Guides",
+  "name": { "en": "Guides", "tr": "Rehberler" },
   "pages": [
     "beginner-guide",
     "my-new-page"
@@ -48,7 +53,7 @@ The wiki site renders standard Markdown, but a few things are easy to get wrong.
 
 **Images**
 
-- Put images in the `assets/` folder and reference them with a relative path **including the file extension**: `![Steak Dinner](../assets/AllMeals/SteakDinner.png)`. A path without `.png` shows as a broken image.
+- Put images in the `assets/` folder at the repo root and reference them with a relative path **including the file extension**: `![Steak Dinner](../../../assets/AllMeals/SteakDinner.png)`. A path without `.png` shows as a broken image.
 - Paths are **case-sensitive**: `BlueBerry.png` and `Blueberry.png` are different files.
 - Always fill in the alt text in the square brackets; it is what screen readers and broken-image placeholders show.
 - Item and skin icons can be embedded from the site's own lookup API: `![Name](/api/lookup/skins/<skinId>/image)` or `![Name](/api/lookup/items/icon/<itemId>)`. The skin IDs are visible on the **[Item Drops](/loot-tables)** page.
@@ -79,7 +84,7 @@ The wiki site renders standard Markdown, but a few things are easy to get wrong.
 <details>
 <summary><strong>Show more</strong></summary>
 
-![Image](../assets/example.png)
+![Image](../../../assets/example.png)
 
 </details>
 ```
