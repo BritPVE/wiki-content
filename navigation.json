@@ -1,12 +1,58 @@
 {
+  "defaultLocale": "en",
   "hiddenPages": ["readme"],
+  "locales": {
+    "en": {
+      "label": "English"
+    },
+    "tr": {
+      "label": "Türkçe",
+      "ui": {
+        "home": "Ana Sayfa",
+        "itemDrops": "Eşya Dropları",
+        "xpCalculator": "XP Hesaplayıcı",
+        "contribute": "Katkıda Bulun",
+        "untranslated": "Bu sayfanın Türkçe çevirisi yok. İngilizce metin gösteriliyor."
+      }
+    },
+    "fr": {
+      "label": "Français",
+      "ui": {
+        "home": "Accueil",
+        "itemDrops": "Butin",
+        "xpCalculator": "Calculateur d'XP",
+        "contribute": "Contribuer",
+        "untranslated": "Cette page n'a pas encore de traduction française. Le texte anglais est affiché."
+      }
+    },
+    "es": {
+      "label": "Español",
+      "ui": {
+        "home": "Inicio",
+        "itemDrops": "Botín",
+        "xpCalculator": "Calculadora de XP",
+        "contribute": "Contribuir",
+        "untranslated": "Esta página aún no tiene traducción al español. Se muestra el texto en inglés."
+      }
+    },
+    "de": {
+      "label": "Deutsch",
+      "ui": {
+        "home": "Start",
+        "itemDrops": "Beute",
+        "xpCalculator": "XP-Rechner",
+        "contribute": "Mitwirken",
+        "untranslated": "Diese Seite hat noch keine deutsche Übersetzung. Der englische Text wird angezeigt."
+      }
+    }
+  },
   "sections": [
     {
-      "name": "Wiki",
+      "name": { "en": "Wiki", "tr": "Rehber", "fr": "Wiki", "es": "Wiki", "de": "Wiki" },
       "slug": "wiki",
       "categories": [
         {
-          "name": "Getting Started",
+          "name": { "en": "Getting Started", "tr": "Başlangıç", "fr": "Pour commencer", "es": "Primeros pasos", "de": "Erste Schritte" },
           "pages": [
             "overview",
             "beginner-guide",
@@ -17,7 +63,7 @@
           ]
         },
         {
-          "name": "Gameplay Guides",
+          "name": { "en": "Gameplay Guides", "tr": "Oynanış Rehberleri", "fr": "Guides de jeu", "es": "Guías de juego", "de": "Spielanleitungen" },
           "pages": [
             "best-rp-methods",
             "player-shops",
@@ -29,7 +75,7 @@
           ]
         },
         {
-          "name": "Combat",
+          "name": { "en": "Combat", "tr": "Savaş & Bosslar", "fr": "Combat", "es": "Combate", "de": "Kampf" },
           "pages": [
             "tackling-helis",
             "tackling-bradleys",
@@ -38,7 +84,7 @@
           ]
         },
         {
-          "name": "Items & Equipment",
+          "name": { "en": "Items & Equipment", "tr": "Eşyalar & Ekipmanlar", "fr": "Objets et équipement", "es": "Objetos y equipo", "de": "Gegenstände und Ausrüstung" },
           "pages": [
             "legendary-weapons",
             "legendary-tools",
@@ -47,7 +93,7 @@
           ]
         },
         {
-          "name": "Prestige",
+          "name": { "en": "Prestige", "tr": "Prestige", "fr": "Prestige", "es": "Prestigio", "de": "Prestige" },
           "pages": [
             "prestige-perks",
             "auto-sell",
@@ -55,20 +101,20 @@
           ]
         },
         {
-          "name": "Farming",
+          "name": { "en": "Farming", "tr": "Tarım", "fr": "Agriculture", "es": "Agricultura", "de": "Landwirtschaft" },
           "pages": [
             "skills-setgenes-guide"
           ]
         },
         {
-          "name": "Community",
+          "name": { "en": "Community", "tr": "Topluluk & Destek", "fr": "Communauté", "es": "Comunidad", "de": "Gemeinschaft" },
           "pages": [
             "support-tickets",
             "suggestion-and-ideas"
           ]
         },
         {
-          "name": "Town Halls",
+          "name": { "en": "Town Halls", "tr": "Geliştirici Toplantıları", "fr": "Réunions", "es": "Reuniones", "de": "Entwicklertreffen" },
           "pages": [
             "town-hall-info",
             "town-hall-qa",
@@ -78,11 +124,11 @@
       ]
     },
     {
-      "name": "Contribute",
+      "name": { "en": "Contribute", "tr": "Katkıda Bulun", "fr": "Contribuer", "es": "Contribuir", "de": "Mitwirken" },
       "slug": "contribute",
       "categories": [
         {
-          "name": "Contribute",
+          "name": { "en": "Contribute", "tr": "Katkıda Bulun", "fr": "Contribuer", "es": "Contribuir", "de": "Mitwirken" },
           "pages": ["contribute"]
         }
       ]
