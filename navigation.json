@@ -78,6 +78,82 @@
       ]
     },
     {
+      "name": "Türkçe Rehber",
+      "slug": "wiki",
+      "categories": [
+        {
+          "name": "Başlangıç (TR)",
+          "pages": [
+            "tr/overview",
+            "tr/beginner-guide",
+            "tr/progression-levels",
+            "tr/commands",
+            "tr/skills",
+            "tr/quests"
+          ]
+        },
+        {
+          "name": "Oynanış Rehberleri (TR)",
+          "pages": [
+            "tr/best-rp-methods",
+            "tr/player-shops",
+            "tr/virtual-quarry",
+            "tr/recyclers",
+            "tr/food-and-meal-system",
+            "tr/deep-sea",
+            "tr/dungeon-guide"
+          ]
+        },
+        {
+          "name": "Savaş & Bosslar (TR)",
+          "pages": [
+            "tr/tackling-helis",
+            "tr/tackling-bradleys",
+            "tr/tackling-raiding",
+            "tr/world-events"
+          ]
+        },
+        {
+          "name": "Eşyalar & Ekipmanlar (TR)",
+          "pages": [
+            "tr/legendary-weapons",
+            "tr/legendary-tools",
+            "tr/legendary-sets",
+            "tr/armor-inserts"
+          ]
+        },
+        {
+          "name": "Prestige (TR)",
+          "pages": [
+            "tr/prestige-perks",
+            "tr/auto-sell",
+            "tr/terminal"
+          ]
+        },
+        {
+          "name": "Tarım (TR)",
+          "pages": [
+            "tr/skills-setgenes-guide"
+          ]
+        },
+        {
+          "name": "Topluluk & Destek (TR)",
+          "pages": [
+            "tr/support-tickets",
+            "tr/suggestion-and-ideas"
+          ]
+        },
+        {
+          "name": "Geliştirici Toplantıları (TR)",
+          "pages": [
+            "tr/town-hall-info",
+            "tr/town-hall-qa",
+            "tr/upcoming-changes"
+          ]
+        }
+      ]
+    },
+    {
       "name": "Contribute",
       "slug": "contribute",
       "categories": [
