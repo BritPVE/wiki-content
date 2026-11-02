@@ -106,7 +106,7 @@ Geliştiriciler, efsanevi eşyaların skininin değişmesinin oyuncular arası t
 ### Prestige Ödülleri Harita Sıfırlanmasında (Wipe) Kalacak mı?
 
 **Evet.**  
-Prestige perkleri tüm XP sezonu boyunca kalıcıdır; aylık veya haftalık normal harita sıfırlanmalarında asla silinmez.
+Prestige kademeleri tüm XP sezonu boyunca kalıcıdır; aylık veya haftalık normal harita sıfırlanmalarında asla silinmez.
 
 ---
 
@@ -123,3 +123,4 @@ Güvenli oyuncular arası takas pencereleri planlanmaktadır ve gelecek bir wipe
 
 **Hayır.**  
 V2 hala aktif geliştirme aşamasındadır. Geliştirici ekibi mevcut sistemleri sağlam bir temel olarak görmekte ve zaman içinde topluluk geri bildirimleriyle büyütmeyi hedeflemektedir.
+

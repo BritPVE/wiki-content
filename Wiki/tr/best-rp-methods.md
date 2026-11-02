@@ -162,3 +162,4 @@ Oyun sonu (End Game) aşamasında pasif ve zahmetsiz gelir elde etmenin en karl�
 > `(24,990 × 24) × 2 = 1,199,520 HQM / gün`
 > 
 > 5.8 RP satış kuruyla **günde yaklaşık 7 Milyon RP** pasif gelir sağlar.
+

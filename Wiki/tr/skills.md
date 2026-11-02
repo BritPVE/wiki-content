@@ -233,3 +233,4 @@ Araçlar yetenek ağacı; helikopter, tekne, araba ve binek hayvanlarının perf
 Daha kapsamlı rehberler mi arıyorsunuz?
 
 Bu yeteneklerin oyun döngüsüne nasıl entegre olduğunu öğrenmek için **[Efsanevi Zırh Setleri](/wiki/tr/legendary-sets)**, **[Yemek Sistemi](/wiki/tr/food-and-meal-system)** ve **[En İyi RP Yöntemleri](/wiki/tr/best-rp-methods)** sayfalarıyla devam edebilirsiniz.
+

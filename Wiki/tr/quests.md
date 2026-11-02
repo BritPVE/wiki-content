@@ -207,3 +207,4 @@ Kargo gemilerini temizleyerek tamamlanan zincir:
 ## Okumaya Devam Et
 
 Seviye atlama hızınızı maksimize etmek ve hangi yeteneklere öncelik vereceğinizi öğrenmek için **[İlerleme & Seviyeler](/wiki/tr/progression-levels)** sayfasını inceleyebilirsiniz.
+

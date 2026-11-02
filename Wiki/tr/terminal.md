@@ -8,7 +8,7 @@ Terminal; üssünüzdeki tüm sandıkları tek bir merkezde birleştiren, üreti
 
 ## Hızlı Genel Bakış
 
-- **Gereksinim:** **Terminal [Prestige Perkini](/wiki/tr/prestige-perks)** açmış olmak.
+- **Gereksinim:** **Terminal [Prestige Kademesini](/wiki/tr/prestige-perks)** açmış olmak.
 - **Önerilen Kitle:** Orta - Son Aşama (Mid to End Game)
 - **Ana Hedef:** Depolamayı tek merkezde toplamak ve kaynak yönetimini otomatikleştirmek.
 
@@ -21,9 +21,9 @@ Terminal; üssünüzdeki tüm sandıkları tek bir merkezde birleştiren, üreti
 
 ## Terminal Nasıl Elde Edilir?
 
-Terminal, Prestige seviyesine ulaşıp **Terminal Prestige Perkini** seçtiğinizde açılır.
+Terminal, Prestige seviyesine ulaşıp **Terminal Prestige Kademesini** seçtiğinizde açılır.
 
-Perki seçtikten sonra Terminal eşyasını şu yollarla alabilirsiniz:
+Kademeyi seçtikten sonra Terminal eşyasını şu yollarla alabilirsiniz:
 
 - **`/kit`** menüsünden
 - **`/s` → Prestige** mağazasından satın alarak

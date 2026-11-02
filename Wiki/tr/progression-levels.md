@@ -17,7 +17,7 @@ Seviye atlama sisteminin nasıl çalıştığını, en hızlı XP kazanma yönte
 
 ## Genel Bakış
 
-Karakter gelişimi Brits PvE Worlds'ün temel yapı taşlarından biridir. Her seviye atladığınızda **1 Yetenek Puanı (Skill Point - SP)** kazanırsınız. Bu puanları **[Yetenek Ağacı](/wiki/tr/skills) (`/st`)** menüsünden hammadde toplama, savaş, üs baskını ve daha birçok alanda güçlü yükseltmeler açmak için harcayabilirsiniz. **[Prestij Perkleri](/wiki/tr/prestige-perks)** seviye başına aldığınız SP miktarını artırabilir.
+Karakter gelişimi Brits PvE Worlds'ün temel yapı taşlarından biridir. Her seviye atladığınızda **1 Yetenek Puanı (Skill Point - SP)** kazanırsınız. Bu puanları **[Yetenek Ağacı](/wiki/tr/skills) (`/st`)** menüsünden hammadde toplama, savaş, üs baskını ve daha birçok alanda güçlü yükseltmeler açmak için harcayabilirsiniz. **[Prestij Kademeleri](/wiki/tr/prestige-perks)** seviye başına aldığınız SP miktarını artırabilir.
 
 ---
 
@@ -129,7 +129,7 @@ Seviyeler yaklaşık **her 6 ayda bir** sıfırlanır (**XP Wipe**). Harita sıf
 
 Maksimum seviye olan **100**'e ulaştığınızda **Prestij (Prestige)** yapabilirsiniz. Prestij yapmak seviyenizi ve yeteneklerinizi sıfırlar ancak size kalıcı efsanevi avantajlar kazandırır. Maksimum prestij seviyesi **Pr10**'dur.
 
-Her prestij seviyesi **`/q`** menüsündeki Levelling görev zincirinden **bir Prestij Bonusu (Perk)** seçmenizi sağlar. Bunlardan ikisi doğrudan yeniden seviye atlamayı hızlandırır: Küresel havuzunuza kalıcı eklenen **+5 Başlangıç Yetenek Puanı** ve **+%20 XP Takviyesi**. Detaylar için **[Prestij Bonusları](/wiki/tr/prestige-perks)** sayfasına bakın.
+Her prestij seviyesi **`/q`** menüsündeki Levelling görev zincirinden **bir Prestij Kademesi** seçmenizi sağlar. Bunlardan ikisi doğrudan yeniden seviye atlamayı hızlandırır: Küresel havuzunuza kalıcı eklenen **+5 Başlangıç Yetenek Puanı** ve **+%20 XP Takviyesi**. Detaylar için **[Prestij Bonusları](/wiki/tr/prestige-perks)** sayfasına bakın.
 
 ---
 
@@ -162,3 +162,4 @@ Verimliliği katlamak için uygun **[Efsanevi Aletleri](/wiki/tr/legendary-tools
 ## Sırada Ne Var?
 
 Yeterli seviyeye ulaşıp ilk puanlarınızı kazandıktan sonra hangi yeteneklere öncelik vermeniz gerektiğini öğrenmek için **[Yetenekler](/wiki/tr/skills)** ve **[Efsanevi Silahlar](/wiki/tr/legendary-weapons)** rehberleriyle devam edebilirsiniz.
+

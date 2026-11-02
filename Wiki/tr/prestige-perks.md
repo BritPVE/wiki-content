@@ -1,13 +1,13 @@
-# Prestige Ayrıcalıkları (Prestige Perks)
+# Prestige Kademeleri (Prestige Perks)
 
-Prestige ayrıcalıkları (perkleri); oyun kalitesini artıran, ilerlemeyi hızlandıran, otomasyon sağlayan ve benzersiz oyun mekanikleri sunan özel kalıcı kilit açımlarıdır. Hiçbiri zorunlu olmasa da Brits PvE Dünyaları'ndaki oyun deneyiminizi olağanüstü derecede iyileştirir.
+Prestige kademeleri; oyun kalitesini artıran, ilerlemeyi hızlandıran, otomasyon sağlayan ve benzersiz oyun mekanikleri sunan özel kalıcı kilit açımlarıdır. Hiçbiri zorunlu olmasa da Brits PvE Dünyaları'ndaki oyun deneyiminizi olağanüstü derecede iyileştirir.
 
 ## Hızlı Genel Bakış
 
 - **Önerilen Aşama:** Orta - Son Aşama (Mid to End Game)
-- **Ana Hedef:** Oyun tarzınıza en uygun ayrıcalıkları seçmek.
+- **Ana Hedef:** Oyun tarzınıza en uygun kademeleri seçmek.
 
-> 💡 **En Çok Önerilen İlk 3 Perk:**
+> 💡 **En Çok Önerilen İlk 3 Kademe:**
 >
 > 1. **5 Starting SP** (Başlangıçta +5 Beceri Puanı)
 > 2. **Nightvision** (Gece Görüşü / Daimi Gündüz)
@@ -18,19 +18,19 @@ Prestige ayrıcalıkları (perkleri); oyun kalitesini artıran, ilerlemeyi hızl
 ## Prestige Sistemi Nasıl Çalışır?
 
 - Oyuncu seviyeniz **100** olduğunda Prestige atabilirsiniz (ayrıntılar için **[İlerleme & Seviyeler](/wiki/tr/progression-levels)** sayfasına bakın). Toplamda **10 Prestige seviyesi** vardır.
-- Her Prestige seviyesinde, **`/q`** menüsündeki **Levelling** sekmesinde özel bir görev açılır. Bu görevi tamamlamak aşağıdaki listeden **1 adet perk seçmenizi** sağlar.
-- Toplam **13 perk** varken yalnızca 10 Prestige seviyesi bulunur; bu nedenle hepsini aynı anda açamazsınız. Kendi stratejinize en uygun olanları seçmelisiniz.
-- Prestige perkleri **tüm XP sezonu boyunca kalıcıdır**; harita (map) sıfırlanmalarında (wipe) asla kaybolmazlar!
+- Her Prestige seviyesinde, **`/q`** menüsündeki **Levelling** sekmesinde özel bir görev açılır. Bu görevi tamamlamak aşağıdaki listeden **1 adet kademe seçmenizi** sağlar.
+- Toplam **13 kademe** varken yalnızca 10 Prestige seviyesi bulunur; bu nedenle hepsini aynı anda açamazsınız. Kendi stratejinize en uygun olanları seçmelisiniz.
+- Prestige kademeleri **tüm XP sezonu boyunca kalıcıdır**; harita (map) sıfırlanmalarında (wipe) asla kaybolmazlar!
 
 ![/q menüsündeki Levelling görev serisi](../assets/Prestige/levelling-questline.png)
 
-![Ödül Seçim Ekranı: 13 perk arasından birini seçin](../assets/Prestige/rewards-preview.png)
+![Ödül Seçim Ekranı: 13 kademe arasından birini seçin](../assets/Prestige/rewards-preview.png)
 
 ---
 
-## İlerleme (Progression) Perkleri
+## İlerleme (Progression) Kademeleri
 
-Daha hızlı seviye atlamanızı ve gelişmenizi sağlayan perkler:
+Daha hızlı seviye atlamanızı ve gelişmenizi sağlayan kademeler:
 
 ### Five Starting Skill Points (+5 Başlangıç SP'si)
 
@@ -44,9 +44,9 @@ Kazanılan tüm XP miktarını **%20 artırır**; seviye atlamayı ve karakter g
 
 ---
 
-## Kolaylık (Utility) Perkleri
+## Kolaylık (Utility) Kademeleri
 
-Zaman kazandıran ve angaryayı bitiren perkler:
+Zaman kazandıran ve angaryayı bitiren kademeler:
 
 ### Portable Recycler (Taşınabilir Geri Dönüştürücü)
 
@@ -65,11 +65,11 @@ Monument turları, maden seferleri ve üsten uzak maceralar için mükemmeldir.
 
 Işınlanma geri sayım süresini **20 saniyeden 5 saniyeye** düşürür. Sürekli üsler ve etkinlikler arasında seyahat edenler için vazgeçilmezdir.
 
-> ⚠ VIP veya mevcut rütbeniz nedeniyle ışınlanma süreniz zaten sıfırsa (beklemesizse) bu perki seçmeyin!
+> ⚠ VIP veya mevcut rütbeniz nedeniyle ışınlanma süreniz zaten sıfırsa (beklemesizse) bu kademeyi seçmeyin!
 
 ---
 
-## Otomasyon (Automation) Perkleri
+## Otomasyon (Automation) Kademeleri
 
 ### Auto Sell to Server (Sunucuya Otomatik Satış)
 
@@ -87,7 +87,7 @@ Detaylı bilgi için **[Terminal Rehberi](/wiki/tr/terminal)** sayfasına göz a
 
 ---
 
-## Savaş & Hareket Kabiliyeti Perkleri
+## Savaş & Hareket Kabiliyeti Kademeleri
 
 ### Predator Missile (Güdümlü Füze)
 
@@ -122,7 +122,7 @@ Helikopterlerin suya inmesine ve suyun üzerinde yüzmesine izin verir. **[Deep 
 
 ---
 
-## Yoldaş (Companion) Perkleri
+## Yoldaş (Companion) Kademeleri
 
 ### Bear Pet (Evcil Ayı Bineği)
 
@@ -135,4 +135,4 @@ Oyun içinde **Bear Mount** olarak geçen özel bir yoldaş ayı çağırır:
 
 ## Okumaya Devam Et
 
-Bu perklerin nasıl çalıştığını derinlemesine öğrenmek için **[Terminal Rehberi](/wiki/tr/terminal)** ve **[Eşya Bankası & Otomatik Satış](/wiki/tr/auto-sell)** sayfalarını inceleyebilirsiniz.
+Bu kademelerin nasıl çalıştığını derinlemesine öğrenmek için **[Terminal Rehberi](/wiki/tr/terminal)** ve **[Eşya Bankası & Otomatik Satış](/wiki/tr/auto-sell)** sayfalarını inceleyebilirsiniz.

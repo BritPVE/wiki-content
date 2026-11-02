@@ -1,136 +1,136 @@
 # Zırh Eklentileri (Armor Inserts)
 
-Zırh Eklentileri (Inserts), zırh parçalarınıza takılarak belirli hasar türlerine karşı ekstra koruma sağlayan özel modüllerdir. Yaptığınız aktiviteye uygun eklentiyi seçmek hayatta kalma şansınızı büyük ölçüde artırır.
+Zırh Eklentileri (Armor Inserts), zırh parçalarınıza takılarak belirli hasar türlerine karşı ekstra koruma sağlayan özel modüllerdir. Yaptığınız aktiviteye uygun eklentiyi seçmek hayatta kalma şansınızı büyük ölçüde artırır.
 
 ## Hızlı Genel Bakış
 
 - **Önerilen Aşama:** Orta ve İleri Oyun (Mid to End Game)
-- **Ana Hedef:** Zırhınızı karşılaşacağınız farklı hasar türlerine ve ortamlara göre uyarlamak.
+- **Ana Hedef:** Zırhınızı karşılaşacağınız farklı hasar türlerine ve zorlu çevre koşullarına göre uyarlamak.
 
-| Eklenti Türü | En İyi Olduğu Alan |
-|-------------|----------|
-| Wooden (Ahşap) | Genel Keşif & Doğa Farmı |
-| Asbestos (Asbest) | Su Altı & Soğuk Biyomlar |
-| Lead (Kurşun) | Düşme Hasarı & Patlayıcılar |
-| Metal | Çatışma, Raid & Helikopter |
+| Eklenti Türü | En İyi Olduğu Alanlar |
+|---|---|
+| **Ahşap Eklentiler (Wooden)** | Genel Keşif & Doğa Toplayıcılığı |
+| **Asbest Eklentileri (Asbestos)** | Su Altı & Soğuk Biyomlar |
+| **Kurşun Eklentiler (Lead)** | Yüksekten Düşme & Patlayıcı Karşılaşmaları |
+| **Metal Eklentiler (Metal)** | Ateşli Silah Çatışmaları, Raid & Helikopter Savaşları |
 
 ---
 
 ## Zırh Eklentileri Nasıl Çalışır?
 
-Zırh Eklentileri uyumlu zırh yuvalarına takılabilir ve üç farklı kademede (Tier) gelir:
+Zırh Eklentileri uyumlu zırh yuvalarına takılabilir ve üç farklı kademede (Tier) bulunur:
 
-- **`+`** – Temel koruma
-- **`++`** – Gelişmiş koruma
-- **`+++`** – Maksimum koruma
+- **`+`** – Temel Kademe Koruma
+- **`++`** – Gelişmiş Kademe Koruma
+- **`+++`** – Maksimum Kademe Koruma
   
-Her eklenti ailesi farklı hasar türlerine karşı uzmanlaşmıştır; bu sayede ekipmanınızı duruma göre özelleştirebilirsiniz.
+Her eklenti ailesi farklı hasar türlerine karşı uzmanlaşmıştır; bu sayede zırhınızı gideceğiniz etkinliğe göre özelleştirebilirsiniz.
 
 ---
 
-## Wooden Inserts (Ahşap Eklentiler - Satiated Serisi)
+## Ahşap Eklentiler (Doygunluk Serisi - Satiated)
 
 Günlük hayatta kalma ve doğa keşifleri için genel amaçlı koruma sağlar.
 
-**En İyi Olduğu Alan**
+**En İyi Olduğu Alanlar:**
 - Genel ada keşfi
-- Temel PvE
+- Temel PvE aktiviteleri
 - Uzun süreli hammadde toplama seansları
 
-### Koruma Sağladığı Alanlar
+### Koruma Sağladığı Alanlar:
 
-- Isırma (Bite)
-- Kesilme (Slash)
-- Ezilme (Blunt)
-- Delinme (Stab)
-- Açlık (Hunger)
-- Susuzluk (Thirst)
-- Arı Sokması (Bee Sting)
+- Isırma Hasarı (Bite)
+- Kesilme Hasarı (Slash)
+- Ezilme / Darbe Hasarı (Blunt)
+- Delinme Hasarı (Stab)
+- Açlık Tüketim Koruması (Hunger)
+- Susuzluk Tüketim Koruması (Thirst)
+- Arı Sokması Hasarı (Bee Sting)
 
 | Kademe | Koruma Miktarı |
-|------|-----------:|
-| Wooden Insert + | Listelenen tüm türlere +1.0 |
-| Wooden Insert ++ | Listelenen tüm türlere +2.0 |
-| Wooden Insert +++ | Listelenen tüm türlere +3.0 |
+|---|---|
+| **Ahşap Eklenti +** *(Wooden Insert +)* | Listelenen tüm hasar türlerine +1.0 Koruma |
+| **Ahşap Eklenti ++** *(Wooden Insert ++)* | Listelenen tüm hasar türlerine +2.0 Koruma |
+| **Ahşap Eklenti +++** *(Wooden Insert +++)* | Listelenen tüm hasar türlerine +3.0 Koruma |
 
 ---
 
-## Asbestos Inserts (Asbest Eklentiler - Waterproof Serisi)
+## Asbest Eklentileri (Su Geçirmezlik Serisi - Waterproof)
 
-Su ve dondurucu soğuk ortamlar için özel olarak tasarlanmıştır.
+Su altı ve dondurucu soğuk ortamlar için özel olarak tasarlanmıştır.
 
-**En İyi Olduğu Alan**
-- Deep Sea Kargo Operasyonları
-- Su altı anıtları ve laboratuvarlar
-- Karlık soğuk biyomlar
+**En İyi Olduğu Alanlar:**
+- Deep Sea Kargo Gemisi Operasyonları
+- Su altı anıtları ve batık laboratuvarlar
+- Karlı ve dondurucu soğuk biyomlar
 
-### Koruma Sağladığı Alanlar
+### Koruma Sağladığı Alanlar:
 
-- Boğulma (Drowning)
-- Soğuk Maruziyeti (Cold exposure)
+- Boğulma Direnci (Drowning)
+- Soğuk Maruziyeti Koruması (Cold exposure)
 
 | Kademe | Koruma Miktarı |
-|------|-----------:|
-| Asbestos Insert + | 5.0 Boğulma • 1.0 Soğuk |
-| Asbestos Insert ++ | 10.0 Boğulma • 2.0 Soğuk |
-| Asbestos Insert +++ | 15.0 Boğulma • 3.0 Soğuk |
+|---|---|
+| **Asbest Eklentisi +** *(Asbestos Insert +)* | +5.0 Boğulma Direnci • +1.0 Soğuk Direnci |
+| **Asbest Eklentisi ++** *(Asbestos Insert ++)* | +10.0 Boğulma Direnci • +2.0 Soğuk Direnci |
+| **Asbest Eklentisi +++** *(Asbestos Insert +++)* | +15.0 Boğulma Direnci • +3.0 Soğuk Direnci |
 
 ---
 
-## Lead Inserts (Kurşun Eklentiler - Impact Serisi)
+## Kurşun Eklentiler (Darbe Koruması Serisi - Impact)
 
 Fiziksel darbelerden ve patlamalardan alınan hasarı azaltmak için tasarlanmıştır.
 
-**En İyi Olduğu Alan**
-- Yüksek anıtlar ve dağlık bölgeler
-- Bradley APC savaşları
-- Ağır patlayıcı kullanılan karşılaşmalar
+**En İyi Olduğu Alanlar:**
+- Yüksek anıtlar ve uçurumlu dağlık bölgeler
+- Bradley APC tank savaşları
+- Ağır patlayıcı kullanılan raid karşılaşmaları
 
-### Koruma Sağladığı Alanlar
+### Koruma Sağladığı Alanlar:
 
-- Düşme Hasarı (Fall damage)
-- Patlama Hasarı (Explosion damage)
-- Araç Savar Hasarı (Anti-vehicle damage)
+- Düşme Hasarı Direnci (Fall damage)
+- Patlama Hasarı Direnci (Explosion damage)
+- Araç Savar Hasarı Direnci (Anti-vehicle damage)
 
 | Kademe | Koruma Miktarı |
-|------|-----------:|
-| Lead Insert + | Her bir türe +1.0 |
-| Lead Insert ++ | Her bir türe +2.0 |
-| Lead Insert +++ | Her bir türe +3.0 |
+|---|---|
+| **Kurşun Eklenti +** *(Lead Insert +)* | Her bir hasar türüne +1.0 Koruma |
+| **Kurşun Eklenti ++** *(Lead Insert ++)* | Her bir hasar türüne +2.0 Koruma |
+| **Kurşun Eklenti +++** *(Lead Insert +++)* | Her bir hasar türüne +3.0 Koruma |
 
 ---
 
-## Metal Inserts (Metal Eklentiler - Metal Serisi)
+## Metal Eklentiler (Balistik Zırh Serisi - Metal)
 
-Doğrudan ateşli silah çatışmaları için en güçlü seçimdir.
+Doğrudan ateşli silah çatışmaları ve ağır savaşlar için en güçlü seçimdir.
 
-**En İyi Olduğu Alan**
+**En İyi Olduğu Alanlar:**
 - Operasyonlar & Askeri Alanlar
 - Baskın Dünyaları (Raid Worlds)
-- Devriye Helikopterleri
-- Harbinger Boss Drone
+- Devriye Helikopterleri (Patrol Heli)
+- Harbinger Boss Karşılaşması
 - Genel Ağır PvE Çatışmaları
 
-### Koruma Sağladığı Alanlar
+### Koruma Sağladığı Alanlar:
 
-- Mermi Hasarı (Bullet damage)
-- Kanama (Bleeding)
-- Patlayıcı Hasarı (Explosive damage)
+- Mermi Hasarı Direnci (Bullet damage)
+- Kanama Direnci (Bleeding)
+- Patlayıcı Hasarı Direnci (Explosive damage)
 
 | Kademe | Koruma Miktarı |
-|------|-----------:|
-| Metal Insert + | 4.0 Mermi • 2.0 Kanama • 2.0 Patlayıcı |
-| Metal Insert ++ | 6.0 Mermi • 4.0 Kanama • 4.0 Patlayıcı |
-| Metal Insert +++ | 8.0 Mermi • 6.0 Kanama • 6.0 Patlayıcı |
+|---|---|
+| **Metal Eklenti +** *(Metal Insert +)* | +4.0 Mermi Direnci • +2.0 Kanama Direnci • +2.0 Patlayıcı Direnci |
+| **Metal Eklenti ++** *(Metal Insert ++)* | +6.0 Mermi Direnci • +4.0 Kanama Direnci • +4.0 Patlayıcı Direnci |
+| **Metal Eklenti +++** *(Metal Insert +++)* | +8.0 Mermi Direnci • +6.0 Kanama Direnci • +6.0 Patlayıcı Direnci |
 
 ---
 
-> 💡 **Aktiviteye Göre Önerilen Kullanım**
+> 💡 **Aktiviteye Göre Önerilen Kullanım Rehberi:**
 >
-> - **Deep Sea & Su Altı:** Asbestos Inserts
-> - **Raid Worlds & Helikopter Çatışmaları:** Metal Inserts
-> - **Yüksek anıtlar & Düşme tehlikesi olan yerler:** Lead Inserts
-> - **Genel doğa keşfi & Çiftçilik:** Wooden Inserts
+> - **Deep Sea & Su Altı Görevleri:** Asbest Eklentileri (Asbestos Inserts)
+> - **Raid Üsleri & Helikopter Savaşları:** Metal Eklentiler (Metal Inserts)
+> - **Yüksek Anıtlar & Düşme Tehlikesi:** Kurşun Eklentiler (Lead Inserts)
+> - **Genel Ada Keşfi & Çiftçilik:** Ahşap Eklentiler (Wooden Inserts)
 
 ---
 

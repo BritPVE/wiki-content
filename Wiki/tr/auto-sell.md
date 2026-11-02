@@ -1,10 +1,10 @@
 # Eşya Bankası & Otomatik Satış (Item Bank & Auto-Sell)
 
-**Auto Sell to Server** Prestige ayrıcalığı, oyunda çevrimdışıyken bile Borsada (Stock Market) eşyalarınızı otomatik olarak satıp pasif RP kazanmanızı sağlayan **Item Bank (Eşya Bankası)** ve **Auto-Sell (Otomatik Satış)** sistemlerini açar.
+**Auto Sell to Server** Prestige kademesi, oyunda çevrimdışıyken bile Borsada (Stock Market) eşyalarınızı otomatik olarak satıp pasif RP kazanmanızı sağlayan **Item Bank (Eşya Bankası)** ve **Auto-Sell (Otomatik Satış)** sistemlerini açar.
 
 ## Hızlı Genel Bakış
 
-- **Gereksinim:** **Auto Sell to Server** **[Prestige Perkini](/wiki/tr/prestige-perks)** açmış olmak.
+- **Gereksinim:** **Auto Sell to Server** **[Prestige Kademesini](/wiki/tr/prestige-perks)** açmış olmak.
 - **Önerilen Kitle:** Pasif RP geliri elde etmek isteyen oyuncular.
 - **Ana Hedef:** Eşya Bankasına yatırılan kaynakları otomatik olarak Borsaya satmak.
 
@@ -75,7 +75,7 @@ Her şeyi doğru yapılandırdıysanız ekranda yeşil bir onay bildirimi görec
 ## Özet Akış Şeması
 
 ```
-Prestige Perkini Aç
+Prestige Kademesini Aç
         ↓
 Eşyaları Bankaya Yatır
         ↓

@@ -89,3 +89,4 @@ Geliştiriciler kesin yüzde oranlarını yayınlamamaktadır. Droplar güncelle
 ## Okumaya Devam Edin
 
 Tarım, toplama ve ilerlemeyi hızlandıran özel aletleri keşfetmek için **[Efsanevi Aletler](/wiki/tr/legendary-tools)** sayfasına, veya her silaha en uygun zırh kombinasyonları için **[Efsanevi Zırh Setleri](/wiki/tr/legendary-sets)** sayfasına göz atabilirsiniz.
+
