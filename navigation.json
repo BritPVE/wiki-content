@@ -15,6 +15,16 @@
         "untranslated": "Bu sayfanın Türkçe çevirisi yok. İngilizce metin gösteriliyor."
       }
     },
+    "ru": {
+      "label": "Русский",
+      "ui": {
+        "home": "Главная",
+        "itemDrops": "Дроп предметов",
+        "xpCalculator": "Калькулятор XP",
+        "contribute": "Внести вклад",
+        "untranslated": "Для этой страницы пока нет перевода на русский язык. Отображается текст на английском."
+      }
+    },
     "fr": {
       "label": "Français",
       "ui": {
@@ -48,11 +58,11 @@
   },
   "sections": [
     {
-      "name": { "en": "Wiki", "tr": "Rehber", "fr": "Wiki", "es": "Wiki", "de": "Wiki" },
+      "name": { "en": "Wiki", "tr": "Rehber", "fr": "Wiki", "es": "Wiki", "de": "Wiki", "ru": "Вики" },
       "slug": "wiki",
       "categories": [
         {
-          "name": { "en": "Getting Started", "tr": "Başlangıç", "fr": "Pour commencer", "es": "Primeros pasos", "de": "Erste Schritte" },
+          "name": { "en": "Getting Started", "tr": "Başlangıç", "fr": "Pour commencer", "es": "Primeros pasos", "de": "Erste Schritte", "ru": "С чего начать" },
           "pages": [
             "overview",
             "beginner-guide",
@@ -63,7 +73,7 @@
           ]
         },
         {
-          "name": { "en": "Gameplay Guides", "tr": "Oynanış Rehberleri", "fr": "Guides de jeu", "es": "Guías de juego", "de": "Spielanleitungen" },
+          "name": { "en": "Gameplay Guides", "tr": "Oynanış Rehberleri", "fr": "Guides de jeu", "es": "Guías de juego", "de": "Spielanleitungen", "ru": "Гайды по игре" },
           "pages": [
             "best-rp-methods",
             "player-shops",
@@ -75,7 +85,7 @@
           ]
         },
         {
-          "name": { "en": "Combat", "tr": "Savaş & Bosslar", "fr": "Combat", "es": "Combate", "de": "Kampf" },
+          "name": { "en": "Combat", "tr": "Savaş & Bosslar", "fr": "Combat", "es": "Combate", "de": "Kampf", "ru": "Сражения и боссы" },
           "pages": [
             "tackling-helis",
             "tackling-bradleys",
@@ -84,7 +94,7 @@
           ]
         },
         {
-          "name": { "en": "Items & Equipment", "tr": "Eşyalar & Ekipmanlar", "fr": "Objets et équipement", "es": "Objetos y equipo", "de": "Gegenstände und Ausrüstung" },
+          "name": { "en": "Items & Equipment", "tr": "Eşyalar & Ekipmanlar", "fr": "Objets et équipement", "es": "Objetos y equipo", "de": "Gegenstände und Ausrüstung", "ru": "Предметы и экипировка" },
           "pages": [
             "legendary-weapons",
             "legendary-tools",
@@ -93,7 +103,7 @@
           ]
         },
         {
-          "name": { "en": "Prestige", "tr": "Prestige", "fr": "Prestige", "es": "Prestigio", "de": "Prestige" },
+          "name": { "en": "Prestige", "tr": "Prestige", "fr": "Prestige", "es": "Prestigio", "de": "Prestige", "ru": "Престиж" },
           "pages": [
             "prestige-perks",
             "auto-sell",
@@ -101,20 +111,20 @@
           ]
         },
         {
-          "name": { "en": "Farming", "tr": "Tarım", "fr": "Agriculture", "es": "Agricultura", "de": "Landwirtschaft" },
+          "name": { "en": "Farming", "tr": "Tarım", "fr": "Agriculture", "es": "Agricultura", "de": "Landwirtschaft", "ru": "Фермерство" },
           "pages": [
             "skills-setgenes-guide"
           ]
         },
         {
-          "name": { "en": "Community", "tr": "Topluluk & Destek", "fr": "Communauté", "es": "Comunidad", "de": "Gemeinschaft" },
+          "name": { "en": "Community", "tr": "Topluluk & Destek", "fr": "Communauté", "es": "Comunidad", "de": "Gemeinschaft", "ru": "Сообщество и поддержка" },
           "pages": [
             "support-tickets",
             "suggestion-and-ideas"
           ]
         },
         {
-          "name": { "en": "Town Halls", "tr": "Geliştirici Toplantıları", "fr": "Réunions", "es": "Reuniones", "de": "Entwicklertreffen" },
+          "name": { "en": "Town Halls", "tr": "Geliştirici Toplantıları", "fr": "Réunions", "es": "Reuniones", "de": "Entwicklertreffen", "ru": "Собрания разработчиков" },
           "pages": [
             "town-hall-info",
             "town-hall-qa",
@@ -124,11 +134,11 @@
       ]
     },
     {
-      "name": { "en": "Contribute", "tr": "Katkıda Bulun", "fr": "Contribuer", "es": "Contribuir", "de": "Mitwirken" },
+      "name": { "en": "Contribute", "tr": "Katkıda Bulun", "fr": "Contribuer", "es": "Contribuir", "de": "Mitwirken", "ru": "Внести вклад" },
       "slug": "contribute",
       "categories": [
         {
-          "name": { "en": "Contribute", "tr": "Katkıda Bulun", "fr": "Contribuer", "es": "Contribuir", "de": "Mitwirken" },
+          "name": { "en": "Contribute", "tr": "Katkıda Bulun", "fr": "Contribuer", "es": "Contribuir", "de": "Mitwirken", "ru": "Внести вклад" },
           "pages": ["contribute"]
         }
       ]
