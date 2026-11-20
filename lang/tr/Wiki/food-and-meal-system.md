@@ -69,6 +69,10 @@ Malzeme satın almak **Scrap (Hurda)** harcar; pazara malzeme satmak ise size **
 >
 > Çiftçi Pazarı'nın stoğu, yalnızca diğer oyuncular oraya malzeme sattığında dolar.
 
+> 💡 **Yemekleri RP Karşılığı Satma**
+>
+> Çiftçi Pazarı'nda malzeme takas etmenin yanı sıra; **turtalar, zengin turtalar, kremalı çaylar ve balık turtaları** gibi pişmiş ürünler artık **`/s` → Borsa (Stock Market)** üzerinden doğrudan sunucuya yüksek fiyatlarla **RP** karşılığı satılabilmektedir (ayrıntılar için bkz. **[En İyi RP Kazanma Yolları](/wiki/best-rp-methods)**).
+
 ---
 
 ## Hangi Aktivite İçin Hangi Yemek?

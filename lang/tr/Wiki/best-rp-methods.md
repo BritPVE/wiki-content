@@ -17,6 +17,7 @@ Sunucudaki ilk günlerinizden oyun sonuna (end game) kadar RP kazanmanın en hı
 | 1. Kumaş (Cloth) Çiftliği | Başlangıçtan Oyun Sonuna | Orta | Tohum stoğu ve tarla büyüklüğüne göre sınırsız |
 | 2. Taktik Eldiveni (Tactical Gloves) Geri Dönüşümü | Seviye 1 ve Üzeri | Çok Düşük | Ölçeklenemez (Tek tek satın alınır) |
 | 3. Sanal Taş Ocakları (Virtual Quarries) | Oyun Sonu (End Game) | Çok Yüksek | Taş ocağı yuvaları (Rütbe / Prestij) ve takım büyüklüğü |
+| 4. Turtalar, Çaylar ve Balık Satışı | Tüm Aşamalar | Düşük - Orta | Pişirme ve balıkçılık üretimi |
 
 ---
 
@@ -162,4 +163,22 @@ Oyun sonu (End Game) aşamasında pasif ve zahmetsiz gelir elde etmenin en karl�
 > `(24,990 × 24) × 2 = 1,199,520 HQM / gün`
 > 
 > 5.8 RP satış kuruyla **günde yaklaşık 7 Milyon RP** pasif gelir sağlar.
+
+---
+
+## Yöntem 4 - Turtalar, Çaylar ve Balık Satışı (Tüm Aşamalar)
+
+**Zorluk:** ⭐⭐☆☆☆  
+**Başlangıç Maliyeti:** 💰💰☆☆☆  
+**Karlılık:** ⭐⭐⭐⭐☆  
+**Büyüme Kapasitesi:** ⭐⭐⭐⭐☆  
+
+Son ekonomi güncellemeleriyle birlikte; **turtalar (pies), zengin turtalar ve kremalı çaylar** da tıpkı HQM ve kumaş (Cloth) gibi doğrudan sunucuya satılabilir ürünler listesine eklendi.
+
+Buna ek olarak, sunucunun **çaylar ve balıklar** (özellikle balık ve **Balık Turtası / Fish Pie** gibi balık ürünleri) için belirlediği minimum ve maksimum satış fiyatları **ciddi oranda artırıldı**. Bu sayede aşçılık ve balıkçılık, düzenli ve yüksek RP kazanmak için son derece karlı yeni bir gelir kapısı haline geldi!
+
+### Gereksinimler:
+- Temel bir balıkçılık veya malzeme çiftliği düzeneği
+- Yemek pişirme sistemi (bkz. **[Yemek ve Besin Sistemi](/wiki/food-and-meal-system)**)
+- **`/s` → Borsa (Stock Market)** üzerinden satış fiyatlarını takip edip sunucuya satmak
 

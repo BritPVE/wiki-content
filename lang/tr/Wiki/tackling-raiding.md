@@ -69,6 +69,10 @@ Bir raid üssünü temizlerken:
 >
 > Raid üsleri sürelidir (zaman sınırlaması vardır). Belirtilen süre içinde çekirdeğe ulaşıp üssü tamamlayamazsanız, üs kendiliğinden silinir (despawn olur).
 
+> 💡 **Anında Yenisini Alma İpucu**
+>
+> Raid üssünü tamamen bitirip lootladıktan sonra kalan sürenin bitmesini beklemenize gerek yoktur. **`/rbe despawn`** komutunu kullanarak tamamlanan üssü anında silebilir ve beklemeden hemen yeni bir raid satın alabilirsiniz.
+
 ---
 
 ## Orbital Strike (Yörünge Saldırısı)
