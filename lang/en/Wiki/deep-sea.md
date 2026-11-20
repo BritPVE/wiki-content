@@ -29,6 +29,7 @@ Deep Sea is a custom event that expands Rust's vanilla Cargo Ship into a much la
 
 - A cargo that can be claimed has a **purple circle** on the water around it.
 - A cargo with a **black bubble** around it is already taken by another player. Do **not** get close.
+- While on or approaching the cargo, an on-screen counter UI displays the exact remaining count of **crates, turrets, and NPCs** left on the boat, helping you track clearing progress in real time.
 - If you entered a zone and lost your boat, use `/boatrecover` (it only works in the Deep Sea).
 
 ### Cargo Rewards

@@ -76,6 +76,10 @@ Her yeni oyuncunun mutlaka bilmesi gereken temel komutlar:
 | `/redeem shop` | Satılan eşyaların gelirlerini veya kaldırılan mağazanızdan kalan eşyaları teslim alma (mağaza teslim kısmı yalnızca HUB'da çalışır) |
 | `/fmarket` | Çiftçi Pazarı (Scrap karşılığı yemek malzemeleri alıp satma) |
 
+> 💡 **Sunucu Mağazası Güncellemesi**
+>
+> Sunucu mağazasının (**`/s`**) kategorileri çok daha düzenli hale getirildi. Artık mağazadan **blueprint (çizim) parçaları, sayfaları, kitapları** ve tüm **çalışma tezgahı (workbench) yükseltmeleri** de doğrudan satın alınabilir.
+
 ### Oyuncu Mağazaları (Player Shops)
 
 Detaylı rehber için **[Oyuncu Mağazaları](/wiki/player-shops)** sayfasına bakın. `/shopslist` hariç bu komutlar yalnızca HUB bölgesinde çalışır.
@@ -108,6 +112,7 @@ Detaylar için **[Yemek Sistemi](/wiki/food-and-meal-system)** sayfasına göz a
 | Komut | Açıklama |
 |----------|-------------|
 | `/buyraid` | Otomatik bir Baskın Üssü satın alma |
+| `/rbe despawn` | Tamamlanan baskın üssünü anında silip yenisini satın alma |
 | `/rb` | Baskın istatistiklerini görüntüleme |
 | `/mybike` | Hızlı seyahat için 20 RP karşılığı bisiklet satın alma |
 | `/toolazytowalk` | Ücretsiz geçici bisiklet çağırma |

@@ -223,7 +223,7 @@ The Vehicles skill tree improves the performance and efficiency of different veh
 | **Champion Cyclist** | Increases bike speed while mounted. +100% mounted acceleration. | 1 | 1 SP |
 | **Gas Guru** | Reduces vehicle fuel consumption by 25% per level. | 3 | 1 SP / level |
 | **Seasoned Sailor** | Increases boat speed while mounted. +100% mounted acceleration. | 1 | 1 SP |
-| **Prodigious Pilot** | Increases helicopter speed while mounted. +150% mounted acceleration. | 1 | 1 SP |
+| **Prodigious Pilot** | Increases helicopter speed while mounted. +150% mounted acceleration. *(Properly functional as of recent update).* | 1 | 1 SP |
 
 ---
 

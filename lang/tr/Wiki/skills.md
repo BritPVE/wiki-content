@@ -224,7 +224,7 @@ Araçlar yetenek ağacı; helikopter, tekne, araba ve binek hayvanlarının perf
 | **Champion Cyclist** | Bisiklet ve motosiklet kullanırken ivmelenmeyi +%100 artırır. | 1 | 1 SP |
 | **Gas Guru** | Tüm araçların yakıt tüketimini kademe başına %25 azaltır. | 3 | 1 SP / kademe |
 | **Seasoned Sailor** | Tekne ve Tugboat kullanırken ivmelenmeyi +%100 artırır. | 1 | 1 SP |
-| **Prodigious Pilot** | Helikopter (Mini & Hurda) sürerken ivmelenmeyi +%150 artırır. | 1 | 1 SP |
+| **Prodigious Pilot** | Helikopter (Mini & Hurda) sürerken ivmelenmeyi +%150 artırır. *(Son güncelleme ile düzeltildi, artık helikopterleri gerçekten hızlandırır).* | 1 | 1 SP |
 
 ---
 

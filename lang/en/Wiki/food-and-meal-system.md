@@ -77,6 +77,10 @@ Buying costs **Scrap**, and selling ingredients rewards you with **Scrap**.
 >
 > The Farmers Market only has stock if other players have sold items to it.
 
+> 💡 **Selling Meals for RP**
+>
+> In addition to trading ingredients at the Farmers Market, cooked items such as **pies, rich pies, creamy teas, and fish pies** can now be sold directly to the server for **RP** via the Stock Market in **`/s`** with boosted sell prices (see **[Best RP Methods](/wiki/best-rp-methods)**).
+
 ---
 
 ## Which Meal for Which Activity

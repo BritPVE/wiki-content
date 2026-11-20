@@ -17,6 +17,7 @@ Learn the fastest and most reliable ways to earn RP throughout your progression,
 | 1. Cloth farming | Beginner to end game | Medium | Seed stock and farm size |
 | 2. Tactical Gloves recycling | Level 1 onwards | Very low | Doesn't scale (one glove at a time) |
 | 3. Virtual Quarries | End game | Very high | Quarry slots (rank / prestige) and team size |
+| 4. Selling Pies, Teas & Fish | All stages | Low to Medium | Cooking and fishing production |
 
 ---
 
@@ -189,3 +190,21 @@ Values are for fully maxed (Level 6) quarries.
 > ---
 >
 > **This is assuming all quarries are fully maxed out and running continuously.**
+
+---
+
+## Method 4 - Selling Pies, Teas, and Fish (All Stages)
+
+**Difficulty:** ⭐⭐☆☆☆  
+**Startup Cost:** 💰💰☆☆☆  
+**Profitability:** ⭐⭐⭐⭐☆  
+**Scalability:** ⭐⭐⭐⭐☆  
+
+Following recent economy updates, **pies, rich pies, and creamy teas** have been officially added to the list of server-sell items alongside HQM and Cloth. 
+
+In addition, the server's minimum and maximum sell prices for **teas and fish** (especially fish and fish-derived meals such as **Fish Pie**) have been **significantly boosted**, making cooking and fishing highly lucrative options for consistent RP income.
+
+### Requirements:
+- A basic fishing setup or ingredient farm
+- Cooking setup (see **[Food System](/wiki/food-and-meal-system)**)
+- Access to **`/s` → Stock Market** to check market sell rates and sell to the server

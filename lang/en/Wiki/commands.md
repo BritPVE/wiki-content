@@ -76,6 +76,10 @@ These are the commands every new player should know.
 | `/redeem shop` | Redeem sold items, and items returned to you from a removed player shop (the shop part only works in the HUB) |
 | `/fmarket` | Farmers Market (buy and sell cooking ingredients for Scrap) |
 
+> 💡 **Server Shop Update**
+>
+> The server shop (**`/s`**) categories have been rearranged for cleaner navigation, and now include **blueprint fragments, pages, and books** along with all **workbench upgrades**.
+
 ### Player Shops
 
 See the **[Player Shops](/wiki/player-shops)** page for the full guide. All of these except `/shopslist` only work in the HUB.
@@ -108,6 +112,7 @@ See the **[Food System](/wiki/food-and-meal-system)** page for details.
 | Command | Description |
 |----------|-------------|
 | `/buyraid` | Purchase a Raid Base |
+| `/rbe despawn` | Despawn a finished Raid Base to repurchase immediately |
 | `/rb` | View Raid statistics |
 | `/mybike` | Buys a 20 RP bike to travel faster |
 | `/toolazytowalk` | Summon a free bike to travel faster |
