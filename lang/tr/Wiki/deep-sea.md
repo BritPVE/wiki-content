@@ -29,6 +29,7 @@ Deep Sea; standart Rust Kargo Gemisini çok daha büyük ve tehlikeli bir PvE ka
 
 - Alınabilir durumdaki bir kargonun etrafındaki suda **mor bir halka** bulunur.
 - Etrafında **siyah bir balon / duman** bulunan bir kargo başka bir oyuncu tarafından alınmıştır. O kargoya **kesinlikle yaklaşmayın**.
+- Kargo gemisine yaklaştığınızda veya üzerindeyken ekranda beliren arayüz sayacı; gemide **kaç kutu, taret ve NPC** kaldığını canlı olarak gösterir.
 - Alana girdiğinizde teknenizi kaybederseniz sohbete `/boatrecover` yazın (bu komut yalnızca Deep Sea bölgesinde çalışır).
 
 ### Kargo Ödülleri

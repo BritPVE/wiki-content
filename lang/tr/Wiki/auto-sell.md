@@ -34,7 +34,7 @@ Bankanızda stok bulunduğu sürece eşyalarınız otomatik olarak satılmaya ve
 
 ### 2. Adım - Eşyalarınızı Yatırın
 
-Otomatik olarak satılmasını istediğiniz eşyaları envanterinizden bankaya aktarın.
+Otomatik olarak satılmasını istediğiniz eşyaları envanterinizden bankaya aktarın (örneğin HQM, Kumaş veya sunucuya satılabilen Turtalar, Zengin Turtalar ve Kremalı Çaylar).
 
 Bu eşyalar Otomatik Satış için mevcut stoğunuz haline gelir.
 

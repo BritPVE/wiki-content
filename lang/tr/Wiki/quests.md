@@ -110,9 +110,21 @@ Her iki görev de sınırsız tekrarlanabilir!
 
 ---
 
+### Çeşitli Görevler (Miscellaneous)
+
+**[Sanal Taş Ocakları](/wiki/virtual-quarry)** ve özel içerikleri açmaya odaklanan görevler:
+
+| Görev | XP | RP |
+|---|---:|---:|
+| **Virtual Oil Baron** | 2,500 | 2,500 |
+| **Oil Empire Begins** | 8,000 | 5,000 |
+| **The LAGINATOR** | — | — |
+
+---
+
 ### Raid Görevleri (Raiding Quests)
 
-Satın alınabilir raid üslerini temizledikçe açılan görev zinciri:
+Satın alınabilir raid üslerini temizledikçe açılan görev zinciri (bkz. **[Baskın Rehberi](/wiki/tackling-raiding)**):
 
 | Görev | XP | RP |
 |---|---:|---:|
@@ -126,7 +138,7 @@ Satın alınabilir raid üslerini temizledikçe açılan görev zinciri:
 
 ### Bradley Görevleri
 
-Bradley tanklarını yok ettikçe tamamlanan zincir:
+Bradley tanklarını yok ettikçe tamamlanan zincir (bkz. **[Bradley ile Mücadele](/wiki/tackling-bradleys)**):
 
 | Görev | XP | RP |
 |---|---:|---:|
@@ -139,7 +151,7 @@ Bradley tanklarını yok ettikçe tamamlanan zincir:
 
 ### Devriye Helikopteri Görevleri
 
-Helikopter avladıkça açılan zincir:
+Helikopter avladıkça açılan zincir (bkz. **[Helikopter Rehberi](/wiki/tackling-helis)**):
 
 | Görev | XP | RP |
 |---|---:|---:|
@@ -153,7 +165,7 @@ Helikopter avladıkça açılan zincir:
 
 ### Zindan Görevleri (Dungeon Quests)
 
-Zindan temizledikçe devasa XP ve RP kazandıran zincir:
+Zindan temizledikçe devasa XP ve RP kazandıran zincir (bkz. **[Zindan Rehberi](/wiki/dungeon-guide)**):
 
 | Görev | XP | RP |
 |---|---:|---:|
@@ -182,7 +194,7 @@ Son görev tek seferde **500.000 XP** ve efsanevi Harbinger Boss kartı kazandı
 
 ### Derin Deniz (Deep Sea) Görevleri
 
-Kargo gemilerini temizleyerek tamamlanan zincir:
+Kargo gemilerini temizleyerek tamamlanan zincir (ayrıntılar için **[Deep Sea](/wiki/deep-sea)** sayfasına bakın):
 
 | Görev | XP | RP |
 |---|---:|---:|

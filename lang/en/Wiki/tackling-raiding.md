@@ -69,6 +69,10 @@ While clearing a raid:
 >
 > Raid bases are timed. If you don't finish them before the timer expires, the base will despawn.
 
+> 💡 **Instant Rebuy Tip**
+>
+> Once you have completely finished and looted a raid base, you do not have to wait for the remaining raid timer to count down. Use **`/rbe despawn`** to immediately despawn the finished base, allowing you to repurchase a new raid right away.
+
 ---
 
 ## Orbital Strike

@@ -59,6 +59,8 @@ Monument turları, maden seferleri ve üsten uzak maceralar için mükemmeldir.
 
 **`/locker`** komutu ile nerede olursanız olun anında bir dolap açın ve savaşın ortasında zırh/silah setinizi değiştirin!
 
+Artık taşınabilir dolap nodlar/dünyalar arasında sizinle birlikte sorunsuz bir şekilde aktarılır; böylece nerede ölürseniz ölün anında tekrar donanabilirsiniz (re-kit).
+
 ---
 
 ### 5 Second Teleport (5 Saniyelik Işınlanma)

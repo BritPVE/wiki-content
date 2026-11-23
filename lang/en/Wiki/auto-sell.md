@@ -34,7 +34,7 @@ Open the Shop using **`/s`**, navigate to the **Stock Market** tab, then click *
 
 ### Step 2 - Deposit Your Items
 
-Deposit the items you want to sell automatically.
+Deposit the items you want to sell automatically (such as HQM, Cloth, or server-sell items like Pies, Rich Pies, and Creamy Teas).
 
 These items become your available stock for Auto-Sell.
 

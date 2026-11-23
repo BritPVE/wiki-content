@@ -58,9 +58,9 @@ Perfect for monument runs, farming trips, and long sessions away from base.
 
 ### Portable Locker
 
-Summon a portable locker anywhere with **`/locker`** to hot-swap kits mid-fight.
+Summon a portable locker anywhere with **`/locker`** to hot-swap kits mid-fight or quickly re-kit on the go.
 
-Very useful during raids and PvE events.
+The portable locker seamlessly transfers with you between nodes, allowing you to re-kit on the go no matter where you died! Very useful during raids and PvE events.
 
 ---
 
