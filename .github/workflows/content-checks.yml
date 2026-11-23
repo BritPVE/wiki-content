@@ -1,0 +1,63 @@
+name: Content checks
+
+on:
+  pull_request_target:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+  pull-requests: write
+
+concurrency:
+  group: content-checks-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  content:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout checker
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.base.sha || github.sha }}
+          path: checker
+
+      - name: Checkout pull request
+        if: github.event_name == 'pull_request_target'
+        uses: actions/checkout@v4
+        with:
+          ref: refs/pull/${{ github.event.pull_request.number }}/merge
+          path: pr
+          persist-credentials: false
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Test checker
+        working-directory: checker
+        run: node --test scripts/content-check.test.mjs
+
+      - name: Check pages
+        id: check
+        working-directory: ${{ github.event_name == 'pull_request_target' && 'pr' || 'checker' }}
+        run: |
+          set +e
+          node "$GITHUB_WORKSPACE/checker/scripts/content-check.mjs" --report "$RUNNER_TEMP/content-check.md"
+          code=$?
+          echo "status=$code" >> "$GITHUB_OUTPUT"
+          exit 0
+
+      - name: Comment on the pull request
+        if: github.event_name == 'pull_request_target'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          REPORT: ${{ runner.temp }}/content-check.md
+        working-directory: checker
+        run: bash scripts/flag-pull-request.sh
+
+      - name: Fail when content checks fail
+        if: steps.check.outputs.status != '0'
+        run: exit 1
