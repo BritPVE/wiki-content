@@ -57,7 +57,7 @@ Aşağıdaki değerler yetenek ağacı konfigürasyonundan alınan eylem başın
 >
 > Tek bir **Quartermaster T4** görevi tam **100,000 XP** verir. Bir maden kırmak ise sadece **250 XP** verir. Yani o tek görev, tam 400 maden kırmaya eşdeğerdir!
 >
-> Bu yüzden eylem başına XP, görevi yaparken kazandığınız yan gelirdir; aktif bir görev almadan tek tek maden kırmak XP potansiyelinizin büyük kısmını çöpe atmaktır.
+> Bu yüzden eylem başına XP, görevi yaparken kazandığınız yan gelirdir; aktif bir görev almadan tek tek maden kırmak XP potansiyelinizin büyük kısmını çöpe atmaktır. Tüm görev kategorilerinin ödül listesi için **[Görevler](/wiki/quests)** sayfasına bakın.
 
 | Quartermaster Kademesi | XP Ödülü | RP Ödülü |
 |---|---:|---:|
@@ -125,7 +125,7 @@ Aşağıdaki değerler yetenek ağacı konfigürasyonundan alınan eylem başın
 
 ## Seviye Sıfırlanmaları & Prestij (Prestige)
 
-Seviyeler yaklaşık **her 6 ayda bir** sıfırlanır (**XP Wipe**). Harita sıfırlanmaları (Map Wipe) seviyenizi sıfırlamaz.
+Seviyeler yaklaşık **her 6 ayda bir** sıfırlanır (**XP Wipe**). Bir sonraki XP wipe tarihi **[Genel Bakış](/wiki/overview)** sayfasında ve Discord wipe-feed kanalında duyurulur. Harita sıfırlanmaları (Map Wipe) seviyenizi sıfırlamaz.
 
 Maksimum seviye olan **100**'e ulaştığınızda **Prestij (Prestige)** yapabilirsiniz. Prestij yapmak seviyenizi ve yeteneklerinizi sıfırlar ancak size kalıcı efsanevi avantajlar kazandırır. Maksimum prestij seviyesi **Pr10**'dur.
 
@@ -155,7 +155,7 @@ Verimliliği katlamak için uygun **[Efsanevi Aletleri](/wiki/legendary-tools)**
 > 💡 **Yemek Takviyeleri:**
 > - **Bangers and Mash:** +%100 Maden Verimi
 > - **Grilled Pork Kebab:** +%25 Odun Verimi
-> - Bu bufflar **Bear Pie** veya **Super Serum** ile de birleşebilir!
+> - Bu bufflar **Bear Pie** veya **Super Serum** ile de birleşebilir! Ayrıntılar için **[Yemek ve Besin Sistemi](/wiki/food-and-meal-system)** sayfasına göz atın.
 
 ---
 

@@ -1,72 +1,210 @@
-# Gelecek Güncellemeler (Upcoming Changes)
+# Gelecek Değişiklikler (Upcoming Changes)
 
-Bu sayfa, Town Hall toplantılarında geliştirici ekibi tarafından dile getirilen onaylanmış özellikleri, dengeleme planlarını ve yaşam kalitesi güncellemelerini özetler.
+Bu sayfa, geliştirici ekibin Town Hall toplantılarında tartıştığı özelliklerin, iyileştirmelerin, denge değişikliklerinin ve yaşam kalitesi (QoL) güncellemelerinin bir özetini içerir.
 
-Özellikler mevcut geliştirme durumlarına göre kategorize edilmiştir. Geliştirme planları değişebilir; bazı maddeler ertelenebilir veya iptal edilebilir.
+Tüm özellikler mevcut geliştirme durumlarına göre gruplandırılmıştır. Geliştirme planları değişebilir; bazı mekanikler yayınlanmadan önce ertelenebilir, değiştirilebilir veya tamamen iptal edilebilir.
+
+> 💡 **Not**
+>
+> Bu sayfadaki bilgiler, geliştiricilerin Town Hall toplantılarındaki açıklamalarına dayanmaktadır. Bu sayfa kesin bir yol haritası garantisi değildir.
 
 ---
 
-## 🚧 Aktif Geliştirme Aşamasında (In Development)
+## 🚧 Geliştirilmekte Olanlar (In Development)
 
-Geliştiricilerin şu anda üzerinde aktif olarak çalıştığı doğrulanan özellikler:
+Geliştirici ekip tarafından üzerinde aktif olarak çalışıldığı doğrulanmış özellikler:
 
 ### Yükseltilebilir Efsanevi Eşyalar (Upgradeable Legendaries)
-Efsanevi eşyaların zaman içinde geliştirilmesini ve güçlendirilmesini sağlayacak bir sistem planlanmaktadır.
 
-### Efsanevi Ekipman Genişlemesi
-Yeni efsanevi aletler, yeni silahlar, zırh parçaları, eklentiler ve efsanevi mermi türleri geliştirilmektedir. Amaç sadece hasarı artırmak değil, özelleşmiş farklı roller sunmaktır.
-
-### Huff-N-Puff Roketatar Dengelemesi
-Huff-N-Puff mevcut haliyle aşırı güçlü bulunmakta ve sunucu performansını zorlamaktadır. Kodunun yeniden yazılması ve dengelenmesi planlanmaktadır.
-
-### Cobalt Assault İyileştirmeleri
-Devriye Helikopteri tabanlı bu etkinlikte zorluk ayarları, tamir istasyonları, arayüz iyileştirmeleri ve eşya dayanıklılığı düzenlemeleri yapılmaktadır.
-
-### `/setgenes` Hata Düzeltmesi
-Çevrimdışıyken bekleme süresinin (cooldown) işlememesi sorunu bir hata olarak onaylandı ve düzeltilmektedir.
-
-### Başarım Arayüzü Düzenlemesi (Wipe Achievements)
-Aşamalı başarımların ödül vermiyor gibi görünmesini engelleyecek yeni ve net bir arayüz tasarlanmaktadır.
+Efsanevi eşyaların yükseltilmesi planlanmaktadır.
+Bu sistem, mevcut eşyaları sürekli daha güçlü versiyonlarıyla değiştirmek yerine, sahip olunan Efsanevi ekipmanın zaman içinde geliştirilmesini sağlamayı amaçlamaktadır. Kesin ilerleme mekaniği geliştirilmeye devam etmektedir.
 
 ---
 
-## 📋 Planlanan Özellikler (Planned)
+### Efsanevi Ekipman Yelpazesinin Genişletilmesi
 
-Toplantılarda tartışılan ve yol haritasında yer alan özellikler:
+Aşağıdakiler dahil olmak üzere yeni Efsanevi ekipmanlar planlanmaktadır:
+- Yeni Efsanevi aletler
+- Yeni Efsanevi silahlar
+- Yeni Efsanevi zırhlar
+- Özel amaçlı teçhizatlar ve zırh parçaları
+- Potansiyel Efsanevi silah eklentileri (attachments)
+- Potansiyel Efsanevi mühimmatlar
+Geliştirici ekip, sadece daha güçlü silahlar yaratmak yerine daha özel ve niş Efsanevi ekipmanlara yönelmeyi hedeflemektedir.
 
-- **Oyuncular Arası Güvenli Takas:** HUB alanında oyuncuların birbirleriyle güvenle takas yapabileceği ticaret pencereleri.
-- **Daha Fazla Yetenek Dalı:** İlerleyen süreçte Yetenek Ağacına eklenecek yeni uzmanlık dalları.
-- **Küresel Sıralama Tablosu (Global Leaderboard):** Tamamen sunucuya özel geliştirilecek merkezi sıralama sistemi.
-- **Özel Ekipmanlar:** Su altı nefes ekipmanları, özel gece görüş teçhizatları gibi durum bazlı ekipmanlar.
-- **Fırın & Ergitme İyileştirmeleri:** Normal ergitme kontrolcüsünün onarılarak geri getirilmesi.
-- **Daha Akıllı Air Drop Yönetimi:** Sunucu performansını yormadan birden fazla yardım sandığını yönetebilme çözümü.
-- **Oyun Süresine Bağlı XP Takviyeleri:** Oyunda geçirilen zamana bağlı olarak geçici kişisel XP çarpanları.
+---
+
+### Huff-N-Puff Yeniden Tasarımı (Rework)
+
+Huff-N-Puff aşırı güçlü kabul edilmekte ve ciddi performans ile denge sorunları yaratmaktadır. Kodun yeniden yazılması ve kapsamlı bir dengeleme planlanmıştır.
+
+---
+
+### Cobalt Assault İyileştirmeleri
+
+Cobalt Assault etkinliği aktif olarak dengelenmekte ve geliştirilmektedir.
+Planlanan iyileştirmeler:
+- Denge ve zorluk ayarlamaları
+- Daha iyi dayanıklılık (durability) yönetimi
+- Tamir istasyonları
+- Arayüz (UI) iyileştirmeleri
+- Etkinlik performansı ve oyuncu davranışlarının sürekli izlenmesi
+
+---
+
+### Setgenes İyileştirmeleri
+
+`/setgenes` bekleme süresi incelenmektedir. Oyuncu çevrimdışıyken sürenin ilerlememesi bir hata olarak onaylandı ve düzeltilmesi planlandı. Ayrıca bazı Yetenek Ağacı özelliklerine komutlarla erişim kolaylıkları da düşünülmektedir.
+
+---
+
+### Wipe Başarımı İyileştirmeleri (Wipe Achievements)
+
+Wipe Başarımları sistemi ve arayüzü revize edilmektedir. Mevcut arayüz, ara başarımların sanki ödül vermiyormuş gibi görünmesine yol açmaktadır (aslında büyük bir başarıma giden kontrol noktalarıdır). İlerleme ve ödülleri çok daha net gösterecek yeni bir arayüz tasarlanmaktadır.
+
+---
+
+### Wiki ve Bilgilendirme Sistemi
+
+Topluluk wikisi genişletilmeye ve sunucunun ana bilgi kaynağı olarak kullanılmaya devam edecektir. Geliştirici ekip ayrıca `/info` ve `/commands` gibi komutları güncelleyerek oyun içi bilgi erişimini de kolaylaştırmayı planlamaktadır.
+
+---
+
+## 📋 Planlananlar (Planned)
+
+Tartışılmış ve planlanmış ancak henüz tam olarak uygulanmamış özellikler:
+
+### Güvenli Oyuncu Takas Pencereleri (Player Trade Windows)
+
+Hub için oyuncular arası halka açık güvenli takas pencereleri planlanmaktadır. Bu özellik mevcut wipe döneminde eklenemeyecek olup, gelecekteki bir wipe için hedeflenmiştir.
+
+---
+
+### Daha Fazla Yetenek Ağacı Kategorisi
+
+Zamanla yeni uzmanlaşmış Yetenek Ağacı kategorileri eklenecektir. Araçlar (Vehicles) dalı şu anda diğer ağaçlarla aynı küresel puan havuzunu kullanmaktadır.
+
+---
+
+### Daha Fazla Hayatta Kalma & Savaş Görevi
+
+Ödüllendirici aktivite çeşitliliğini artırmak için ek hayatta kalma ve savaş görevleri tartışıldı. Ortak ilerleme sistemi sayesinde bunların XP'si de toplama görevleriyle aynı oyuncu seviyesini yükseltir.
+
+---
+
+### Küresel Liderlik Tabloları (Global Leaderboards)
+
+Özel bir küresel liderlik tablosu sistemi planlanmaktadır. Geliştirici ekip hazır eklentiler yerine bu sistemi sıfırdan kendi bünyesinde inşa etmeyi amaçlamaktadır.
+
+---
+
+### Gelişmiş Efsanevi Eşya Sistemleri
+
+Geliştirici ekip daha geniş bir Efsanevi ilerleme sistemi üzerinde çalışmaktadır. Bu, yükseltilebilir Efsanevileri ve daha niş ekipmanları içerir. Mevcut efsanevilerin zayıf kopyalarını üretmek hedeflenen yaklaşım değildir.
+
+---
+
+### Ekstra Özel Ekipmanlar
+
+Daha fazla özel amaçlı teçhizat planlanmaktadır:
+- Su altı nefes alma ekipmanları
+- Gece görüş cihazları
+- Efsanevi silah eklentileri
+- Diğer özel teçhizat parçaları
+
+---
+
+### Deep Sea İyileştirmeleri
+
+Deep Sea sisteminde bilinen zamanlayıcı ve etkinlik sunucusu kapanma sorunları araştırılmaktadır. Zamanlayıcı hatası tespit edildi ve düzeltilmesi planlandı.
+
+---
+
+### Fırın / Eritme İyileştirmeleri
+
+Mevcut fırın sistemi, normal eritme denetleyicisindeki sorunlar nedeniyle geçici bir ara çözüm kullanmaktadır. Sorun çözüldüğünde standart hızlı eritme kontrolcüsüne geri dönülecektir.
+
+---
+
+### Hızlı Air Drop Yönetimi
+
+Geliştiriciler birden fazla Air Drop'u yönetmenin daha iyi bir yolunu aramaktadır. Sınırsız airdrop çağrısı sunucu performansını düşürdüğü için bekleme süresi doğrudan kaldırılmayacak, farklı bir çözüm geliştirilecektir.
+
+---
+
+### XP Takviye Sistemleri (XP Boost)
+
+XP kazanımını artırmanın ek yolları düşünülmektedir. Tartışılan fikirlerden biri, oyuncunun sunucudaki aktif süresine (playtime) bağlı olarak geçici kişisel XP takviyeleri veren bir ödül sistemidir.
+
+---
+
+### Efsanevi Değerli Taş & Başarım Sistemleri
+
+Wipe Başarımı ödüllerinin, değerli taş (gem) sistemi aracılığıyla karaktere kalıcı ve anlamlı bonuslar (XP veya diğer geliştirmeler) sağlaması amaçlanmaktadır.
+
+---
+
+### AU Maden Dünyası (Mining World)
+
+Geliştirici ekip, Avustralya (AU) bölgesine özel bir Maden Dünyası eklemeyi değerlendirmektedir. Tartışılan olasılıklardan biri bir AU raid dünyasını Maden Dünyasına dönüştürmektir.
 
 ---
 
 ## 💡 Değerlendirme Aşamasında (Under Consideration)
 
-İlgi duyulan ancak kesinleşmemiş fikirler:
-- Oyuncuların kontrol edebileceği hayvan veya NPC doğurucuları (spawners)
-- Yeni Efsanevi yükseltme seçenekleri
-- Yeni radyo istasyonları
-- Menüleri kapatmak için daha ergonomik arayüz kontrolleri
-- Yeni topluluk etkinlikleri
+Geliştiriciler ve topluluk tarafından tartışılan ancak kesinleşmemiş fikirler:
+- Oyuncuların kontrol edebileceği hayvan veya NPC canavar üreticileri (mob spawners)
+- Ekstra uzmanlaşmış Yetenek Ağacı kategorileri
+- Daha fazla Efsanevi teçhizat ve silah eklentisi
+- Efsanevi mühimmatlar
+- Daha fazla Efsanevi yükseltme seçeneği
+- Daha fazla XP takviye sistemi
+- Ekstra Wipe Başarımı bonusları
+- Ek radyo istasyonları
+- Menüleri kapatmak için geliştirilmiş UI kontrolleri
+- Ekstra topluluk etkinlikleri
+- Genişletilmiş özel ekipman serileri
 
 ---
 
-## ❌ Planlanmayan / Reddedilen Fikirler
+## ❌ Planlanmayanlar / Reddedilenler (Not Planned / Rejected)
 
-Kesin olarak reddedilen veya uygulanması düşünülmeyen öneriler:
+Açıkça reddedilen veya şu anda planlanmayan öneriler:
 
-- **Aylık Sıfırlanma (Monthly Wipes):** Sunucu uzun süreli XP sezonu modelinde kalmaya devam edecektir.
-- **Tek Kişilik (Solo) Operasyonlar:** Operasyonlar grup içeriği olarak kalacaktır.
-- **Efsanevi Eşya Takası (NPC):** Eski efsanevileri verip doğrudan başka bir efsanevi alma sistemi düşünülmemektedir.
-- **Efsanevilere Skin Basılması:** Takas güvenliği nedeniyle efsanevilerin görünümünün değiştirilmesi desteklenmemektedir.
-- **Sonsuz Dayanıklılık:** Efsanevi eşyaların kalıcı olarak kırılmaz olması planlanmamaktadır; ancak yıpranma oranları hafifletilecektir.
+### Aylık Sıfırlanmalar (Monthly Wipes)
+Aylık sıfırlanma planlanmamaktadır. Geliştirici ekip mevcut uzun XP döngüsünden aylık döngüye geçmeyi düşünmemektedir.
+
+---
+
+### Solo Operasyonlar
+Operasyonlar tamamen grup tabanlı içerik olarak tasarlanmıştır. Solo bir sürüm planlanmamaktadır.
+
+---
+
+### Efsanevi Eşya Takası (Legendary Trading)
+Bir Efsanevi eşyayı doğrudan bir başka Efsanevi eşya ile takas etme mekaniği planlanmamaktadır.
+
+---
+
+### Efsanevileri Daha İyi Efsanevilere Dönüştürme
+Geliştirici ekip, çok sayıda eski Efsanevi eşyanın birleştirilerek daha güçlü bir Efsaneviye dönüştürülmesine izin vermeyi planlamamaktadır. Bunun yerine yükseltilebilir sistemler geliştirilmektedir.
+
+---
+
+### Efsanevi Kaplamalar (Skins)
+Efsanevi eşyaların kaplamalarını değiştirme izni şu anda planlanmamaktadır. Bunun temel nedeni, ticaret sırasında oyuncuların eşyaları net bir şekilde tanıyamama riskidir.
+
+---
+
+### Sonsuz Dayanıklılık (Infinite Durability)
+Sonsuz dayanıklılık kalıcı bir mekanik olarak kalmayacaktır. Efsanevi ekipmanların değerli kalması ancak yine de bakım ve onarım gerektirmesi hedeflenmektedir.
 
 ---
 
 ## 📌 Geliştirme Felsefesi
 
-Brits PvE Dünyaları, tamamen sunucuya özel yazılmış sistemlere ve uzun vadeli karakter gelişimine odaklanmaktadır. Sistemler topluluktan gelen yapıcı geri bildirimler ve toplanan oyun verileri doğrultusunda şekillenmeye devam edecektir.
+Brits PvE Worlds, daha fazla özel sisteme ve uzun vadeli ilerlemeye doğru ilerlemeye devam etmektedir.
+
+V2 Yetenek Ağacı, oyuncuları sabit bir yola zorlamak yerine istedikleri alanda uzmanlaşma özgürlüğü tanımak üzere özel olarak tasarlanmıştır.
+
+Geliştirici ekip topluluk geri bildirimlerini ve oyun içi verileri topladıkça yeni sistemler zamanla tanıtılacak ve iyileştirilecektir.
