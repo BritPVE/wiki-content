@@ -42,9 +42,19 @@ jobs:
       - name: Check pages
         id: check
         working-directory: ${{ github.event_name == 'pull_request_target' && 'pr' || 'checker' }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          EVENT_NAME: ${{ github.event_name }}
         run: |
+          args=()
+          if [ "$EVENT_NAME" = "pull_request_target" ]; then
+            gh api --paginate "repos/${GITHUB_REPOSITORY}/pulls/${PR_NUMBER}/files" \
+              --jq '.[] | select(.status != "removed") | .filename' > "$RUNNER_TEMP/changed.txt"
+            args+=(--files "$RUNNER_TEMP/changed.txt")
+          fi
           set +e
-          node "$GITHUB_WORKSPACE/checker/scripts/content-check.mjs" --report "$RUNNER_TEMP/content-check.md"
+          node "$GITHUB_WORKSPACE/checker/scripts/content-check.mjs" --report "$RUNNER_TEMP/content-check.md" "${args[@]}"
           code=$?
           echo "status=$code" >> "$GITHUB_OUTPUT"
           exit 0

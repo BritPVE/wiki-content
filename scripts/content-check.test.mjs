@@ -4,7 +4,7 @@ import os from "node:os";
 import path from "node:path";
 import test from "node:test";
 import { fileURLToPath } from "node:url";
-import { checkContent, reviewBody } from "./content-check.mjs";
+import { checkContent, limitToFiles, reviewBody } from "./content-check.mjs";
 
 const repoRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -235,6 +235,16 @@ test("review comment lists warnings for the pull request", () => {
   assert.match(body, /<!-- content-checks -->/);
   assert.match(body, /`lang\/tr\/Wiki\/quests\.md` line 1: Translation is missing wiki links/);
   assert.equal(reviewBody({ errors: [], warnings: [] }), "");
+});
+
+test("a pull request only reports files it changes", () => {
+  const result = {
+    errors: [{ severity: "error", file: "lang/en/Wiki/skills.md", line: 4, message: "Image file is missing: assets/nope.png" }],
+    warnings: [{ severity: "warning", file: "lang/tr/Wiki/quests.md", line: 1, message: "Translation is much shorter than English (10 words vs 100)." }],
+  };
+  const limited = limitToFiles(result, ["lang/en/Wiki/skills.md"]);
+  assert.equal(limited.errors.length, 1);
+  assert.deepEqual(limited.warnings, []);
 });
 
 test("current wiki content passes", () => {

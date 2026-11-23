@@ -893,6 +893,22 @@ export function reportFindings(result) {
   console.log(`${result.errors.length} error(s), ${result.warnings.length} warning(s).`);
 }
 
+export function limitToFiles(result, files) {
+  const changed = new Set(files.map((file) => file.replace(/\\/g, "/").trim()).filter(Boolean));
+  const keep = (finding) => {
+    const file = String(finding.file || "").replace(/\\/g, "/");
+    if (changed.has(file)) return true;
+    for (const changedFile of changed) {
+      if (changedFile.startsWith(`${file}/`)) return true;
+    }
+    return false;
+  };
+  return {
+    errors: result.errors.filter(keep),
+    warnings: result.warnings.filter(keep),
+  };
+}
+
 export function reviewBody(result) {
   const findings = [...result.errors, ...result.warnings];
   if (findings.length === 0) return "";
@@ -913,16 +929,21 @@ function isDirectRun() {
   return entry === fileURLToPath(import.meta.url);
 }
 
-function reportFilePath() {
-  const index = process.argv.indexOf("--report");
-  if (index === -1) return "";
+function optionValue(flag) {
+  const index = process.argv.indexOf(flag);
+  if (index === -1) return null;
   return process.argv[index + 1] || "";
 }
 
 if (isDirectRun()) {
-  const result = checkContent(process.cwd());
+  let result = checkContent(process.cwd());
+  const filesPath = optionValue("--files");
+  if (filesPath !== null) {
+    const files = filesPath ? fs.readFileSync(filesPath, "utf8").split(/\r?\n/) : [];
+    result = limitToFiles(result, files);
+  }
   reportFindings(result);
-  const reportPath = reportFilePath();
+  const reportPath = optionValue("--report");
   if (reportPath) fs.writeFileSync(reportPath, reviewBody(result));
   if (result.errors.length > 0) process.exitCode = 1;
 }
