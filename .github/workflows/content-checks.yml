@@ -23,13 +23,20 @@ jobs:
           ref: ${{ github.event.pull_request.base.sha || github.sha }}
           path: checker
 
-      - name: Checkout pull request
+      - name: Download pull request files
         if: github.event_name == 'pull_request_target'
-        uses: actions/checkout@v4
-        with:
-          ref: refs/pull/${{ github.event.pull_request.number }}/merge
-          path: pr
-          persist-credentials: false
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          curl -sS -f -L \
+            -H "Authorization: Bearer ${GH_TOKEN}" \
+            -H "Accept: application/vnd.github+json" \
+            -o "$RUNNER_TEMP/pr.zip" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/zipball/refs/pull/${PR_NUMBER}/merge"
+          unzip -q "$RUNNER_TEMP/pr.zip" -d "$RUNNER_TEMP/pr-zip"
+          extracted=$(find "$RUNNER_TEMP/pr-zip" -mindepth 1 -maxdepth 1 -type d -print -quit)
+          mv "$extracted" "$GITHUB_WORKSPACE/pr"
 
       - uses: actions/setup-node@v4
         with:
