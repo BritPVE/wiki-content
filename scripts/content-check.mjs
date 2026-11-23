@@ -893,13 +893,36 @@ export function reportFindings(result) {
   console.log(`${result.errors.length} error(s), ${result.warnings.length} warning(s).`);
 }
 
+export function reviewBody(result) {
+  const findings = [...result.errors, ...result.warnings];
+  if (findings.length === 0) return "";
+  const lines = [
+    "<!-- content-checks -->",
+    "Please review these content check results:",
+    "",
+  ];
+  for (const finding of findings) {
+    const label = finding.severity === "error" ? "Error" : "Warning";
+    lines.push(`- **${label}** \`${finding.file}\` line ${finding.line}: ${finding.message}`);
+  }
+  return `${lines.join("\n")}\n`;
+}
+
 function isDirectRun() {
   const entry = process.argv[1] ? path.resolve(process.argv[1]) : "";
   return entry === fileURLToPath(import.meta.url);
 }
 
+function reportFilePath() {
+  const index = process.argv.indexOf("--report");
+  if (index === -1) return "";
+  return process.argv[index + 1] || "";
+}
+
 if (isDirectRun()) {
   const result = checkContent(process.cwd());
   reportFindings(result);
+  const reportPath = reportFilePath();
+  if (reportPath) fs.writeFileSync(reportPath, reviewBody(result));
   if (result.errors.length > 0) process.exitCode = 1;
 }

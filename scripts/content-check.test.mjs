@@ -4,7 +4,7 @@ import os from "node:os";
 import path from "node:path";
 import test from "node:test";
 import { fileURLToPath } from "node:url";
-import { checkContent } from "./content-check.mjs";
+import { checkContent, reviewBody } from "./content-check.mjs";
 
 const repoRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -225,6 +225,16 @@ Le minage est de 25%. La vitesse est de 35%. La durabilité est de 15%. La chanc
   });
   const result = checkContent(root);
   assert.deepEqual(result.errors, []);
+});
+
+test("review comment lists warnings for the pull request", () => {
+  const body = reviewBody({
+    errors: [],
+    warnings: [{ severity: "warning", file: "lang/tr/Wiki/quests.md", line: 1, message: "Translation is missing wiki links: /wiki/quests." }],
+  });
+  assert.match(body, /<!-- content-checks -->/);
+  assert.match(body, /`lang\/tr\/Wiki\/quests\.md` line 1: Translation is missing wiki links/);
+  assert.equal(reviewBody({ errors: [], warnings: [] }), "");
 });
 
 test("current wiki content passes", () => {
